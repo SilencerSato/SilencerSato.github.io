@@ -1,0 +1,860 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.2.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/fish_32px_1289440_easyicon.net.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/fish_16px_1289440_easyicon.net.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-minimal.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="warning：    &gt;&amp;nbsp;现实向，不分左右  &gt;&amp;nbsp;从少年时候开始一直到现在的整理和想象  &gt;&amp;nbsp;先默念三声：这是延伸脑补，这是延伸脑补，这是延伸脑补  &gt;&amp;nbsp;更新不定，前文：（1）、（2）&amp;nbsp;、（3）、（4）、（5）、（6）、（7）、（8）、（9）、（10）、（11）、（12）  &gt;&amp;nbsp;补个归档：归档  &gt;">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【润智润】偶发空缺（13）">
+<meta property="og:url" content="http://example.com/1d7a8b0f_ef1df0fd">
+<meta property="og:site_name" content="渔船停泊处">
+<meta property="og:description" content="warning：    &gt;&amp;nbsp;现实向，不分左右  &gt;&amp;nbsp;从少年时候开始一直到现在的整理和想象  &gt;&amp;nbsp;先默念三声：这是延伸脑补，这是延伸脑补，这是延伸脑补  &gt;&amp;nbsp;更新不定，前文：（1）、（2）&amp;nbsp;、（3）、（4）、（5）、（6）、（7）、（8）、（9）、（10）、（11）、（12）  &gt;&amp;nbsp;补个归档：归档  &gt;">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2018-08-05T03:40:25.000Z">
+<meta property="article:modified_time" content="2018-08-05T03:40:25.000Z">
+<meta property="article:author" content="想变成一条鱼">
+<meta property="article:tag" content="润智">
+<meta property="article:tag" content="润智润">
+<meta property="article:tag" content="偶发">
+<meta property="article:tag" content="智润">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://example.com/1d7a8b0f_ef1df0fd">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>【润智润】偶发空缺（13） | 渔船停泊处</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">渔船停泊处</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">一个小型露营地</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/1d7a8b0f_ef1df0fd">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/bloghead.jpg">
+      <meta itemprop="name" content="想变成一条鱼">
+      <meta itemprop="description" content="想变成一条鱼的永久分矿">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="渔船停泊处">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【润智润】偶发空缺（13）
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2018-08-05 11:40:25" itemprop="dateCreated datePublished" datetime="2018-08-05T11:40:25+08:00">2018-08-05</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Text/" itemprop="url" rel="index"><span itemprop="name">Text</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p>warning：</p> 
+<p><br /></p> 
+<p>&gt;&nbsp;现实向，不分左右</p> 
+<p>&gt;&nbsp;从少年时候开始一直到现在的整理和想象</p> 
+<p>&gt;&nbsp;先默念三声：<strong>这是延伸脑补，这是延伸脑补，这是延伸脑补</strong></p> 
+<p>&gt;&nbsp;更新不定，前文：<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_12c5166e"  >（1）</a>、<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_12cb0ab9"  >（2）</a>&nbsp;、<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_12dc8ba3"  >（3）</a>、<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_12e14903"  >（4）</a>、<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_12e6c26d"  >（5）</a>、<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_ee965bfe"  >（6）</a>、<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_ee9c83a6"  >（7）</a>、<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_eea831e7"  >（8）</a>、<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_eeb0e7ac"  >（9）</a>、<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_eebe007e"  >（10）</a>、<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_eecef988"  >（11）</a>、<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_eefe840a"  >（12）</a></p> 
+<p>&gt;&nbsp;补个归档：<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_8ffefbf"  >归档</a></p> 
+<p>&gt; ooc</p> 
+<p><br /></p> 
+<p>----------------------------------</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>困意这种东西，往往很奇妙。</p> 
+<p>不知道它是受什么控制，希望它能够快速降临的时候，它越是矜持地躲在夜神的袍子下面，任你睁着眼睛数着一跳一跳变化的秒数到了需要打起精神工作的白天，都不会露出一个角。</p> 
+<p>有的时候不希望它那么快到来，反而会如同三伏天的热浪一样扑面而来，比如工作的时候、学习和上课的时候。</p> 
+<p>再比如现在，和恋人难得地依偎在一起的时候。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本润渐渐觉得自己有点睁不开眼睛了，他感受着大野智在身边的有些热烘烘的体温，本来没有一丁点的困意铺天盖地的袭来。</p> 
+<p>索性就这样睡了算了。</p> 
+<p>他这样想着，安心地闭上了眼睛，手臂环着大野，稍微紧了紧。</p> 
+<p><br /></p> 
+<p>接着松本就睁开眼了。</p> 
+<p><br /></p> 
+<p>大野智的手悉悉索索地在松本的手臂和腰上抓着，像是在海中的人抓着浮木一样，无意识地轻轻乱抓乱挠着，把快要睡着的松本弄清醒了。</p> 
+<p>“……智？”</p> 
+<p>松本稍微抬起了头瞥了一眼身边的大野，无奈地说：“……困了就去睡，不要乱摸人啦……”</p> 
+<p>大野“唔”了一声，挣扎着坐起来，弯弯的下垂眼显得更加可怜兮兮，没什么过多表情的脸现在似乎在写着一个“无”字。</p> 
+<p>“……舍不得睡……”</p> 
+<p>大野小声说着，手又不安分地摸上了松本的膝盖，叹了口气。</p> 
+<p>“睡嘛，我也困了，”松本也跟着坐起来，环住大野的腰，“啊……想睡。”</p> 
+<p>“松润也是吧，好不容易都有空闲，舍不得就这么睡觉去……”</p> 
+<p>松本在大野不由自主撅起来的嘴上亲了一口，笑得眉眼弯弯，温柔可以化成水从他眼睛里流淌出来一样。</p> 
+<p><br /></p> 
+<p>“又不是再也见不到了，走，去睡觉。”</p> 
+<p>大野移开眼神，躲闪着松本的视线：“嗯。”</p> 
+<p>“喂，看着我啦……”松本伸手托住大野的脸，硬是把大野的脸扭了过来，“干嘛不看我。”</p> 
+<p>“……不行，我不能看你，”大野苦着脸说，“我现在脑子不清楚，万一不小心做了点什么，明天还不想死死瘫在床上。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本愣了一瞬，接着了然地“哦——”了一声。</p> 
+<p>“诶？智真的色。”</p> 
+<p>“哼。”</p> 
+<p>大野被站起来的松本半是拖着半是抱着地挪到了卧室。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>####################&nbsp;&nbsp;</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本润很想打开大野智的脑袋看看里面到底装了什么东西。</p> 
+<p>除去不同于常人的看待世界的方法、发呆时候的思考、作画和作品中的见解和想法，松本还想知道大野对自己到底是怎么看的。</p> 
+<p><br /></p> 
+<p>虽然松本很早就这么想了，但最近尤其好奇。</p> 
+<p>一切源于在十周年演唱会期间和之后，大野的态度变化。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野智不管对谁，哪怕是路过的毫不相干的陌生人，都很温柔。</p> 
+<p>这种温柔带有一定的距离，你能感受到他的真诚和率直，但与此同时也能感受到大野那种特有的距离感，好像他只是路过这条时间线，对你施以援手和宽慰，然后下一秒就会回到原来的时间线一样。</p> 
+<p><br /></p> 
+<p>“仙人一样。”</p> 
+<p>这是成员说起他时候的形容。</p> 
+<p>大野从经纪人的保姆车里偶然听到之后，不由得失笑。</p> 
+<p>“笑什么，我也这么觉得啊。”开车的经纪人说。</p> 
+<p>“……不，我就是个凡人，连star都算不上，”大野戳着手机，一边说，“而且……”</p> 
+<p>“而且还是很恶劣的那种对吧。”经纪人补上了后半句。</p> 
+<p>“嗯？我还好吧，我对你不错啊？”大野很懵。</p> 
+<p>经纪人在红灯的路口停下车，瞥了一眼后视镜：“你摸着良心说说你对松本さん还不够恶劣的吗？”</p> 
+<p>“我那是想明白了，勇于面对自己的心。”大野“啪”的一声合上手机，嘟囔道。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>相叶雅纪的剧主打歌的pv拍摄时候，导演这次写了个简答的本子，给组合的五个成员看了。</p> 
+<p>这次的设定新奇又富有温情，把五个性格各异的人冠上了“舞架”的姓，按照年龄顺序排了一二三四五郎，他们要从以前的家搬到新的家，就这么一个简单的场景。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>在五个人排成一排一起摄制合唱部分时候，彩排途中大野有点记错词，他正好站在松本旁边，对口型对得有点坑坑巴巴。</p> 
+<p>把头发梳成高高隆起的偏分的松本一直在旁边盯着大野的侧脸看，彩排的时候故意弯下腰直视着大野的眼睛，笑着看他出错。</p> 
+<p>大野被盯得刚刚记好的歌词又一瞬间忘了，松本的捣乱计划成功得让他自己都有点没想到，大笑着拍了大野的头一下。</p> 
+<p><br /></p> 
+<p>今天松本和大野的心情好像很好，他们在化妆间就开始和录制making的摄影玩了起来，发型师还在鼓捣他们头发的时候，浓颜的松本故意朝坐在旁边的大野瞪了过去，成功换了大野一个瞪回来的眼神。</p> 
+<p>大野眼睛刚好画了眼线，本来就线条好看的眼睛在眼线的加强下更加轮廓分明，显得凌厉了一些。这一瞪让松本一下有点怀念，他停了一下，接着瞪了摄影机一眼。</p> 
+<p><br /></p> 
+<p>你怎么还在这儿。</p> 
+<p><br /></p> 
+<p>松本的眼神包含了这个信息，摄影师强撑着把摄影机挪到了大野那边，结果大野还回了一下头，眼睛瞪地都要比化妆镜上的灯还大。</p> 
+<p><br /></p> 
+<p>是啊，你怎么还在这儿。</p> 
+<p><br /></p> 
+<p>摄影师把摄像机放下，鞠了个躬道谢然后赶紧去拍别人了。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“……诶感觉这样很有意思啊，”樱井在休息室里开玩笑说，“等什么时候我们一起买个房子这样住吧？”</p> 
+<p>“不要。”</p> 
+<p>“不要。”</p> 
+<p>松本和大野异口同声地第一时间否定了樱井的玩笑，两人同时愣了一下。</p> 
+<p>“我也不要，”二宫低着头出声，“翔ちゃん房间一定很乱，而且工作见到够多了，一起住天天见谁知道会发生什么。”</p> 
+<p>“喂，你们几个，我就是开个玩笑啊……”樱井向拍戏有些累，坐在旁边出神不做声的相叶投去了求助的目光，“Masaki怎么看？”</p> 
+<p>“啊？”相叶回过神，“还是不了，要不然一屋子五个男人估计每天都要喝酒。”</p> 
+<p>“说得好像你平时不是每天喝酒一样，”樱井赶紧抓住一点来吐槽，“兄さん不是每晚都要回家喝两杯吗？”</p> 
+<p>“真的吗？”松本问。</p> 
+<p>“啊……睡前喝点睡得更好啊。”大野理直气壮。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>拍完pv，几个人分拨坐上了回家的保姆车。</p> 
+<p>松本难得没有开自己的车来，他知道如果大野要回家一定是要坐车回，那么自己正好可以和大野一起回家。</p> 
+<p>这点小私心简直明显得要命，松本一坐到车上来，大野就一副高深的样子，第一句话就让松本不知所措。</p> 
+<p><br /></p> 
+<p>“……这次我的膝盖也可以借给你哦。”</p> 
+<p>松本关车门的动作迟缓了一瞬，他僵硬地回头看了一眼大野。</p> 
+<p>“不过松润躺在我膝盖上睡着的样子真的可爱呐~”大野仿佛没有看到松本有些困扰的样子，还继续说着。</p> 
+<p>“……你不是已经在杂志访谈上说过了吗……”松本很无语，叹了口气，然后关上了车门。</p> 
+<p><br /></p> 
+<p>“明年是不是又有一部剧要接？”松本坐在大野的身边，隔了些地方，像是在躲避什么似的找了个话题。</p> 
+<p>大野点点头：“嗯。”</p> 
+<p>“漫改？”</p> 
+<p>“是啊……感觉好难。”</p> 
+<p>“那就快变白点，”松本说，“还有晚上不要每天喝酒了，第二天起来容易累。”</p> 
+<p>大野沉默了。</p> 
+<p>松本赶紧说：“不是说给你提意见……就是……”</p> 
+<p><br /></p> 
+<p>“我觉得，”大野缓缓开口，他的声音很轻，松本不得不凑近一些才能听到，“松润真的好可爱啊。”</p> 
+<p>“……啊？”</p> 
+<p>松本一时语塞，他皱起了眉毛，一脸“你到底在说什么”的样子。</p> 
+<p>“啊，我到了。”大野抓起了自己的小包，打开车门前，冲松本笑了笑。</p> 
+<p>“谢谢，我会的。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>他们在自己出道十年之后，终于站上了红白歌会的舞台。</p> 
+<p>在后台和各种前辈一个一个打招呼的时候，松本摸摸已经笑得有点肌肉酸痛的脸，突然涌上来了一阵复杂的感情。包含欣喜和心酸在内的五味陈杂。</p> 
+<p><br /></p> 
+<p>他们五个花了比其他组合更长的时间才站上了巨蛋和红白的舞台，才能够踏进国立，才能成为日本旅游宣传大使，这些过去的时间和跌跌撞撞，以及一路走来过程中的尝试、努力和中伤、彷徨，都组成了现在的他们。过去锋利的，现在已经变得圆润，过去轻松的，现在已经变得强硬。</p> 
+<p>也不知道是好是坏。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>在休息室等待时候，胡思乱想的松本不由自主地看向了大野，正好也和看过来的大野视线相撞。</p> 
+<p><br /></p> 
+<p>他们身上穿着的演出服简单又不失华丽，尤其是松本，似乎只要是他的演出服都会变得闪亮闪亮，看起来攻击性十足。</p> 
+<p>大野觉得这些根本不是松本的东西。</p> 
+<p>时髦和华丽，但本质上，松本还是那个躺在他膝盖上、安静抱住他腰补眠的男孩子，也是那个因为一些琐事而变得脾气不好可实际原因是压力太大的男孩子。</p> 
+<p><br /></p> 
+<p>他和松本的视线短暂地触碰了一下，接着心照不宣地移开了。</p> 
+<p>他们似乎都从对方的眼神里看到了某种类似的东西。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本结束了跨年夜的工作，紧赶慢赶回了实家之后，正打算泡个澡赶紧睡一觉，手机突然震了一下。</p> 
+<p>列表里躺了许多人的新年祝福短信，他打开手机之后一眼就看到了最顶上刚刚发来的短信，是来自大野的。</p> 
+<p><br /></p> 
+<p>「新年快乐！过去的十年辛苦了，接下来也请松润多多关照！」</p> 
+<p>又有心形符号啊……</p> 
+<p>松本和妈妈说了一声，拎着手机就去泡澡了。</p> 
+<p>他坐在浴缸里，拿着手机回完祝福之后，犹豫了一下，给大野的回复里也加了一个心。</p> 
+<p>松本翻了翻大野以前给他发的短信，基本每条都有一个心形符号，就算没有，第二天也会补上一个。</p> 
+<p><br /></p> 
+<p>他会给其他人也发心形符号吗？</p> 
+<p>还是只有我一个？</p> 
+<p>大野他现在在做什么？</p> 
+<p>应该也回家了吧，还不睡吗？</p> 
+<p>他的家人有没有在等他？应该也在等着他回家吧……</p> 
+<p>新的一年啊……</p> 
+<p><br /></p> 
+<p>松本把手机合上，放在了浴缸旁边的台子上，然后闭着眼睛躺的深了一些，让自己的身体全部都浸在了水里。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野给松本发短信的时候，还在回家的路上。</p> 
+<p><br /></p> 
+<p>他今年打算和父母说一声搬出来，方便工作，也方便画画。</p> 
+<p>毕竟自己经常半夜三更地回来，妈妈一直亮着灯等也不是个事儿。</p> 
+<p>手机一震，大野低头看了一眼，松本回复得公事公办的，但是最后，空了几行，有个心形的符号。</p> 
+<p><br /></p> 
+<p>大野顿时笑出了声，他能想象到松本在认真回复每一条短信的时候面无表情，但回复自己这条时候，纠结起来的眉毛和犹犹豫豫着加了个符号的样子。</p> 
+<p>真是可爱。</p> 
+<p>一直以来不管是兴高采烈时候干脆利落的心形，还是这样躲闪游移着加上的心形，都让大野觉得这个比自己小三岁的男人可爱得要命。</p> 
+<p><br /></p> 
+<p>不管过了多长的时间，不管自己怎么按捺这种感情，都会被某个瞬间打破。</p> 
+<p>大野看着窗外安静的、只有街灯闪烁的道路，眼神温暖又悠远。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野智为了怪物小王子这部剧，努力忍着不去钓鱼，把自己保护得白白嫩嫩的，看起来好像又小了好多岁。</p> 
+<p>他留长了的头发在脖子后面打了几个弯，看起来特别像那种不好好梳头发、偏偏要留头发假装不良的小学生。</p> 
+<p>松本润一直录下来一集不落地看着，虽然有点子供向的意思，但无奈大野太可爱、演技太好，让他这个本来就喜欢漫画和毛茸茸玩具以及特摄等等的人喜欢得不得了。</p> 
+<p>他偷偷和经纪人提了一句，下季他有新剧的拍摄，加上这两年的客串接档的规矩，想在大野的剧集里客串一下。</p> 
+<p>他想亲眼看看大野化特效妆时候的样子。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“……leader，你看了J最近的那个访谈吗？”二宫和大野在电视台的吸烟室里突然没头没尾地闲聊道。</p> 
+<p>“啊？”大野愣了一下，“没啊，怎么了？”</p> 
+<p>“J说月圆之夜想要你哦。”二宫笑得很狡猾。</p> 
+<p>大野瞪大眼睛：“哈？”</p> 
+<p>“‘月圆之夜……会变得想要大野くん’。”二宫故意把这句说得别有意味，让大野的耳尖有点红。</p> 
+<p>“肯定不是那个意思啦fufufu……”</p> 
+<p>“说起来，”二宫吐出一口烟，变得认真了一些，“J有次找我喝酒。”</p> 
+<p>“嗯。”</p> 
+<p>“说起你的事情，”他用手肘戳了戳大野，“你到底对J怎么想的？”</p> 
+<p>“……喜欢啊。”大野倒是没什么心理负担地就和二宫说了。</p> 
+<p>“那你怎么还不让J知道，”二宫头疼，“他那段时间天天给我打电话，问leader到底是什么意思blabla的。”</p> 
+<p>大野点了点头：“喔，我知道了。”</p> 
+<p>“知道就好……”</p> 
+<p>“但是不觉得他这样很可爱吗？”大野说完，把烟按灭，起身回休息室了。</p> 
+<p><br /></p> 
+<p>二宫留在吸烟室里，目瞪口呆。</p> 
+<p>“……靠。”</p> 
+<p>他骂了一句，翻了个白眼，也掐灭了烟，跟着回了休息室。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>这期节目录完，松本整个人都有点抖。</p> 
+<p><br /></p> 
+<p>“……那润くん来说粉球。”</p> 
+<p>“最喜欢润くん了。”</p> 
+<p>松本的疑问和震惊表情完全是真的，根本不是为了节目效果做的。他瞪大眼睛，张开嘴，只能发出“诶”的疑问声。可大野没有什么解释，在节目里其他时候也都是和平时一样，抛接梗、发呆，根本不像是故意这么说的样子。</p> 
+<p>他的疑惑太大，导致松本在节目一录完就拉着还在状况外的大野走到了这个时候没有人的休息室里，还落了锁。</p> 
+<p><br /></p> 
+<p>“……什么意思？”松本焦躁地问，“为什么要在节目里那么说？”</p> 
+<p>大野也只是懵了一瞬间，松本问完这些大野就明白他干嘛要这么着急地拉自己走。但就在大野开口打算回答时候，松本又打断了他。</p> 
+<p>“我知道你在节目里经常乱表白，我也没当真，但是你那个样子……”</p> 
+<p>“为什么不当真呢？”大野很平静地从松本语无伦次的话里插了句嘴，“松润就这么对自己没自信吗？”</p> 
+<p><br /></p> 
+<p>松本看着猫着背站在对面的大野，房间里光线没有那么强烈，大野的脸显得有种莫名的郁结感。</p> 
+<p>他听到自己的心跳声，胸口左上角的心脏收缩得用力，血液在全身飞快地流窜，而它膨胀得又是那么的强烈，以至于松本觉得自己的左肋一阵酸痛。</p> 
+<p>松本什么都没有想，他的身体不由自主地动了起来，伸手搂住了离自己一步多一点的大野，然后另一只手颤抖着捏住了他的下巴。</p> 
+<p><br /></p> 
+<p>大野也没有想到松本会突然过来吻住自己，他下意识地发出一声“松……”，结果就被正好借了这个机会的松本侵占了自己的口腔。</p> 
+<p><br /></p> 
+<p>松本就像久旱逢甘霖的旅人一样，从双唇贴近的一刻开始，就想要渴求更多。他想了太长时间，每当他看到大野的嘴唇时，都会想象现在这一瞬。</p> 
+<p>他的嘴唇湿润，唇形又好看，有的时候会不自觉地嘟起来，舌头还会探出来舔舔。</p> 
+<p>而现在，自己正在侵袭着大野的唇舌。</p> 
+<p><br /></p> 
+<p>大野从一开始的惊吓变得开始享受这个突如其来没有一丁点征兆的吻，他开始迎合并且引导着被一时的狂喜冲昏头脑的松本，也和他缠络了起来。</p> 
+<p>唇角、上颚、牙齿、舌尖，气温越来越高，他们逐渐分不清是谁的舌尖、谁的齿尖划过谁的嘴唇，空着的休息室里只有越来越重的呼吸和大野时不时的轻哼。</p> 
+<p><br /></p> 
+<p>不行了，要停不下来了。</p> 
+<p>大野昏昏沉沉地想。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“砰砰砰”。</p> 
+<p>有人敲门。</p> 
+<p>“请问里面有人吗？”</p> 
+<p>松本如梦初醒一样地停了下来，他愣怔着缓慢地离开了大野，好看的眼睛像是黏在了大野脸上一样，垂下来的眼睫毛投下一个扇形的阴影。</p> 
+<p>在松本放开的时候，大野还有点沉迷在那个吻里，微张着嘴，舌尖探出来，眼睛里蒙上了一点水汽。</p> 
+<p><br /></p> 
+<p>一个听起来像是电视台staff的人又敲了敲门，见没人回应，疑惑地嘟囔“怎么可能锁着呢”离开了。</p> 
+<p><br /></p> 
+<p>松本后退了一步，捂着自己的嘴，眼睛不知道往哪儿看。</p> 
+<p>“……我先走了。”</p> 
+<p>他有些跌撞得打开门，然后忙不迭地离开了。</p> 
+<p><br /></p> 
+<p>留在房间里的大野，抬起手，用指尖摸了摸似乎还残留着热气的自己的嘴唇。</p> 
+<p>“我之前都干了什么啊……”</p> 
+<p>他忍不住轻声说着。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>——TBC</p> 
+<p><br /></p>
+
+<a id="more"></a>
+
+<hr>
+<p><code>2018-08-05 11:42:41</code> 【サミの小糯米】 沙发！以及坐好准备要抢阿倩老师的本子啦！！爱您</p>
+<p><code>2018-08-05 11:55:20</code> 【Rihannon.】 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊亲了！！！！！！！！！</p>
+<p><code>2018-08-05 13:00:40</code> 【QXQ_】 啊啊啊啊啊啊啊啊啊啊啊这么撩的！！！心动过速了！！！</p>
+<p><code>2018-08-05 16:16:59</code> 【qi_an】 回复【サミの小糯米】 哈哈哈哈哈是老师们的本子hhhhh不知道gn抢到前15没哈哈哈x</p>
+<p><code>2018-08-05 16:17:36</code> 【qi_an】 回复【Rihannon.】 亲了……后续还会有很多亲亲，我在发愁怎么能搞得远近高低各不同（x）</p>
+<p><code>2018-08-05 16:18:11</code> 【qi_an】 回复【QXQ_】 撩人大手的战斗（不是）快，救心丸（停）</p>
+<p><code>2018-08-05 18:36:10</code> 【甜甜草莓甜甜】 親了啊啊啊啊啊啊啊啊！！！！我等到了QwOo！親親看得我心跳加速！！表白倩老師！</p>
+<p><code>2018-08-05 20:45:51</code> 【雪麗海德】 嗚嗚嗚嗚。。。老母親流下欣慰的淚水。</p>
+<p><code>2018-08-06 02:34:31</code> 【qi_an】 回复【甜甜草莓甜甜】 哈哈哈哈哈哈哈不会写小甜饼的正在发愁接下来怎么写（x）</p>
+<p><code>2018-08-06 02:37:02</code> 【qi_an】 回复【雪麗海德】 帮忙擦干老母亲的眼泪（喂</p>
+<p><code>2018-08-06 12:24:31</code> 【绵羊羊羊羊_】 啊。。。啊啊。。。。啊啊啊啊！！！！！！终于亲上了！！！啊！！！！！_(:з」∠)_老母亲哭倒在街角，两个人耽误了这么久是干啥啊？？！！nino也是好可怜莫名其妙被秀一脸！！</p>
+<p><code>2018-08-06 14:36:15</code> 【qi_an】 回复【绵羊羊羊羊_】 从一片老母亲的眼泪中看出来我节奏真的是拖了很久了🙈🙈🙈😂😂😂偏爱nino（喂x</p>
+<p><code>2018-08-06 14:41:32</code> 【绵羊羊羊羊_】 回复【qi_an】 啊啊啊啊啊啊_(:з」∠)_啥时候有船戏啊</p>
+<p><code>2018-08-06 16:43:51</code> 【最】 啊啊啊啊啊啊啊我的妈呀，这就是我最开始那篇想写的呜呜呜呜我爱您</p>
+<p><code>2018-08-06 18:58:15</code> 【奇异果kiwi】 啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊(土拨鼠尖叫 亲啦！！！好开心！！！</p>
+<p><code>2018-08-06 20:33:35</code> 【蝕夜】 終於忍不住啦啊哈哈哈哈哈哈哈哈哈哈哈哈哈哈 太好啦太好啦！ 然後我喜歡尼尼目瞪口呆的樣子XD</p>
+<p><code>2018-08-07 08:31:12</code> 【qi_an】 回复【最】 嗯毕竟也到了10年嘛😂😂😂我努力找点不一样的糖（x）</p>
+<p><code>2018-08-07 08:31:50</code> 【qi_an】 回复【绵羊羊羊羊_】 船戏反正，亲都亲了，解决一下需求倒是可以（？）</p>
+<p><code>2018-08-07 08:32:18</code> 【qi_an】 回复【奇异果kiwi】 😂😂😂被我硬是拖慢的节奏使得大家都开始尖叫x</p>
+<p><code>2018-08-07 08:32:45</code> 【qi_an】 回复【蝕夜】 尼尼鄙视的那种小眼神超喜欢hhhhhh</p>
+<p><code>2018-08-07 09:53:11</code> 【最】 回复【qi_an】 不不不我的意思是您表达得超级好！</p>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E6%B6%A6%E6%99%BA/" rel="tag"># 润智</a>
+              <a href="/tags/%E6%B6%A6%E6%99%BA%E6%B6%A6/" rel="tag"># 润智润</a>
+              <a href="/tags/%E5%81%B6%E5%8F%91/" rel="tag"># 偶发</a>
+              <a href="/tags/%E6%99%BA%E6%B6%A6/" rel="tag"># 智润</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/1d7a8b0f_eefe840a" rel="prev" title="【润智润】偶发空缺（12）">
+      <i class="fa fa-chevron-left"></i> 【润智润】偶发空缺（12）
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/1d7a8b0f_ef28db71" rel="next" title="【润智润】偶发空缺（14）">
+      【润智润】偶发空缺（14） <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC81MjA3Ny8yODU1OA=="></div>
+  </div>
+  
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="想变成一条鱼"
+      src="/images/bloghead.jpg">
+  <p class="site-author-name" itemprop="name">想变成一条鱼</p>
+  <div class="site-description" itemprop="description">想变成一条鱼的永久分矿</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">121</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">20</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/SilencerSato" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;SilencerSato" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:sqsq94@sina.com" title="E-Mail → mailto:sqsq94@sina.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://weibo.com/u/1861343134" title="Weibo → https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;1861343134" rel="noopener" target="_blank"><i class="fab fa-weibo fa-fw"></i>Weibo</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/silencer_sato" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;silencer_sato" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://instagram.com/silencer_satoya" title="Instagram → https:&#x2F;&#x2F;instagram.com&#x2F;silencer_satoya" rel="noopener" target="_blank"><i class="fab fa-instagram fa-fw"></i>Instagram</a>
+      </span>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      相关链接
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://www.lofter.com/blog/fishingsilencer" title="https:&#x2F;&#x2F;www.lofter.com&#x2F;blog&#x2F;fishingsilencer" rel="noopener" target="_blank">Lofter</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://fishersilencer.wordpress.com/" title="https:&#x2F;&#x2F;fishersilencer.wordpress.com" rel="noopener" target="_blank">WordPress</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://archiveofourown.org/users/silencer_sato" title="https:&#x2F;&#x2F;archiveofourown.org&#x2F;users&#x2F;silencer_sato" rel="noopener" target="_blank">AO3</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="http://hellowland.com//u36070" title="http:&#x2F;&#x2F;hellowland.com&#x2F;&#x2F;u36070" rel="noopener" target="_blank">HelloWorld</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.rearyard.com/self/29330/info" title="https:&#x2F;&#x2F;www.rearyard.com&#x2F;self&#x2F;29330&#x2F;info" rel="noopener" target="_blank">rearyard</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 2020-12 – 
+  <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">想变成一条鱼</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+
+    <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+    <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+    <span class="post-meta-divider">|</span>
+    <span id="busuanzi_container_site_uv">总访客数<span id="busuanzi_value_site_uv"></span>人</span>
+    <span class="post-meta-divider">|</span>
+<!-- 不蒜子计数初始值纠正 -->
+<script>
+$(document).ready(function() {
+
+    var int = setInterval(fixCount, 50);  // 50ms周期检测函数
+    var countOffset = 20000;  // 初始化首次数据
+
+    function fixCount() {            
+       if (document.getElementById("busuanzi_container_site_pv").style.display != "none")
+        {
+            $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + countOffset); 
+            clearInterval(int);
+        }                  
+        if ($("#busuanzi_container_site_pv").css("display") != "none")
+        {
+            $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + countOffset); // 加上初始数据 
+            clearInterval(int); // 停止检测
+        }  
+    }
+       	
+});
+</script> 
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  
+  <script color='0,0,255' opacity='0.5' zIndex='-1' count='99' src="/lib/canvas-nest/canvas-nest.min.js"></script>
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+<script>
+NexT.utils.loadComments(document.querySelector('#lv-container'), () => {
+  window.livereOptions = {
+    refer: location.pathname.replace(CONFIG.root, '').replace('index.html', '')
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
+});
+</script>
+
+</body>
+</html>

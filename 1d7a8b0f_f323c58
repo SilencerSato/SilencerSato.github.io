@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.2.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/fish_32px_1289440_easyicon.net.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/fish_16px_1289440_easyicon.net.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-minimal.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="&gt;&amp;nbsp;驱魔人paro  &gt; ooc  &gt;&amp;nbsp;前章&amp;nbsp;（1），（2）      ---------------------------------------------    “我常常不符合身份地怀疑上帝的存在，我们为什么要如此坚定的相信这种……这种不可见、不可听的事物。”      1    “这次拿到许可的速度很快。”大野智被叫醒之后，主动地跟着松本润">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【润智】Break the Cage（3）">
+<meta property="og:url" content="http://example.com/1d7a8b0f_f323c58">
+<meta property="og:site_name" content="渔船停泊处">
+<meta property="og:description" content="&gt;&amp;nbsp;驱魔人paro  &gt; ooc  &gt;&amp;nbsp;前章&amp;nbsp;（1），（2）      ---------------------------------------------    “我常常不符合身份地怀疑上帝的存在，我们为什么要如此坚定的相信这种……这种不可见、不可听的事物。”      1    “这次拿到许可的速度很快。”大野智被叫醒之后，主动地跟着松本润">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2017-04-15T16:24:03.000Z">
+<meta property="article:modified_time" content="2018-06-18T23:25:11.000Z">
+<meta property="article:author" content="想变成一条鱼">
+<meta property="article:tag" content="润智">
+<meta property="article:tag" content="BtC">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://example.com/1d7a8b0f_f323c58">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>【润智】Break the Cage（3） | 渔船停泊处</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">渔船停泊处</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">一个小型露营地</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/1d7a8b0f_f323c58">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/bloghead.jpg">
+      <meta itemprop="name" content="想变成一条鱼">
+      <meta itemprop="description" content="想变成一条鱼的永久分矿">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="渔船停泊处">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【润智】Break the Cage（3）
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2017-04-16 00:24:03" itemprop="dateCreated datePublished" datetime="2017-04-16T00:24:03+08:00">2017-04-16</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2018-06-19 07:25:11" itemprop="dateModified" datetime="2018-06-19T07:25:11+08:00">2018-06-19</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Text/" itemprop="url" rel="index"><span itemprop="name">Text</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p>&gt;&nbsp;驱魔人paro</p> 
+<p>&gt; ooc</p> 
+<p>&gt;&nbsp;前章&nbsp;<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_f1727c4"  >（1）</a>，<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_f2468dd"  >（2）</a></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>---------------------------------------------</p> 
+<p><br /></p> 
+<p>“我常常不符合身份地怀疑上帝的存在，我们为什么要如此坚定的相信这种……这种不可见、不可听的事物。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>1</p> 
+<p><br /></p> 
+<p>“这次拿到许可的速度很快。”大野智被叫醒之后，主动地跟着松本润走进了书房，“稀奇。”</p> 
+<p>“欠了主教一个人情吧。对了你看看这个，”松本把翻开的笔记本指给大野看，“根据你说的骡子形象，应该就是Ba'al.不过为了保险一点……”</p> 
+<p>“你还是会逼他亲口说出自己的名字。”大野凑过去瞥了一眼，“啊就是它就是它。”</p> 
+<p>“那就很有把握了。”松本很开心。</p> 
+<p>大野看了开心的蹦出小奶音的松本，挠了挠鼻子。</p> 
+<p>“话说回来你得到什么有用的消息没有？”</p> 
+<p>“恩，我有点想法……”</p> 
+<p>松本的肚子咕噜噜地叫了起来，打断了大野慢吞吞的话。</p> 
+<p>“……”</p> 
+<p>“……”</p> 
+<p>“要不我们先吃点东西？也没什么特别重要的事情……”</p> 
+<p>“……好吧。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>叫来了拉面的外卖，两个男人坐在桌边，中间摆满了各种资料和录音，松本和大野对着画满了恶魔的笔记本吸溜吸溜地大口吃着面。</p> 
+<p>“……&amp;%#@￥*&amp;……”</p> 
+<p>“……咽下去再说话，小心噎住……”</p> 
+<p>大野艰难地吞下一大口面：“我觉得那个弟弟有问题。”</p> 
+<p>“怎么？”</p> 
+<p>“小池家是信教的，”大野停下筷子，“但是那个弟弟……我感觉他没有信仰上帝。”</p> 
+<p>“恩……”松本斟酌了一下词句，“信教的家庭里有一两个没有信仰的人很多啊。”</p> 
+<p>大野埋头又开始吃面：“他不一样。”</p> 
+<p>松本有点烦躁。</p> 
+<p>大野智这个人，有什么特别严重的事情都不会和他说，即使看到了非常令人害怕的景象，也只是脸色不太好而已。他从来都不会把负面的、痛苦的情绪和经历与自己分享，有的时候松本半夜起床喝水，或者熬夜查阅一些古书的时候，经常可以看到他拿着干了的画笔，坐在阳台，整夜整夜。</p> 
+<p>松本每次看到这样的大野，都会觉得他像一条被海潮拍打到海滩上的抹香鲸。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“还有别的什么吗？”</p> 
+<p>“他们家可能没有看起来那么和睦。”大野喝完最后一口汤，满意的舔了舔嘴唇。</p> 
+<p>“恩，可能恶魔钻了这种空子吧。”松本若有所思。</p> 
+<p>“对了，我去看了眼小池。”大野轻描淡写的说。</p> 
+<p>松本差点被汤呛到，他瞪着咳出眼泪的眼睛看着大野，说不出话但是眼睛里满满的担心。</p> 
+<p>“属于她的时间不多了，”大野低头看着笔记本，没注意到松本的眼神，“如果明天能一次性搞定就好了。”</p> 
+<p>松本叹了口气，“哪有那么容易啊……”</p> 
+<p>“不过松润很厉害嘛。”</p> 
+<p>“可是我只有一个人啊……”松本吃完了，收拾碗和筷子，顺手揉了揉大野的头发，“要是你也是个神父就好了。”</p> 
+<p>大野撇了撇嘴，不置可否的摇了摇头。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本准备着第二天驱魔仪式要用的东西，大野坐在离他不远的地方反复的听着录音。</p> 
+<p>反复确认没什么问题之后，松本拿起《圣经》默读了几句，发现自己没办法读进去，就放弃了。他站起来来回走了几圈，去倒了两杯水，回来放下，又站起来走到了冰箱前。</p> 
+<p>“大野さん&nbsp;要吃苹果吗？”松本问了一句。</p> 
+<p>大野头也没抬地摆了摆手。</p> 
+<p>松本给自己削了个苹果，硬塞给大野半个。</p> 
+<p>“我吃不下。”</p> 
+<p>大野哭笑不得的拿着半个苹果。</p> 
+<p>不要对我这么温柔啊润くん。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本坐下悄悄盯了大野很长时间，大野本来也不是很想管，但是后背的眼神让他不得不去在意。</p> 
+<p>大野把录音关了，转过身看着松本。</p> 
+<p>“有什么事情吗？”</p> 
+<p>松本难得的在发呆，大野转过身之后才从神游中脱离。</p> 
+<p>“呃……你问了什么？”</p> 
+<p>“fufufu，松润难得走神啊。”大野笑了。</p> 
+<p>“稍微想了点事情……”松本有点不好意思。</p> 
+<p>“在想什么？”</p> 
+<p>“……恩……不知道这么问可不可以……&nbsp;”松本犹豫着开了口，“大野さん既然可以看得到恶魔，那么有没有见过天使……之类的……&nbsp;”</p> 
+<p>“见过哦。”大野很认真地回答。</p> 
+<p>“诶？！”松本很激动。</p> 
+<p>“就，和普通人差不多……”大野被激动起来的松本吓了一跳，“我只是看到他们背上有白色的羽翼……而已……”</p> 
+<p>“这样啊……”松本好像很开心的样子，“那你可以看到，为什么还要自称是无神论者呢。”</p> 
+<p>“……噗……”大野突然笑出来。</p> 
+<p>“……有什么好笑的啊……”</p> 
+<p>“我是笑你把我捡回来这么长时间现在才问这种问题。”</p> 
+<p>“我哪知道你也见过天使啊……”</p> 
+<p>大野哈哈哈地笑个不停，一边笑一边说：“没想到松润你这么可爱啊哈哈哈……”</p> 
+<p>松本润羞愤地冲过去拍大野的头，大野笑着跑回了画室，关门之前还对松本做了个鬼脸。</p> 
+<p>“你等着，这事儿完了饶不了你。”松本开玩笑地朝画室的门喊。</p> 
+<p>好像也没有那么紧张了。</p> 
+<p>松本站在画室门口想着，他不自觉地弯起嘴角，打算去洗个澡然后再翻翻经书。<br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野关上门之后，慢慢地靠着门滑坐在地。</p> 
+<p><br /></p> 
+<p>“因为上帝永远都不会回应我们的祈祷。”</p> 
+<p>他小声地说。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>2</p> 
+<p><br /></p> 
+<p>“不管有什么声音，你们都不许进来。”松本润认真地嘱咐小池的母亲和弟弟，她的父亲今天被一个自称很重要的电话叫走了，离开之前还和儿子吵了一架。小池弟弟在他父亲离开之后狠狠踢了大门一脚，拖鞋不小心飞到了松本那里，松本把飞过来的鞋子还给了气哼哼的小儿子。他和大野都不是很想管这些家庭琐事，就当做什么都没发生地进行着仪式前的准备。</p> 
+<p>“会出现很大的响动，你们能做的事情，就是专心为她祈祷。”松本拿着紫色的绶带，后面跟着大野智，打算上楼。</p> 
+<p>“如果出现问题，我会叫医生过来的。”大野智温和地安慰着不安的小池夫人。不过似乎这句安慰反而令她更神经质地拽着衣服。</p> 
+<p>“你那算什么安慰嘛……”松本悄悄地朝大野抱怨。</p> 
+<p>“我也想帮忙嘛……”大野跟在后面小声回答。</p> 
+<p>松本无奈：“那你记得一会儿把小池好好按住……”</p> 
+<p>大野耸耸肩，比了个ok.</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>小池的情况非常不好，她身上的伤痕比上次大野来的时候还要多，四周的床垫已经变得破破烂烂，房间里弥漫着一股难以形容的臭味，明明有窗户，却没有半点光能照射进来。</p> 
+<p>松本在门口亲吻了一下紫色绶带上的十字架，披好，朝大野祈祷完捧着圣经拿着银十字架串珠进来，就看到小池在这种房间里晃荡。</p> 
+<p>松本向大野点点头，大野上前抓住小池的胳膊，把她拖到松本面前。以外地，小池没有怎么挣扎，只是稍微抵抗了一下就被大野拖走了，似乎看起来没什么力气。</p> 
+<p>她摇晃着脑袋，不愿正眼看松本。</p> 
+<p>松本把绑在手腕上的串珠调整了一下，拿起上面的十字架，对着小池的前额开始颂念：</p> 
+<p><br /></p> 
+<p>“万能的圣父、圣子、圣灵；”</p> 
+<p><br /></p> 
+<p>小池的头剧烈地扭动了一下，大野加重了手上的力气。</p> 
+<p><br /></p> 
+<p>“我愿自我牺牲，”</p> 
+<p>“所有不洁的灵魂；”</p> 
+<p><br /></p> 
+<p>小池突然开始挣扎，咆哮。</p> 
+<p><br /></p> 
+<p>“所有撒旦的力量；”</p> 
+<p><br /></p> 
+<p>“说谎！！！！！！”小池体内的恶魔对着松本叫嚷。</p> 
+<p><br /></p> 
+<p>“所有地狱的攻击；”</p> 
+<p><br /></p> 
+<p>“你这个臭烘烘的杂种！！！你算什么神父！！！”</p> 
+<p><br /></p> 
+<p>“我们命令你！”松本对小池怒目而视。</p> 
+<p><br /></p> 
+<p>“你无权命令我！！！肮脏的神父肮脏的神和你们肮脏的圣经……”小池朝松本唾了一口。</p> 
+<p><br /></p> 
+<p>“速速退散；”</p> 
+<p><br /></p> 
+<p>“你以为自己很厉害吗你觉得你能让我离开你太差了太弱了太肮脏了……”</p> 
+<p><br /></p> 
+<p>“远离上帝的教会；”</p> 
+<p><br /></p> 
+<p>“blablablablablablablabla……别废话了愚蠢的人类！！！”</p> 
+<p><br /></p> 
+<p>“我们命令你！！！”松本把十字架贴在小池的额头上，小池惨烈的喊叫了一声，整座房子开始猛烈的震动，拴着她的铁链猛地飞了起来，开始四处乱舞，四周莫名的响起了巨大的啸叫声，抓着乱抓乱打的小池的大野头上出了一层薄汗。</p> 
+<p><br /></p> 
+<p>“原谅我们的罪过，正如我们原谅那些侵犯我们的人们；”</p> 
+<p><br /></p> 
+<p>小池突然不动了，瘫倒在大野的怀里，持续的震动和声响也一瞬间消失。</p> 
+<p>松本被突如其来的变故吓到了，他往前走了走，想查看小池的状况，大野赶忙喊：“松润快让开！！”</p> 
+<p>没等大野话音落下，小池的眼睛刷的睁开，把大野一下子摔在地上，她一把抓过松本，一双黄色的竖瞳直勾勾地盯着松本。</p> 
+<p><br /></p> 
+<p>“你永远不会被宽恕。”<br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>3</p> 
+<p><br /></p> 
+<p>松本感觉自己置身于一个巨大的白色空间，这个地方非常空旷，没有墙壁，没有被划得七零八落的床垫，没有小池，什么都没有。</p> 
+<p>这是哪里？</p> 
+<p>我现在应该在小池家才对。</p> 
+<p>我得赶快回去。</p> 
+<p>不能中了恶魔的计。</p> 
+<p>松本往前走了几步，突然前面出现了一个人影。他赶快跑了过去。</p> 
+<p>不管遇见的是谁，都不是真的。</p> 
+<p>松本在心里告诉自己。</p> 
+<p>不管是谁。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>他跑到那个人跟前，面前站着的是大野智。</p> 
+<p>虽然说是站在眼前，但是他俩之间仿佛有一张玻璃纸，雾蒙蒙的。</p> 
+<p>“你是谁。”松本发问。</p> 
+<p>“fufufu，你在说什么啊松润。”对面的人发出了笑声，“你不能连我都忘记了吧。”</p> 
+<p>“恶魔，快放我出去。”松本很淡定。</p> 
+<p>“你没事吧？”</p> 
+<p>“快放我出去！！！”松本想上手掐对面的人，但是怎么也触碰不到。</p> 
+<p>“fufufufu，”那个人的手伸过来，轻松地穿过那层薄雾，用手指碰了碰松本的脸，“这是属于你的地方，谁也拦不住你哦。”</p> 
+<p>在“大野”碰到松本的一瞬间，松本的眼前一黑，便没有了知觉。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本突然吸了一口凉气，睁开了眼睛。他发现自己赤身裸体躺在自己卧室的床上，四周的事物都没怎么变，床头柜上还放着他晚上研究的资料。</p> 
+<p>我在做梦？</p> 
+<p>不对，我应该在小池家里驱魔。</p> 
+<p>他打算下床，突然一只手伸过来，搂住了他的腰。</p> 
+<p>“……太早了松润……”</p> 
+<p>松本惊慌失措地看向身边躺着的人。</p> 
+<p>同样也赤身裸体的大野。</p> 
+<p>“你怎么……？”</p> 
+<p>大野睡眼惺忪地看着松本：“……再睡一会儿……昨晚你做的太过了……”</p> 
+<p>松本差点被这句话吓掉半个魂儿。</p> 
+<p>没事没事，这些都是那个该死的恶魔的花招……</p> 
+<p>松本定了定神，开始念祷词：“天父，您是伟大的神，是配得称颂赞美的神，父神我感谢您，您应允我，您要以我的赞美为您的宝座；当我赞美您时，您就与我同在。父神，我感谢您，您应允我说，当我赞美您时，您要除去我一切的邪恶之念，使我在属灵争战中成为一个得胜者……”</p> 
+<p>大野突然捂住松本念祷词的嘴，凑近他的耳边轻轻地说：“这不是你一直渴求的吗？渎神者……”</p> 
+<p>松本突然一个翻身把大野压住，用手掐住他的脖子。</p> 
+<p>“你不是真的他……”</p> 
+<p>“哼，”大野笑得嘲讽。</p> 
+<p><br /></p> 
+<p>“信徒啊，你的心里早已没有你所信仰的事物。&nbsp;”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本猛地睁开眼，自己被大野勉强地抱在怀里，他感觉自己像是被抽光了身体里最后一丝力气一样地往下滑。</p> 
+<p>“松润？！松润！！！！”大野扶住摇摇欲坠的松本，小池在一边不停地抓大野的头发，一边笑，那模样仿佛说着你们输定了一样。</p> 
+<p>“松润，没事吧？”大野担心地问。</p> 
+<p>“……没事……”松本缓了口气，站了起来，有点尴尬的看了看大野，“被这只恶魔不小心迷惑了……”</p> 
+<p>“回来就好。”大野回答的很简洁。</p> 
+<p>松本明白大野的言下之意，于是重新转头面对小池。</p> 
+<p><br /></p> 
+<p>“现在，你要接受我主的审判。”</p> 
+<p><br /></p> 
+<p>4</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“屈服吧，令人憎恶的生物！”</p> 
+<p><br /></p> 
+<p>小池的身体被突然向后折去，她开始哭喊着“爸爸妈妈……”</p> 
+<p><br /></p> 
+<p>“屈服吧，满口谎言的恶棍！”</p> 
+<p><br /></p> 
+<p>她飘了起来，又重重的被扔在地上，嘴里念念有辞。</p> 
+<p><br /></p> 
+<p>“屈服吧，充满罪恶的尘埃！”</p> 
+<p><br /></p> 
+<p>小池恶狠狠地盯着松本，大野拿着装圣水的瓶子不停地对她洒。</p> 
+<p><br /></p> 
+<p>“我命令你，停止对这位上帝信徒的攻击；”</p> 
+<p>“以我主化为凡身，充满激情；”</p> 
+<p>“以及他复活、升天的奥秘与力量；”</p> 
+<p>“接受我主的审判！”</p> 
+<p><br /></p> 
+<p>松本几乎没有停顿地喊出这段祷词，小池的额头上逐渐地浮现出烧灼的痕迹，一个倒十字的疤痕出现在那里。</p> 
+<p>“呵呵呵……来啊……来审判我啊……！”她挑衅地喊着。</p> 
+<p>大野朝小池的脸上浇了一勺圣水，她被烫得叫了出来，愤怒的盯着大野。</p> 
+<p><br /></p> 
+<p>“告诉我你的真实姓名！！！”</p> 
+<p><br /></p> 
+<p>小池发出一阵非人的怒吼。</p> 
+<p><br /></p> 
+<p>“你的真实姓名！！！”</p> 
+<p>大野把飘起来的小池拉在地上，松本一个箭步冲过去按住了她，把十字架紧紧地贴在她脸上。</p> 
+<p>小池的身体已经开始变得斑驳，灰暗的纹路慢慢侵蚀了她的躯壳。她难受地转动着黄色的眼睛，用尽全身力量一般喊道：</p> 
+<p>“Ba'al——！！！Ba'al——！！”</p> 
+<p><br /></p> 
+<p>这个声音在松本的耳朵里变得模糊异常，他看了一眼一起按住小池的大野，大野朝他点了点头。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“Ba'al，我命令你！”</p> 
+<p>“离开你依附的这具身体！！！”</p> 
+<p>“放弃你所垂涎的灵魂！！！”</p> 
+<p><br /></p> 
+<p>小池长长地喊叫了一声，房屋又开始不停的摇晃，这次的震动把她房间的窗户都震碎了。紧接着她躺倒在地，睁大双眼，不省人事。</p> 
+<p>大野和松本气喘吁吁地互相看了对方一眼，大野轻轻地摇摇头，松本赶快把十字架攥在手里，时刻提防恶魔的突然袭击。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>过了像是一个世纪那么长的时间，小池都没有醒过来，松本甚至都打算结束今天的驱魔，毕竟一次就成功的概率还是很小的，往往需要一段时间的抗争才能完全驱逐恶魔。</p> 
+<p><br /></p> 
+<p>然而就在这个时候，异变发生了。</p> 
+<p>松本和大野被一种不知名的力量拽拉了起来，飞在空中，然后被狠狠地摔在墙上。</p> 
+<p>小池飞了起来，她的指甲长长了，脸上出现了形如裂缝一般的黄色纹络，她的头转了360度之后毫发无损，扯出了一个邪恶的笑容。</p> 
+<p><br /></p> 
+<p>“让我们来看看是谁该接受审判。”</p> 
+<p><br /></p> 
+<p>5</p> 
+<p><br /></p> 
+<p>耳鸣。</p> 
+<p>难以忍受的耳鸣。</p> 
+<p>松本和大野捂着耳朵痛不欲生，松本被剧烈的耳鸣折磨的眼前发白，而大野已经快要晕过去了。</p> 
+<p><br /></p> 
+<p>松本好像在耳鸣中听到了别的东西，他在眼前一片花白中依稀看见了梦里的大野，他在说什么，但是耳鸣的太厉害了，松本根本听不见。</p> 
+<p>该死。</p> 
+<p>该死的耳鸣。</p> 
+<p>该死的恶魔。</p> 
+<p>松本努力的从耳鸣辨认那句话的意思，然而完全是无用功。</p> 
+<p><br /></p> 
+<p>一定……要听到……</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>正当松本马上就要到极限的时候，小池的房间突然传来了三声很轻的敲门声。</p> 
+<p>“咚，咚，咚。”</p> 
+<p>耳鸣戛然而止，松本喘着粗气，睁着已经模糊不清的眼睛看向小池。</p> 
+<p>小池好像被什么吓到一样，飞到离门最远的地方，摇着头，念叨着什么松本完全听不懂的语言。</p> 
+<p>松本勉强站起来，到门口想开门。</p> 
+<p>谁在敲门，能引起如此大的变动。</p> 
+<p>他挪到门口，体力不支倒在地上，看到了门缝后的鞋子。</p> 
+<p><br /></p> 
+<p>这个时候又响起了微不可闻的一声敲门声。</p> 
+<p>小池尖叫一声，跪倒在地，脸上的裂痕和烧伤迅速地退去，黄色的眼睛慢慢转向脑后，普通的黑色眼睛慢慢地显露出来。</p> 
+<p>在她的眼睛转回正确位置之后，一阵风从她的方向吹了过来，把还很虚弱、坐在地上喘着气一脸警惕的大野掀到了墙上。</p> 
+<p>松本赶忙爬过去查看大野有没有受伤，小池像是被剪断线的提线木偶一样倒在地上。</p> 
+<p>大野闭着眼睛摆摆手跟松本示意他没事，他双眼紧闭，眼球颤动，过了一会儿惊恐地睁开双眼。</p> 
+<p>松本从来没见过大野这样，赶紧捧着大野的脸：“你真的没事？”</p> 
+<p>“我……我没事……看看她怎么样了……”</p> 
+<p>“你确定？”</p> 
+<p>大野软绵绵的把松本的手拨开，看向小池，他看了一会儿，转头直视松本。</p> 
+<p><br /></p> 
+<p>“我们……成功了……”</p> 
+<p>“它……走了……要是我没看错的话……”</p> 
+<p>松本的表情缓和了许多，情不自禁地抱了抱大野。</p> 
+<p>“那就好。”</p> 
+<p><br /></p> 
+<p>6</p> 
+<p><br /></p> 
+<p>休息了一会儿，拒绝了小池家的人送的谢礼，松本和大野两人打算赶紧回去交差吃饭。在门口又被小池的爸爸妈妈拉住感谢个不停。</p> 
+<p>小池弟弟也要和松本握手，松本有些疑惑地看了他一眼，不过也普通地笑着握了上去。</p> 
+<p>到了和大野握手的时候，小池弟弟意味深长地看着大野，伸出手。</p> 
+<p>大野握上去的一瞬间，眼前炸开了过去的种种回忆，像是死去时的闪回。他赶紧把手收回去，冷漠的看着小池的弟弟。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“我有一种预感，我们会再见面的。”大野轻轻地对小池弟弟说。</p> 
+<p>“那就期待下次见面。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本坐在驾驶座上，他看到门缝里的那双鞋，是小池弟弟的。</p> 
+<p>他脑袋里回响着他在令人窒息的耳鸣中最后努力听到的那句话。</p> 
+<p>那句话的口型和他那天做梦时大野说的，以及耳鸣时候大野张嘴讲的，一模一样。</p> 
+<p><br /></p> 
+<p>“离开我。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>——tbc</p> 
+<p><br /></p> 
+<p><br /></p>
+
+<a id="more"></a>
+
+<hr>
+<p><code>2017-04-16 03:41:48</code> 【爆肝千千】 不知道小大到底是什麼身份，這家人究竟又有什麼秘密，好令人期待後續，看到驅魔的過程好像在看電影一樣，好有畫面感，表白作者！</p>
+<p><code>2017-04-16 03:48:46</code> 【qi_an】 回复【爆肝千千】 谢谢gn这么高的评价，能得出像是看电影一样的评论我就可以满足升天了（等</p>
+<p><code>2017-04-16 10:52:40</code> 【dianaserena】 这篇悬念好足！让我再夸一次lz的文笔，读起来很流畅，喜欢～</p>
+<p><code>2017-04-16 13:12:48</code> 【qi_an】 回复【dianaserena】 感谢gn每次的夸奖，受宠若惊的我（哭</p>
+<p><code>2017-04-16 13:37:20</code> 【七印】 表白太太！太好看了不知道应该怎么形容，伏笔超足然后正剧文笔气氛设定都好棒，简直让人停不下来quq期待后话！</p>
+<p><code>2017-04-16 14:09:28</code> 【qi_an】 回复【七印】 谢谢gn这么高的评价qwq我会继续加油往下写的（握拳</p>
+<p><code>2017-04-18 04:47:36</code> 【Yang小懒Mon】 好看～</p>
+<p><code>2017-04-22 06:49:42</code> 【qi_an】 回复【Yang小懒Mon】 谢谢gn喜欢www</p>
+<p><code>2017-06-14 04:00:34</code> 【蝕夜】 都能拍成電影了啊這篇好厲害！</p>
+<p><code>2017-06-14 13:02:53</code> 【qi_an】 回复【蝕夜】 谢谢gn喜欢www！</p>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E6%B6%A6%E6%99%BA/" rel="tag"># 润智</a>
+              <a href="/tags/BtC/" rel="tag"># BtC</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/1d7a8b0f_f2468dd" rel="prev" title="【润智】Break the Cage（2）">
+      <i class="fa fa-chevron-left"></i> 【润智】Break the Cage（2）
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/1d7a8b0f_f49e3fc" rel="next" title="【润智】Break the Cage（4）">
+      【润智】Break the Cage（4） <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC81MjA3Ny8yODU1OA=="></div>
+  </div>
+  
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="想变成一条鱼"
+      src="/images/bloghead.jpg">
+  <p class="site-author-name" itemprop="name">想变成一条鱼</p>
+  <div class="site-description" itemprop="description">想变成一条鱼的永久分矿</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">121</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">20</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/SilencerSato" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;SilencerSato" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:sqsq94@sina.com" title="E-Mail → mailto:sqsq94@sina.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://weibo.com/u/1861343134" title="Weibo → https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;1861343134" rel="noopener" target="_blank"><i class="fab fa-weibo fa-fw"></i>Weibo</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/silencer_sato" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;silencer_sato" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://instagram.com/silencer_satoya" title="Instagram → https:&#x2F;&#x2F;instagram.com&#x2F;silencer_satoya" rel="noopener" target="_blank"><i class="fab fa-instagram fa-fw"></i>Instagram</a>
+      </span>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      相关链接
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://www.lofter.com/blog/fishingsilencer" title="https:&#x2F;&#x2F;www.lofter.com&#x2F;blog&#x2F;fishingsilencer" rel="noopener" target="_blank">Lofter</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://fishersilencer.wordpress.com/" title="https:&#x2F;&#x2F;fishersilencer.wordpress.com" rel="noopener" target="_blank">WordPress</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://archiveofourown.org/users/silencer_sato" title="https:&#x2F;&#x2F;archiveofourown.org&#x2F;users&#x2F;silencer_sato" rel="noopener" target="_blank">AO3</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="http://hellowland.com//u36070" title="http:&#x2F;&#x2F;hellowland.com&#x2F;&#x2F;u36070" rel="noopener" target="_blank">HelloWorld</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.rearyard.com/self/29330/info" title="https:&#x2F;&#x2F;www.rearyard.com&#x2F;self&#x2F;29330&#x2F;info" rel="noopener" target="_blank">rearyard</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 2020-12 – 
+  <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">想变成一条鱼</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+
+    <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+    <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+    <span class="post-meta-divider">|</span>
+    <span id="busuanzi_container_site_uv">总访客数<span id="busuanzi_value_site_uv"></span>人</span>
+    <span class="post-meta-divider">|</span>
+<!-- 不蒜子计数初始值纠正 -->
+<script>
+$(document).ready(function() {
+
+    var int = setInterval(fixCount, 50);  // 50ms周期检测函数
+    var countOffset = 20000;  // 初始化首次数据
+
+    function fixCount() {            
+       if (document.getElementById("busuanzi_container_site_pv").style.display != "none")
+        {
+            $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + countOffset); 
+            clearInterval(int);
+        }                  
+        if ($("#busuanzi_container_site_pv").css("display") != "none")
+        {
+            $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + countOffset); // 加上初始数据 
+            clearInterval(int); // 停止检测
+        }  
+    }
+       	
+});
+</script> 
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  
+  <script color='0,0,255' opacity='0.5' zIndex='-1' count='99' src="/lib/canvas-nest/canvas-nest.min.js"></script>
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+<script>
+NexT.utils.loadComments(document.querySelector('#lv-container'), () => {
+  window.livereOptions = {
+    refer: location.pathname.replace(CONFIG.root, '').replace('index.html', '')
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1085 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.2.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/fish_32px_1289440_easyicon.net.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/fish_16px_1289440_easyicon.net.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-minimal.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="warning：    &gt;&amp;nbsp;&amp;nbsp;@成濑夏生&amp;nbsp;要的《枷锁》豹子番外……我发现我不会写这篇的后续了（  &gt;&amp;nbsp;前文：枷锁  &gt;&amp;nbsp;非常干瘪，拖了太长时间写，我只是补充一下前篇里没讲到的一些事情，读起来不有趣也不辣  &gt; ooc    -------------------------------------        有的人天生没">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【润智】桎梏">
+<meta property="og:url" content="http://example.com/1d7a8b0f_12d84b133">
+<meta property="og:site_name" content="渔船停泊处">
+<meta property="og:description" content="warning：    &gt;&amp;nbsp;&amp;nbsp;@成濑夏生&amp;nbsp;要的《枷锁》豹子番外……我发现我不会写这篇的后续了（  &gt;&amp;nbsp;前文：枷锁  &gt;&amp;nbsp;非常干瘪，拖了太长时间写，我只是补充一下前篇里没讲到的一些事情，读起来不有趣也不辣  &gt; ooc    -------------------------------------        有的人天生没">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2019-01-26T23:26:35.000Z">
+<meta property="article:modified_time" content="2019-01-26T23:26:35.000Z">
+<meta property="article:author" content="想变成一条鱼">
+<meta property="article:tag" content="润智">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://example.com/1d7a8b0f_12d84b133">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>【润智】桎梏 | 渔船停泊处</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">渔船停泊处</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">一个小型露营地</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/1d7a8b0f_12d84b133">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/bloghead.jpg">
+      <meta itemprop="name" content="想变成一条鱼">
+      <meta itemprop="description" content="想变成一条鱼的永久分矿">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="渔船停泊处">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【润智】桎梏
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2019-01-27 07:26:35" itemprop="dateCreated datePublished" datetime="2019-01-27T07:26:35+08:00">2019-01-27</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Text/" itemprop="url" rel="index"><span itemprop="name">Text</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p>warning：</p> 
+<p><br /></p> 
+<p>&gt;&nbsp;&nbsp;<a loftermentionblogid="516705177" href="http://www.lofter.com/mentionredirect.do?blogId=516705177" target="_blank"  >@成濑夏生</a>&nbsp;要的《枷锁》豹子番外……我发现我不会写这篇的后续了（</p> 
+<p>&gt;&nbsp;前文：<a href="http://fishingsilencer.lofter.com/post/1d7a8b0f_128d1915" target="_blank"  >枷锁</a></p> 
+<p>&gt;&nbsp;非常干瘪，拖了太长时间写，我只是补充一下前篇里没讲到的一些事情，读起来不有趣也不辣</p> 
+<p>&gt; ooc</p> 
+<p><br /></p> 
+<p>-------------------------------------</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>有的人天生没法过平静的生活。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>1</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“你确定她死了？”</p> 
+<p><br /></p> 
+<p>松本润在门厅提高声音对电话另一端的人大喊出这句话的时候，大野智正拿着尖尖的柳叶形刀剖着鱼，松本快要破音的声音把大野智吓了一跳，刀刃在光溜溜的鱼身上滑了一下，差点切到手。</p> 
+<p>大野轻手轻脚地把刀放下，悄无声息地走到门厅。松本一手提着几把水灵灵的一看就是隔壁大妈死活塞进手里的菜，另一只手抓着手机，脸上的表情严肃得看起来吓人得很。他和走过来的大野对视了一眼，摇了摇头。</p> 
+<p><br /></p> 
+<p>坏消息。</p> 
+<p>大野琢磨着，安静地靠在门厅边的柜子旁，等松本挂了电话后的解释。</p> 
+<p><br /></p> 
+<p>这个突如其来的电话来的时候很神奇，松本刚结束了在小镇里帮忙准备当地祭典的工作，一路上被小镇里认识的大爷大妈塞了许多的食物和蔬菜，吃了个半饱刚踏进家门没两步，手机就响了起来。</p> 
+<p>接着就是这个不详的消息。</p> 
+<p><br /></p> 
+<p>松本挂了电话，面色凝重地看着已经开始发呆的大野，说：“我们可能得进城一趟。”</p> 
+<p>大野回过神来，他眨眨眼，蹙起了眉头：“……美洲虎的电话？”</p> 
+<p>“嗯。”</p> 
+<p>“谁死了？”大野也认真了起来，他抱着双臂，做了个最坏的预想。</p> 
+<p>松本叹了口气：“猎豹。”</p> 
+<p>“她？？？”大野愣住了，他怎么也没想到会是组织里的二把手，那个最谨慎也是最好的猎手，“怎么死的？”</p> 
+<p>“枪杀，”松本的眉头不自觉地皱了一下，露出了嫌恶的神色，“在她自己的一处公寓里。”</p> 
+<p>大野沉吟了一下，他还想问些具体的情况，但又闭嘴了。</p> 
+<p>“……我们什么时候走？”</p> 
+<p>松本耸耸肩：“美洲虎明天会来接我们，应该是傍晚时候到。”</p> 
+<p>大野想了想，说：“嗯……和他说，在小镇港口的第十三号仓库门口那里接我们。”</p> 
+<p>松本咧嘴一笑：“我说过了，放心。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>距离松本润突然杀到大野智躲藏的小镇并和他一起待下来，已经过去了三年，他们从挤在大野租的小房子里搬出来，在离港口不远的地方买了处房产，在那里安静又悠闲地生活着。</p> 
+<p>大野智还是和以前一样，背着画板，时不时给小镇上的人画些装饰画，主业还是和渔民一起出海，不过在管控下次数比之前少了很多，薪水就是每天一桶新鲜的当季鱼。松本润则变成了镇子里出名的“好青年”，身强体壮还长得好看的小伙子，又有头脑，基本谁家有点什么事情都会找他帮忙，镇子里的祭典活动也会出谋划策。田园生活也就是这样了，融洽、平和，松本都以为以后就在这里和大野变成两个老头子了。</p> 
+<p>美洲虎三年里时不时会打过来商量的电话，通常是他拿不定主意，又不肯去问那个严谨的副手，松本也很耐心，但大野的警惕心意外很高，他从来不会表示出对那个世界的人的欢迎。</p> 
+<p>但现在，那个世界向他们伸出了求救的手。</p> 
+<p><br /></p> 
+<p>大野智还是和平时一样稳稳当当地处理完鱼，拍拍手，让松本润过来做晚饭。</p> 
+<p>松本一边开火烧着鱼，一边自言自语：“也不知道是怎么回事就要我们过去帮忙，美洲虎果然不行；城里什么温度啊，海边住着都不知道该穿什么了；哎呀我的衣服都在那个不用的柜子里放着也不清楚有没有受潮……”</p> 
+<p>“……润くん，”喜欢靠在门边看松本做饭的大野忍不住打断了松本的话，他上前搂住了松本的腰，肩头和松本的肩膀贴在一起，转头和松本四目相对：“你什么时候变得这么絮叨了？”</p> 
+<p>松本看着大野的眼睛，愣了一下。</p> 
+<p>大野难得地在除去情爱的正常情况下发出了几声喉音，眼睛变得和猫科动物一样，灯光下细长的瞳孔泛着水光地盯着松本。</p> 
+<p>松本笑了，他自嘲地摇了摇头，接着伸手轻轻拍了一下大野毛茸茸的头。</p> 
+<p>“还不都是因为和你在这里待得时间太长了。”</p> 
+<p>大野勾起一边的嘴角，哼了一声。</p> 
+<p><br /></p> 
+<p>“雪豹小崽子。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本润拎了一个箱子，大野智只是背了个挎包，两个人站在傍晚略冷的港口，只有大野被冷得瑟瑟发抖，而松本好笑地看着大野，一边说着“让你不贴暖贴”一边脱下大衣披在大野身上，有点不耐烦地等着美洲虎来接他们。</p> 
+<p>美洲虎的车开到港口停下，发出了一声刺耳的轮胎摩擦地面的刹车声，他从车上几乎是撞开车门下来的，当他看到站在仓库门口等着的松本大野两人时，差点就要激动得变回原形了。</p> 
+<p><br /></p> 
+<p>“我真的不知道该怎么办了……”美洲虎把他们的行李搬上车、一言不发地等二人坐进车里之后，他突然抱着头在加长了的后座上开始哭。</p> 
+<p>松本和大野面面相觑，印象里那个粗糙的硬汉现在这样哭得好像一只刚断奶的猫，这种情景谁见到都要大脑空白个几秒。</p> 
+<p>大野拍了拍美洲虎的肩，松本轻咳了几下，轻声问：“能告诉我们到底怎么回事吗？”</p> 
+<p>美洲虎哽咽了一下，他张了张嘴，像是被过多的词语堵住了喉咙一样，又摇了摇头：“……你们到组织里看看再说吧。”</p> 
+<p>“组织怎么了？”大野敏锐地抓住了重点，他最不愿意看到的结果就是这个。</p> 
+<p>“组织还好……”美洲虎愧疚地看了眼大野，“只不过……”</p> 
+<p>“只不过什么？”</p> 
+<p>“……教父不再是我了。”美洲虎很诚恳，他懊悔地擦着眼泪，“因为我的失职。”</p> 
+<p>大野和松本对视一眼，两个人脑海里闪过了无数个名字，但始终想不出来会是谁。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>等他们连夜赶到组织大楼的时候，楼里灯火通明，似乎都在等什么人一样。</p> 
+<p>美洲虎嘱咐手下的人安置松本和大野的行李，松本留心听了一耳朵，还是雪豹家族里的大宅子的地址。</p> 
+<p>但组织挪到了他们面前的大楼里。</p> 
+<p>松本深呼吸了一下，眼睛显示出了一些兽人的特征。</p> 
+<p><br /></p> 
+<p>大野从下车开始脸色就不是很好，他不是很喜欢这栋大楼，看起来过分的冷峻又不近人情，他也不是很想让美洲虎他们太过接近雪豹家族的那栋宅子，而刚才美洲虎吩咐手下人的架势，让谨慎的大野觉得，那栋宅子现在到底是谁的所有物还是个未知数。</p> 
+<p>看来离开太久也不是什么好事。</p> 
+<p><br /></p> 
+<p>松本和大野一前一后踏进这座大楼的时候，惊异地发现这么晚了楼里还站满了人，林林总总一部分认识，一部分看起来像是新鲜血液，都异口同声地说着：“欢迎少爷回来！”</p> 
+<p>松本疑惑地转身看了眼美洲虎，得到了一个安抚的眼神。</p> 
+<p>而大野则戏谑地看着松本，他快走了两步，凑近朝松本扬了扬眉毛。</p> 
+<p>“……你闭嘴。”</p> 
+<p>松本轻轻推了一把大野，伸手整理了一下自己坐在车里有些皱的衣领，大步往楼梯走去。</p> 
+<p>当他们走到会议室的时候，那扇双开的雕花大门自己打开了。</p> 
+<p>会议室里坐满了人，都是各个兽人家族现在的家主，男男女女，在他们走进来的一瞬间齐刷刷地把颜色各异的目光聚集了过来。</p> 
+<p>猞猁首先站了起来，她朝站在门口的松本和大野深深地鞠了一躬。</p> 
+<p>“欢迎回来。”</p> 
+<p>其他不论是不是猫科，也都依次跟着站起来，朝他们鞠躬。</p> 
+<p><br /></p> 
+<p>松本没有被这个场面唬住，他很礼貌地浅浅鞠了一躬，等大家都坐下之后，稳稳地开口：“所以，你们这是在做什么？”</p> 
+<p>坐在角落里、几乎从来不出现的冰原狼头狼开口，但他说话的时候一直看着大野：“美洲虎失职，他自己不做教父，组织的地盘被侵占了。我们在等你们回来。”</p> 
+<p>看到这种情况，松本扭头和大野对视了一下，便明白对方和自己想的一样。</p> 
+<p>大野终于开口说了进大楼里的第一句话：“如果我们不回来，你们是不是就要在这里决定谁是新的教父？”</p> 
+<p>“不是牙斗才决定这件事吗？”松本扫视了在座的所有人，“什么时候变成了投票表决？”</p> 
+<p>狮子长叹了一口气，简洁明了地说：“太紧急了，等不到牙斗。”</p> 
+<p>“我们以为你俩不会回来了，”草原雕跟着说，“毕竟你们消失了三年多，美洲虎和我们说你们会回来的时候真的难以相信。”</p> 
+<p>大野干巴巴地说：“对不起，都是我的错，我拐走了大家的少爷。”</p> 
+<p>“喂……”松本都想捂脸了。</p> 
+<p>“不过你们回来，我们也就放心了，”猞猁说，她看了看其他人，“有什么需要我们的尽管说。”</p> 
+<p>“我以为你们要逼宫呢，”大野放松了下来，他拖了把椅子赶紧坐下，还拍了拍旁边的，让松本也坐，“吓死了，这阵仗真的受不了。”</p> 
+<p>身材娇小但声音意外很低沉的山原猫笑了：“你也不觉得害怕吧。”</p> 
+<p>一时间，会议室里的兽人们都跟着笑了起来。松本也随即坐下，和其他的兽人开始寒暄。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>美洲虎走进来悄悄地和松本说了几句，随即松本便站起来朝大家抱歉地示意失陪，拉着想和云豹嘚瑟怎么钓到金枪鱼的大野就是往外走。</p> 
+<p>“猎豹其实……还活着。”</p> 
+<p>美洲虎说。</p> 
+<p><br /></p> 
+<p>猎豹确实还活着，但换给其他的兽人，还不如就这样死掉算了。</p> 
+<p>她躺在病床上，眨着眼睛，冲愣在加护病房门外的松本和大野微笑着。</p> 
+<p>“我还活着，很神奇吧？”</p> 
+<p><br /></p> 
+<p>了解了情况之后，松本一时间说不出什么话来。</p> 
+<p>猎豹确实很命硬，她的背后中了一枪，要不是正好击中了脊椎，她的骨头又比普通人硬一些，经过抢救和调养，除去瘫痪和昏迷了将近一个月以外，别的没多少影响。</p> 
+<p>大概就是一个月前，在组织的地盘外发生的事情。</p> 
+<p>不知道是谁下的手，从那开始美洲虎就失去了对事态的控制，其他与松本和大野当初费尽心血建立的兽人联盟有着仇恨的族群纷纷开始趁乱抢夺地盘，美洲虎也自动请辞，群兽无首的组织凭着几个主要家族强撑到现在。眼看着地盘就要缩水到解放前了，他们才不得已地聚集在一起，商量着干脆就这样选出一个暂时的教父，维持到下次的牙斗大会。</p> 
+<p>这也是为什么美洲虎急着要把他俩重新请回来的原因之一。</p> 
+<p><br /></p> 
+<p>猎豹示意让大野坐在她床边，神情严肃：“我不要紧，我们族群也不止我一个能力够的，这你不用你担心。”</p> 
+<p>“主要问题是你，Oちゃん。”</p> 
+<p>“枪击我的人第二天不知道怎么潜进我的病房的，他留下了一个字条，塞进我手里，我也是醒过来之后才被美洲虎发现的。”</p> 
+<p>美洲虎递过来一张看起来像是从某个病历本里撕下来的字条，上面字迹清晰地写着：</p> 
+<p><br /></p> 
+<p>“族群中黑色的异类，一定会被铲除的。”</p> 
+<p><br /></p> 
+<p>大野拿着字条，深深地看了眼满脸担心的猎豹。</p> 
+<p>他沉默了片刻，把字条揉碎，站起来低头对猎豹说：</p> 
+<p>“我不欠他们什么，你知道的吧。&nbsp;”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>2</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>第一个有记载的基因改造项目其实在很久以前就展开了，那时候还是军方的强化人体研究，最后发展到了动物基因和人类基因结合的地步。</p> 
+<p>人形和兽形相互转化，带有兽形时候的特有的强化特征，甚至习性。几乎不会老去，也很少有自然死亡的例子。</p> 
+<p><br /></p> 
+<p>现在大家大多已经不记得兽人族群其实是改造失控后的结果，融合基因流出，一部分人带有了兽化特征，这些带了兽化特征的人之间约定俗成的根据本源划分群体，以免产生不必要的混杂和缺陷，经过了漫长的演化和突变，才稳定成了现在这样隐秘又庞大、盘根错节又分化鲜明的兽人族群。</p> 
+<p>到了松本的父亲这一代成长的时候，人类社会里知道“兽人”存在的，也只有一些高级机关、相关人员和一些知道得多的城里人，其他人根本不知道，自己的上司或者下属，甚至恋人和亲人，可以随意的变成兽形。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野智所属的这支黑豹家族是猎豹突变的一个种群，他们的特征和猎豹一模一样，但分化出了黑色的特征，最初黑豹家族的头领因为毛色的不同被逐出了猎豹群体，没办法的情况下自立了门户，成了一小撮努力在日新月异的社会生态下存活的家族。</p> 
+<p>可猎豹们始终觉得黑色的成员不管到哪里，只要活着，就会给整个族群带来凶兆。</p> 
+<p>大野的家人就是被那批原教旨主义极端猎豹赶尽杀绝的。</p> 
+<p>他当时跑的比较快，没等那群猎豹们把他家的宅子完全点燃，就趁着夜色在父母争取到的时间里逃了出来。</p> 
+<p>大野那个时候大概十几岁，狂奔的他跑过了几个十字路口后终于体力不支倒在了一条小巷子里，身上还带着重伤。</p> 
+<p><br /></p> 
+<p>他被当时整座兽人群体里最大的黑道组织的教父，松本的父亲，那只体型庞大的雪豹捡到了。</p> 
+<p>谁让大野恰好就倒在了教父和手下人喝酒的居酒屋巷口呢。</p> 
+<p>还因为体力和受伤的缘故显了原形。</p> 
+<p><br /></p> 
+<p>教父当时和手下在常去的居酒屋里商量完怎么拒绝琴蛇那里百折不挠提出的药物贩卖邀请，刚和大家痛骂完这帮不好好守规矩的人，微醺着推开居酒屋的门，连烟都没来得及点，教父就觉得自己像是踩到了什么似的。</p> 
+<p>他低头一看，要不是他是猫科动物，夜视能力很强，可真的是看不到倒在黑暗里的一只黑豹。</p> 
+<p><br /></p> 
+<p>大野就这么被救了，他醒过来的时候发现自己躺在一间没见过的屋子里，还以为被猎豹抓住了，他不顾伤口裂开的危险打倒了站在门口看护的两个灰狼保镖，差一点从雪豹的大宅子里跑出去。</p> 
+<p>最后还是闻讯赶来的教父本人显出原形，冲被灰狼围住身上流血一言不发的大野吼了一句：“你看看我是不是猎豹”，才让大野放松下来。</p> 
+<p>教父也听说黑豹家族发生的惨剧，他好不容易安抚住了大野，勒令猎豹家族把那几个极端分子揪出来赔罪，这件事才算结束。</p> 
+<p>在大野带着伤打倒了几个训练有素保镖的时候，教父就动了培养他的心思，那个冷静的、似乎不把任何人放在眼里又带有绝望的眼神，实在是让教父忘不了。</p> 
+<p>大野那个时候只是沉默地接受了教父的帮助，他也知道，孤身一人的自己，除了组织之外实在也无处可去。</p> 
+<p>教父有意无意地让手下教授他一些打斗和处理事务的本事，大野学得也很努力，虽然看起来总是像没睡醒一样，但实际上接受起来异常得快，动态视力也比其他的猫科好，但就是不太喜欢彰显自己，人群里甚至比毛色还要低调。所以当大野成人礼结束后，那些教过他的老师们一致觉得，这样的人才不去暗杀组实在是可惜得厉害。</p> 
+<p>而教父在亲自和大野聊了几句之后，大手一挥：“让他来我身边工作吧，先当个跟班。当然也可以让他做一些暗杀工作，但不要太多。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>说是不要太多。</p> 
+<p>大野一年之内在那栋日式宅院里待的时间算算连一个月都没有，他也喜欢远离那些繁琐的事务，在一次又一次不同的地点按部就班地执行自己的任务。有的时候还有空闲在当地转悠，像是普通的年轻人一样和人类或者兽人聊着天。</p> 
+<p>很神奇的是，兽人之间像是有敏锐的雷达一样，远处的一个对视就能发现，啊，这个人，是同类。</p> 
+<p>大野接触了各式各样的人，也杀了各种各样的人，有的腰缠万贯，有的穷困潦倒，有的还在牙牙学语，有的已经垂垂老矣。</p> 
+<p>黑豹本来在猎豹的传说里就象征着祸端，现在更是和死亡紧紧相连。</p> 
+<p>他几乎快把教父的地盘、邻近的别人的地盘摸了个底掉，连隔壁仓鼠族群又有多少新成员也知道的八九不离十。</p> 
+<p>等到大野在外面跑了五六年暗杀，教父才把他叫回了那栋宅院里。</p> 
+<p><br /></p> 
+<p>大野回去的那天依旧是个潮湿的雨天，习惯了自己雨男属性的大野撑了一把在便利店买的透明伞，提前了十分钟等在宅子后门，他看着时间差不多，给教父的老管家打了个电话，才知道这次自己要从正门进。</p> 
+<p>他踩着积水绕到正门，木制的大门开着，两边站满了穿着黑色西装、打着黑伞的人。</p> 
+<p>大野压下心里的惶恐和疑惑，依旧懒懒散散地撑着那把和院子里格格不入的透明伞，轻声说着“抱歉”，在周围人投过来的目光洗刷下挪到了院落深处的门廊那里。</p> 
+<p>教父坐在一把椅子上，他见到可怜巴巴挤过来的大野，一瞬间笑了出来：“你从另一条街那里走过来的吗？”</p> 
+<p>“我找不到司机停的车在哪儿。”大野随口找了个理由，困惑地看着教父，心里想为什么在门廊的木地板上还要放一个竹椅。</p> 
+<p>“今天叫大家来是为了介绍一下我们新的高级顾问，”教父指了一下已经有些走神的大野，“黑豹，大野智。”</p> 
+<p>“诶？”大野疑问的声音被宅院里突然纷纷响起的质问和欢呼淹没了，他瞪着已经有点不耐烦的教父，大脑一片空白。</p> 
+<p>教父怒喝住了宅子里的声音，他缓缓开口：“大野智被我派去暗杀组做了五年多，你们有什么小九九他差不多都摸清楚了，”教父环视了一下安静下来面面相觑的人，“如果有不服的，上来和他打一场，也算个小规模牙斗。”</p> 
+<p>以大野为中心，四散开了一处空地。兽人们磨着牙，虎视眈眈地看着这个突然闯进来的异类。</p> 
+<p>“……不要给我找这么麻烦的事情啊教父……”大野叹了口气，把伞收好，放进了门廊底下的收伞桶里，“……雨天真的太麻烦了……”他甩了甩脸上的雨水，显出了黑豹的形态，“既然是教父的意思，那就来吧。”大野说着，猫瞳紧紧地盯着围起来的人们。</p> 
+<p><br /></p> 
+<p>“来吧，”大野说，“呃，不过大家悠着点，别受伤了。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>几乎是当地唯一的一只黑豹，就这样做了教父的高级顾问。</p> 
+<p>一直到小雪豹的出生，大野才从所有人的视线里消失掉，又跟着雪豹一同夺回了属于他的东西。</p> 
+<p>一开始就是局外人的大野，该说是命运还是缘分，竟然在这个局里参与了如此长的时间，长到他现在回来，竟然有点像是回家了一样。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>终于从大野口中听到个中缘由的松本润，忍不住笑了：“我听到的版本不太一样，据说你干翻了整个组的高层才成为了高级顾问。”</p> 
+<p>“不可能的，”大野窝在车里，吸了一下鼻子，“我打不过我姐。”</p> 
+<p>“说起来我才知道猎豹是你的远房姐姐，”松本皱了一下眉头，“完全不知道。”</p> 
+<p>大野淡淡地说：“那也是很远很远的亲属关系了，她……她可能也是因为这个被人盯上了吧。”</p> 
+<p>松本看着大野想着事情的侧脸，轻轻叹了口气。</p> 
+<p>大野皱了皱眉头，突然看了松本一眼：“你那些听来的版本都是谁瞎说的？”</p> 
+<p>“老爸说的，”松本笑笑，“你知道他的，就算放你走也是为了给我留条后路。”</p> 
+<p>“是啊，”大野喃喃说，“那个古怪的老头。”</p> 
+<p><br /></p> 
+<p>正聊着，开车的美洲虎突然出声：“到了。”</p> 
+<p>大野回头看了眼车窗外，标着“xxx实业会社”的牌子在阳光下闪烁着明晃晃的光芒，他叹了口气，对松本说：“……要不我在车里等你？”</p> 
+<p>“没事的，”松本打开车门，站在那里抱着手臂等大野，他本来打算伸出手拉一把大野，只是察觉到了美洲虎若有若无的视线，又只好作罢。</p> 
+<p>大野嘟嘟囔囔着“真麻烦啊”，打开另一边的车门，走了出来。</p> 
+<p>“我不能保证那群人看到我也在会发生什么事情。”</p> 
+<p>大野闷闷地说。</p> 
+<p>“我在，不会发生什么的。”</p> 
+<p>松本言简意赅地说，拉着大野大步流星地走到了猎豹的家族领地里。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>3</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野智在等电梯的时候走了下神。</p> 
+<p>他站在松本润的身后，望着松本宽阔又结实的后背发愣。</p> 
+<p><br /></p> 
+<p>什么时候长得这么大个儿了？</p> 
+<p>大野默默地想。</p> 
+<p>当初还是个遇到兔子都会吓得咬住自己尾巴的小孩儿啊。</p> 
+<p><br /></p> 
+<p>美洲虎尴尬地咳了一声，松本润转过身来，敲了还没反应过来的大野脑袋一下。</p> 
+<p>“我才没咬过自己的尾巴。”他扬起一边眉毛，看似很生气地对大野说。</p> 
+<p>大野眨着无辜的眼睛：“我说出来了？”</p> 
+<p>“……你是不是又困了？”松本无语，揉了揉大野的头发，“醒醒，刚才车上紧张的大野智去哪儿了？”</p> 
+<p>“可是你就是咬过嘛……”大野小声不服气地说着。</p> 
+<p>松本瞪了他一眼，但耳朵已经红了。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野智清楚地记得面前的松本润小时候的样子，尽管现在已经是完全独当一面、甚至比自己还靠谱的领袖，但大野还是会把他作为当初那只咬着自己毛茸茸尾巴躲在大宅子门后的小动物看待。</p> 
+<p>毕竟那会儿大野满脑子都是：这是什么可爱小孩，甚至还因为他，在辞去高级顾问的时候犹豫了一下。</p> 
+<p><br /></p> 
+<p>大型猫科动物小时候看起来就像是稍微长大一点的猫咪一样，浑身毛茸茸的，有着比成年更长一些的毛发，如同围了一条长毛围巾一般。</p> 
+<p>这样的形态一般是为了在幼年时期抵御温度变化，成年后体脂变多，这些毛发也会跟着脱落，也为了更好地在野外藏匿自己。</p> 
+<p>而大野捡回去小雪豹松本的时候，没过多久就到了雪豹的换毛期，着实让大野头疼的要命。</p> 
+<p>虽然也是大猫，大野没多少小时候的记忆，也不记得自己在这种时候是怎么度过的，所以在某一天大野醒来发现自己被一大堆淡色的毛淹没的时候，他惊恐地以为松本得了什么病或者吃了有毒的东西。</p> 
+<p>松本倒是很淡定，他用着变声期稍微嘶哑一些的声音告诉大野，到了换毛期了，这很正常。</p> 
+<p>大野看着在空中随着松本动作飘起来的细小毛绒，无奈地说：“我从没见识过这么多的毛。”</p> 
+<p>“那是因为你毛短。”松本舔舔自己的爪子，吐出了一小团毛球。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野曾经以为适合在冰天雪地里成长的雪豹可能不适应森林里的生活，没想到这小家伙学得比谁都快。</p> 
+<p>克服了一见到活蹦乱跳物体就咬住尾巴的恐惧之后，松本变得闹腾极了，他似乎没有什么大型食肉动物的自觉，还想和一些小动物做朋友。</p> 
+<p>大野告诉他很多次，因为食物链和本能，森林里的兔子和松鼠是不会亲近的，但当松本看到睡在树上的大野身边围了很多小鸟和松鼠之后再也不信这句话了。</p> 
+<p>大野其实也不知道这是怎么回事。</p> 
+<p><br /></p> 
+<p>自从带松本看了那次牙斗之后，一直给大野无忧无虑感觉的松本似乎撕下了表面天真的样子，他终于意识到自己一直努力假装遗忘掉的惨痛的现实，一夜之间，那个喜欢追着鸟在森林里跑没影儿的小雪豹终于长大了。</p> 
+<p>就算面对林子里稍微大一些的野兽和猛禽，他也不会随便咬住自己的尾巴。</p> 
+<p>大野欣慰之中，突然觉得少了很多乐趣。</p> 
+<p>比如他再也没法看到松本咬住他自己或者大野的尾巴时候那种，可爱又有点蠢的样子了。</p> 
+<p><br /></p> 
+<p>当大野带着已经全程主动和各种家族寻求帮助和联盟的松本跑到冰原附近，试图寻找据说生存在那边的冰原狼时，他才发现，原来雪豹真正的力量是什么样子的。</p> 
+<p>虽然还是一样地怕冷，但似乎在雪原上，雪豹宽大又厚重的毛发正好使得松本能够更平稳地在雪地上奔跑、追逐，相比起本源是在亚热带的黑豹，雪豹在那里的姿态仿佛换了一个物种一样。</p> 
+<p>大野惊奇地发现自己打不过松本了。</p> 
+<p><br /></p> 
+<p>“……按理说兽人不会被本源影响地这么过分啊……”冻得瑟瑟发抖的大野咬了一下松本的尾巴尖儿，忿忿不平地瞪了睡着的松本一眼。</p> 
+<p>松本睡成了一个毛茸茸的团，兽形的他体型大到可以把大野包裹在皮毛下面，太冷了，松本先就这么在无师自通便会刨的雪窝里睡着了，大野只得硬着头皮让自己短短的、光滑的皮毛直接和雪地接触，然后拼命地把自己挤到松本的皮毛下面。</p> 
+<p>松本发出了一声梦呓，他张开了手臂，直接叼着大野的后颈，圈在了怀里。</p> 
+<p>大野非常愤怒：“……就在几个月前还是我叼着你进怀里睡觉的！！！”</p> 
+<p>可看着睡熟的松本，大野还是妥协了。</p> 
+<p>等回去再说。</p> 
+<p><br /></p> 
+<p>大野以为是水土不服的原因，实际上松本自己清楚，他不是几个月前的那个可怜巴巴等着人来救助的小崽子了。</p> 
+<p>松本和冰原狼商讨合作的事情时候，被冰原狼团团围住，比普通地方的狼群更大的体型让护着松本背后的大野觉得有点棘手，就在这个时候，松本直接把大野甩出了那个包围圈。</p> 
+<p>大野愣住了，他被摔在地上的瞬间有点疼，但他顾不上自己，赶快爬起来冲着那些层层叠叠堆上来的狼群撕咬。</p> 
+<p>就在他以为这下要完了的时候，松本从几乎看不清有多少的狼群里杀了出来，嘴里咬着他们头狼的脖颈。</p> 
+<p>大野读懂了松本的意思，他大声：“你们的头狼已经死了！”</p> 
+<p>松本甩下奄奄一息的头狼，他身上沾满了血迹，也看不出是他的还是对手的，那一瞬间，谁都不敢大声说话。</p> 
+<p>“你们虽然是狼，但喜欢单打独斗，看起来是一起攻击，实际上，哼。”松本咧嘴笑了起来，“给你们一周时间，选出新的头狼，我们再谈。”</p> 
+<p>一旁看着的大野心里又是骄傲又是难过。</p> 
+<p>骄傲的是松本已经完全可以独当一面了，难过的是又要在这里待至少一周。</p> 
+<p>他冷得又打了个喷嚏。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>旅行了一段时间后，大野从带领者变成了跟在松本身后的守护者，松本也有了和鬣狗一斗的决心和自信。</p> 
+<p>只是他们之间的关系也发生了变化。</p> 
+<p><br /></p> 
+<p>从什么时候开始的也不太清楚，大野甚至都不知道自己是不是对松本有着“恋人”的感情，他只是觉得如果是他的话，也无所谓。</p> 
+<p>而对松本来说，发情期时候想到的都是大野，不管是那身漂亮、看起来神秘的黑色皮毛，还是人形时候虽然娇小但肌肉流畅结实的身体、精致又耐看的眉眼。</p> 
+<p>发情期之后松本很想抓住大野问问到底对他是怎么想的，但那段时期太忙了，他还没来得及和大野细聊，就投入到了夺回属于自己东西的战斗里。</p> 
+<p><br /></p> 
+<p>“……感觉就和少年漫画一样啊……”松本甩了甩自己的尾巴，小声说着。</p> 
+<p>大野咬住了松本的尾巴，松本“嗷”的一声就要去扯大野的，被大野完美躲开。</p> 
+<p>他含着松本的尾巴口齿不清地说：“哪个少年漫画里男主角会把身边的老师按在地上干啊？你说啊？哪部？我怎么没看过？”</p> 
+<p>松本咬牙切齿：“你先把缠在我腰上的尾巴松开再说……等下，你再含我可能要开始第二轮啊，别咬了！”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>4</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>猎豹家族还是一样的不友好，他们最引以为傲的可以做族长的成员被拐进了组织里，和黑豹关系好，结果还受了重伤。</p> 
+<p>怎么看怎么应了那个传说。</p> 
+<p><br /></p> 
+<p>大野跟在松本身后进门，本能地感觉到了后背一阵阵敌意的目线，他心里暗暗叹了口气，只是觉得麻烦。</p> 
+<p>松本无视了那些门廊里、院落里投来的视线，兽形的、人形的，在他眼里都没什么存在感，松本只是来和那位家主谈话的，其他人什么态度他管不着，也不想管。</p> 
+<p>猎豹家主也是一位女性，她看起来和四十多岁的女人一样，但估算起来应该也活了很长时间了。她保持人形，却坐在院落中心的树上，冷冷地、居高临下地看着走进来的松本和大野，一言不发。</p> 
+<p><br /></p> 
+<p>松本抬头，清楚又简单地说：“让您的族人受伤，是我的失职，但我们也想问您一些问题，不知道您现在是否方便？”</p> 
+<p>听到这么讲话的松本，大野心说不妙，下一秒那个女人便化成兽形从树上跳下来，朝他们扑了过去。</p> 
+<p>大野下意识地推开松本，也化成了黑豹的样子，挡在了跳下来的猎豹面前。</p> 
+<p>“……你还敢在我的领地上出现？”猎豹家主声音低沉，冲大野呲着牙。</p> 
+<p>大野沉默，他突然笑了：“您不会动我，动了我您可是要倒霉的。”</p> 
+<p>猎豹家主的眼神暗了暗，她似乎被大野说中了，又向他威胁地呲了呲牙，盯着他往后退了几步。</p> 
+<p>“你们黑豹真的是该死的灾星。”猎豹家主骂了一句，她扭头对松本恶狠狠地说，“你和灾星一起一定也会倒霉死的。”</p> 
+<p>松本冷笑：“你们倒霉不是因为黑豹，是你们自己的问题。”</p> 
+<p>大野咳了几声，瞪了情绪不太对的松本一眼，然后问家主：“请问您在……您在我姐姐……”大野注意到猎豹家主打了个寒颤，他停顿了一下，继续问道，“……受伤的那段时间，有没有注意到您族人有什么动静吗？她是背后受到的枪伤，所以我想可能是认识、信任的人干的。”</p> 
+<p>家主叹了口气，很不情愿地说：“他们新一代的一些人我已经管不着了，和她有没有联系我也不太清楚。”</p> 
+<p>“好的，”大野抢在松本之前赶紧开口，“那打扰您了，我们这就离开。”</p> 
+<p>猎豹家主在大野轻推着松本走出院门前，说了一句。</p> 
+<p>“如果发现猎豹家族有人参与谋害她的话，不用和我说明，直接动手处理掉吧。”</p> 
+<p><br /></p> 
+<p>大野脚步一顿，他回头望了一眼，那位已经活了很长时间的家主已经转身走进了屋子，院落里一群始终都盯着他们的猎豹发出了敌意的呼噜声。</p> 
+<p>他耸耸肩，赶紧走出了这座宅子。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“拦着我干什么，”松本坐在车里抱手臂一脸不满，“他们已经衰落了很长时间，还这么嚣张古板，也应该教教他们道理了。”</p> 
+<p>大野摇摇头：“没必要记仇。”</p> 
+<p>松本揉了揉大野的头发，叹了口气：“你真的，该让我说什么好。”</p> 
+<p>“那就不用说了。”大野朝松本眨眨眼，笑了一下。</p> 
+<p><br /></p> 
+<p>回到大宅的时候，门口站了一个人，松本坐在车里眯着眼睛看了看，似乎是秃鹫家族的人。</p> 
+<p>大野先下了车，他朝那个人走了过去。站在门口等着的人有着秃鹫家族特有的面部特征，鼻尖勾回，眼角吊起，看起来很不怀好意。大野朝那人点点头，开口询问：“请问您有什么重要的事情吗？在这里等着？”</p> 
+<p>那人朝大野点头：“我家家主让我过来送个口信，”他看了眼坐在车里盯着这边的松本，“有人说要让整个组织完蛋，给我们家主送来了这个，”那人掏出一个小盒子，打开里面放着一个缩小版的猫科动物骨骼模型，大野低头扫了一眼，底下的标签写着“松本润”，“家主收到之后立马派我过来告诉你们，让你们最近小心一些。”</p> 
+<p>大野合上那个盒子：“你们查出来是谁送过去的吗？”</p> 
+<p>那人摇摇头：“家主查了，那个包裹是匿名包裹，模型是找人类定做的，辗转了好几个地方送过来，没有任何相关的蛛丝马迹。”</p> 
+<p>大野扬扬眉毛，他朝松本那里走了过去，敲了敲车窗。</p> 
+<p>松本把车窗降下来，问：“怎么了？”</p> 
+<p>大野简单地把这件事告诉了松本，小声问：“先别管那些，秃鹫家的这个人……”</p> 
+<p>“我知道。”松本言简意赅地打断了大野的话，他打开车门，走了下来，径直走过去，朝那个秃鹫家的口信人点点头：“谢谢你家家主，我们会注意的，也麻烦你们自己多注意一些，”他又补了一句，“如果你们方便的话，麻烦你们也把警告告诉联盟的其他家族吧。”</p> 
+<p>那人点点头，化成原形离开了。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“你怎么看？”</p> 
+<p>松本和大野往宅子里一边走一边问。</p> 
+<p>大野耸耸肩：“越来越玄乎了。”</p> 
+<p>“……是啊，关键我们不知道对方到底是谁。”松本叹了口气，他脑子里过了许多可能会有嫌疑的人，但似乎都不太像会做出这样事情的家伙。</p> 
+<p>大野没有说话。</p> 
+<p>“……还是说你知道是谁？”松本愣住了。</p> 
+<p>“不知道。”大野很快回答。</p> 
+<p>“……你吓死我了。”</p> 
+<p>松本嘴上说着，但他看得出来，大野知道些什么，但没说。</p> 
+<p><br /></p> 
+<p>现在这种状况下还是那种无所谓的样子，一般都是大野有什么的表现。</p> 
+<p>当初大野一声不吭地跑掉，基本上也就是这样的了。</p> 
+<p>前一天还和自己说着第二天要和一个武器供应商谈合作，结果就人间蒸发了，害得他放下了那个餐会四处找人，然后在自家卧室的枕头下面发现了一个字条。</p> 
+<p>松本那会儿怀疑是不是自己逼得有点紧，才让大野跑掉的，等找到大野之后松本还是没从他那里听到一个准确的答案，他到现在都不清楚为什么大野离开这个组织两次。</p> 
+<p>如果说厌恶了这样的日子，那在小镇住着的时候，也不会接受美洲虎的联络了。</p> 
+<p>什么“豹子总要自己长大的”，那种破理由他才不信。</p> 
+<p>松本有点头疼。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野在吃饭的时候突然开口：“松润，你记不记得以前有个吃饭时候以为我是你养的小开的政客？”</p> 
+<p>松本呛了一口：“啊，我记得，不过我觉得他的眼神真的是有问题。”</p> 
+<p>“那个政客死了。”大野丢了块香肠扔进嘴里，“就在昨天。”</p> 
+<p>松本停下手里的刀叉，他一脸严肃地看着大野：“虽然那个人很蠢，但他是我们的护盾之一啊。”</p> 
+<p>“嗯，”大野打开手机，给松本看了眼报社认识的人发来的消息和图片，那位政客被咬得七零八落，几乎看不出完整的人形，“你觉不觉得这种攻击很眼熟。”</p> 
+<p>“犬类。”松本吐出了两个字，“犬类的齿痕啊。”</p> 
+<p>“嗯。”大野只是发出了一个单音节，然后便低头往嘴里塞着食物。</p> 
+<p><br /></p> 
+<p>“……就这些？”松本问，“你是不是还有事没和我说？”</p> 
+<p>大野摇摇头，没作声。</p> 
+<p>松本放下大野的手机，他盯着低头吃饭的大野，没说话。</p> 
+<p>大野吃完东西抬头的时候，被死死盯着他的松本吓了一跳。</p> 
+<p>他反应过来松本为什么这样盯着，挠了挠鼻尖：“嗯，我没有隐瞒你的事情。”</p> 
+<p>“你有。”松本很不开心，他的声音听起来发冷，“你又要做什么？这次是一个人去收拾对手？还是一个人又安排好所有的事情然后溜掉？说啊，我听着。”</p> 
+<p>大野安静地看着松本，眼珠转了转：“我只是觉得松润可以不用被拖进来。”</p> 
+<p>“嗯？”松本皱紧了眉头，“你每次都是这样，有事情就一个人藏着，擅自替别人做出安排，你知不知道这样我很受伤？”</p> 
+<p>大野抿了抿嘴：“我只是……”</p> 
+<p>“还觉得我是小崽子吗？”松本冷冷地说。</p> 
+<p>大野叹气：“说实话我不知道。”</p> 
+<p>“哼。”松本撇嘴。</p> 
+<p><br /></p> 
+<p>“……好啦我知道了。”大野把刀叉放好，“我看到这个齿痕，就猜到会是谁了。唉，总之这件事起因也都是我。”</p> 
+<p>“我听着呢，你说吧。”松本的脸部线条柔和了一点点，他给大野倒了杯香槟，双手交叉着安静地听。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本润带着人开着车到了查到的地方之后，他有点嫌恶地看了眼那个看起来脏乱差的车库。</p> 
+<p>“等会儿你们记得留个活口带回去问话。”松本嘱咐完，换了双鞋。</p> 
+<p>他不打算用原形解决这群家伙了，在看了这个环境之后。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野解释完他的合理推测之后，松本无语了一段时间。</p> 
+<p>那个齿痕大野见过，在他做暗杀组的时候。能咬出这样的齿痕，而且还在人类眼皮底下，只有那些狼狗了。</p> 
+<p>化成被驯化的动物样子，然后下死手，干掉之后再混进那群巡回犬里逃掉，真的非常的容易。</p> 
+<p>而且也方便拿到人类的枪支。</p> 
+<p><br /></p> 
+<p>他打电话问手下人的时候，已经有些人猜出来是什么东西干得了，这让松本稍微有点挫败感。</p> 
+<p>大野倒是觉得没必要挫败，毕竟这种事也确实是手下人应该做的。</p> 
+<p>怪只能怪对手太容易嚣张了，才弄伤一个副手夺了些地盘就以为自己要赢了，这么快就露了大漏洞。</p> 
+<p><br /></p> 
+<p>看来还是太年轻了。</p> 
+<p>松本踹开车库门的时候看到这群愣住的人，心里想着。</p> 
+<p>里面或站或坐着十几个看起来二十来岁的人，有些是兽形的，晃着尾巴，眼睛闪烁着敌意的光。</p> 
+<p>“就你们这几个吗？”松本眯起了眼睛，嗤笑了一声。</p> 
+<p>那些对手还凑合，没傻傻地愣在原地，有几个很快就拿起了手里的枪，有几个也变成了原形扑了上来。</p> 
+<p>枪法还挺准，有几发子弹挨着松本的衣角飞过去了。他跑着Z字形很快地冲了上去，一边用天生的动态视力躲着子弹，一边伸出了尖利的爪，往这群人的身边靠近。</p> 
+<p>手下的人纷纷都变成了兽形，和那些咬上来的狼狗厮杀着。</p> 
+<p>松本很轻松就撂倒了几个拿着枪的对手，顺手拿起了枪，瞄准那些围过来的犬类，开了枪。</p> 
+<p><br /></p> 
+<p>“这也太简单了。”松本看着已经解决停当的现场，和手下人聊着，“觉不觉得肯定没这么简单？”</p> 
+<p>“其他家族的背叛者还没揪出来呢，”手下人舔了舔爪子上的血迹，“这件事肯定还没完。”</p> 
+<p>“许了什么条件真的挺让我好奇的，”松本感叹，他踢了留下的狼狗活口一脚，“这群家伙势力这么单薄还没钱，怎么能说服人背叛呢。”</p> 
+<p>“野心吧，”跟过来的冰原狼嫌恶地说，“以为自己可以爬到高位的年轻人特有的野心。”</p> 
+<p>“……说的也是。”松本擦了擦手，“回去吧。”</p> 
+<p>他心里惦记着大野那边的情况，想赶紧回去等消息。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野智站在猎豹家宅门口，叹了口气，他回头对手下的人说：“先别进来，我去说下。”</p> 
+<p>他还是在一阵敌意的视线里走到了家主面前，开口：“我来是要和您确定一件事。”</p> 
+<p>家主依旧很高傲：“霉运的象征和我说话？”</p> 
+<p>大野眯起了眼睛：“您把真的猎豹家主藏在哪儿了？”</p> 
+<p>宅子里一阵寂静，那位家主愣了一下，然后便开始哈哈大笑：“你在说什么鬼话……”</p> 
+<p><br /></p> 
+<p>“猎豹家主不管家族里的人犯了什么样的错都不会让外人动手，”大野很言简意赅地说，“就算是昏了头都不可能对人说出这种话。”他在所有人都没反应过来的时候冲到了家主面前，伸手掐住了那人的脖子，“你把家主藏到了哪里？还是说你已经干掉她了？”</p> 
+<p>宅子里的猎豹有的下意识地想保护家主，又因为大野那番话有些动摇，有很少一部分猎豹已经毫不犹豫地冲上去想把大野咬死了。</p> 
+<p>大野带来的手下人早已准备好一有动静就赶紧破门而入，现在恰好是是时候了。</p> 
+<p>“注意分辨下自己人和敌人啊，”大野喊了一句，“犹豫的家伙不用管。”</p> 
+<p>“知道了。”来帮忙的狮子扯住一只张牙舞爪要扑上来的豹子，三两下就把那只豹子咬死了。</p> 
+<p><br /></p> 
+<p>大野还是死死地掐着那个伪装成家主的家伙，一边收紧手一边问：“家主绝对还活着，否则你的气味不可能会这么完美地混过去。说，她在哪儿？”</p> 
+<p>冒牌货已经眼睛充血了，她艰难地笑着，就是不肯开口。</p> 
+<p>大野见这家伙油盐不进，干脆拖着这个冒牌货走进了猎豹的宅子。</p> 
+<p>他以前做暗杀组的时候曾经因为无聊探索过猎豹的家宅，所以熟门熟路地找到了内室，大野找了根绳子死死地绑着这个冒牌货，就这么拖着她满宅子找人。冒牌货被拽着拖在地上差点被勒死，大野也懒得去管她，要紧的是找到那个家主。</p> 
+<p>外面还在打着，大野耐心地一个屋子一个屋子找，结果听到了地下传来的一声杂音。</p> 
+<p>他简单粗暴地拆了地板，发现那位曾经带着人杀了他家人的家主，蜷缩在地下挖的一处洞穴里，浑身都是血。</p> 
+<p>大野把那人救出来的时候，她连是大野都没看出来，只是一味地喘着气，虚弱得连眼睛都睁不开了。</p> 
+<p><br /></p> 
+<p>大野心情复杂，把她交给战斗完的手下，洗洗手，就赶紧离开了这个宅子。</p> 
+<p>他总觉得待在这里怪怪的。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野结束了一切坐进车里的时候，发现手机一直在响。</p> 
+<p>他接了起来，一边揉着眼睛一边说：“我这边搞定了。”</p> 
+<p>“你好慢。”</p> 
+<p>“那个冒牌货死活不开口，我只好自己找了。”大野撇撇嘴。</p> 
+<p>“那你也好慢。”</p> 
+<p>大野哼了一声，问：“留活口了吗？”</p> 
+<p>“留了，”松本拖长了声音，“你呢？”</p> 
+<p>“留了。”大野打了个哈欠，“之后就交给你了，我好困。”</p> 
+<p>“陪我啦，”松本说着，“大不了你在那儿睡。”</p> 
+<p>“……好吧。”</p> 
+<p>大野无奈地答应了他，合上了手机。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>5</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本润和大野智看望完休养的猎豹大姐，从病房里出来，大野对松本说“你先下楼吧，她这里交给我”，松本点点头，径自下楼了。</p> 
+<p><br /></p> 
+<p>折返回去的大野，把那张纸条还给了猎豹大姐。</p> 
+<p>他看着不说话的猎豹大姐，叹气：“你……”</p> 
+<p>“你一开始就看出来是我的笔迹吧，”猎豹大姐开口说，“你也知道……”</p> 
+<p>“我也知道你根本不是我的什么远房姐姐，”大野干巴巴地说，“你也根本没受那么重的伤。”</p> 
+<p>病房门外传来了一阵阵的哀嚎和翻倒东西的响声，猎豹大姐愣愣地看着大野，笑了：“你们啊，真的反应太快了。”</p> 
+<p>“不是我们反应太快，”大野很平静，“是你找错了盟友。”</p> 
+<p>“不是我找得那窝小孩，”猎豹叹气，“是那群小孩找到的我。”</p> 
+<p>“毕竟是我把他们的家人杀掉的啊，”大野苦笑，“所以我才讨厌这种生活，一个不注意就树立了敌人，还得解决后续问题。”</p> 
+<p>猎豹笑了：“是啊，你当初暗杀的时候应该把他们也一起干掉的。”</p> 
+<p>“那你是因为什么呢？”大野费解地看着猎豹，“你和美洲虎不已经在一起了吗？”</p> 
+<p>“是啊，”猎豹眼神很晦暗，“我……我可能只是太贪心了。只要你们存在，他就不能独立，不是吗？”</p> 
+<p>“所以利用猎豹家族和我家之间的仇恨来挑事吗？”大野皱着眉头，“你知道你的家主被那群极端分子折磨成什么样子了吗？”</p> 
+<p>“我知道，是我授意的。”猎豹笑了，笑得很惨。</p> 
+<p>大野叹气：“好吧。”</p> 
+<p><br /></p> 
+<p>一阵沉默，只有门外的喊声和痛苦的呼救声响着。</p> 
+<p><br /></p> 
+<p>“不杀我吗？”猎豹坐在病床上，安静地看着大野。</p> 
+<p>大野叹口气，举起了枪。</p> 
+<p>“啊啊，枪，确实很好用呢。”猎豹笑笑，眨着眼。</p> 
+<p><br /></p> 
+<p>“你别想逃离这样的生活，大野先生。”</p> 
+<p>枪响了。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本润搞定了那所早就背叛的医院，回到车库的时候发现大野已经坐进了车里。他擦了擦手，打开车门跟着坐了进去。</p> 
+<p>“……完事了？”他问。</p> 
+<p>大野点点头，没说话。</p> 
+<p>松本见他这样，伸手搂住了大野，什么都没说。</p> 
+<p><br /></p> 
+<p>“我倒不是因为她。”大野说，伸手摸了摸松本的膝盖。</p> 
+<p>松本点头：“我知道。”</p> 
+<p>“我们可能确实离不开这种生活啊……”大野摇头，“以为能逃开的，结果还是躲不掉。”</p> 
+<p>“嗯。”松本搂紧了大野。</p> 
+<p>“不过也无所谓了。”大野捏了捏松本的腰，“加油啊松本先生。”</p> 
+<p>松本笑了起来，他低头啄了大野一口：“你指什么加油？床上吗？”</p> 
+<p>大野耸耸肩：“你说什么就是什么咯。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>——End</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>真的干瘪，一点都不辣，我认错，不要打我（x）</p>
+
+<a id="more"></a>
+
+<hr>
+<p><code>2019-01-28 03:22:12</code> 【Okada】 谢谢gn的文章</p>
+<p><code>2019-01-28 08:59:19</code> 【qi_an】 回复【Okada】 谢谢gn的评论还有一直以来的红心等等，谢谢您qwq</p>
+<p><code>2019-01-29 07:17:47</code> 【Okada】 回复【qi_an】 希望老师以后继续阿！！</p>
+<p><code>2019-01-29 08:08:21</code> 【qi_an】 回复【Okada】 会继续的！还没写完三十题呢hhh</p>
+<p><code>2019-01-29 16:40:04</code> 【Okada】 回复【qi_an】 这次才感受到喜欢他的gn们好温柔啊，大家都这么好</p>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E6%B6%A6%E6%99%BA/" rel="tag"># 润智</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/1d7a8b0f_12d6af656" rel="prev" title="【润智】帷幕积尘而落">
+      <i class="fa fa-chevron-left"></i> 【润智】帷幕积尘而落
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/1d7a8b0f_12d96bda4" rel="next" title="【智润智】昔日已死">
+      【智润智】昔日已死 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC81MjA3Ny8yODU1OA=="></div>
+  </div>
+  
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="想变成一条鱼"
+      src="/images/bloghead.jpg">
+  <p class="site-author-name" itemprop="name">想变成一条鱼</p>
+  <div class="site-description" itemprop="description">想变成一条鱼的永久分矿</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">121</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">20</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/SilencerSato" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;SilencerSato" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:sqsq94@sina.com" title="E-Mail → mailto:sqsq94@sina.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://weibo.com/u/1861343134" title="Weibo → https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;1861343134" rel="noopener" target="_blank"><i class="fab fa-weibo fa-fw"></i>Weibo</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/silencer_sato" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;silencer_sato" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://instagram.com/silencer_satoya" title="Instagram → https:&#x2F;&#x2F;instagram.com&#x2F;silencer_satoya" rel="noopener" target="_blank"><i class="fab fa-instagram fa-fw"></i>Instagram</a>
+      </span>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      相关链接
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://www.lofter.com/blog/fishingsilencer" title="https:&#x2F;&#x2F;www.lofter.com&#x2F;blog&#x2F;fishingsilencer" rel="noopener" target="_blank">Lofter</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://fishersilencer.wordpress.com/" title="https:&#x2F;&#x2F;fishersilencer.wordpress.com" rel="noopener" target="_blank">WordPress</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://archiveofourown.org/users/silencer_sato" title="https:&#x2F;&#x2F;archiveofourown.org&#x2F;users&#x2F;silencer_sato" rel="noopener" target="_blank">AO3</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="http://hellowland.com//u36070" title="http:&#x2F;&#x2F;hellowland.com&#x2F;&#x2F;u36070" rel="noopener" target="_blank">HelloWorld</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.rearyard.com/self/29330/info" title="https:&#x2F;&#x2F;www.rearyard.com&#x2F;self&#x2F;29330&#x2F;info" rel="noopener" target="_blank">rearyard</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 2020-12 – 
+  <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">想变成一条鱼</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+
+    <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+    <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+    <span class="post-meta-divider">|</span>
+    <span id="busuanzi_container_site_uv">总访客数<span id="busuanzi_value_site_uv"></span>人</span>
+    <span class="post-meta-divider">|</span>
+<!-- 不蒜子计数初始值纠正 -->
+<script>
+$(document).ready(function() {
+
+    var int = setInterval(fixCount, 50);  // 50ms周期检测函数
+    var countOffset = 20000;  // 初始化首次数据
+
+    function fixCount() {            
+       if (document.getElementById("busuanzi_container_site_pv").style.display != "none")
+        {
+            $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + countOffset); 
+            clearInterval(int);
+        }                  
+        if ($("#busuanzi_container_site_pv").css("display") != "none")
+        {
+            $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + countOffset); // 加上初始数据 
+            clearInterval(int); // 停止检测
+        }  
+    }
+       	
+});
+</script> 
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  
+  <script color='0,0,255' opacity='0.5' zIndex='-1' count='99' src="/lib/canvas-nest/canvas-nest.min.js"></script>
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+<script>
+NexT.utils.loadComments(document.querySelector('#lv-container'), () => {
+  window.livereOptions = {
+    refer: location.pathname.replace(CONFIG.root, '').replace('index.html', '')
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1076 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.2.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/fish_32px_1289440_easyicon.net.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/fish_16px_1289440_easyicon.net.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-minimal.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="warning：  &gt;&amp;nbsp;前章：0，上  &gt;&amp;nbsp;剧作家润 x 时间旅行者智，其余设定一时半会儿讲不清，总之是个神奇的故事（。  &gt;&amp;nbsp;建议先读完第0章再继续决定要不要接受这种神奇设定  &gt; ooc    -----------------------------------------    3.5    “……这里的食物都很好看，颜色搭配也很好，我">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【润智】Crooking（中）">
+<meta property="og:url" content="http://example.com/1d7a8b0f_114e7ae0">
+<meta property="og:site_name" content="渔船停泊处">
+<meta property="og:description" content="warning：  &gt;&amp;nbsp;前章：0，上  &gt;&amp;nbsp;剧作家润 x 时间旅行者智，其余设定一时半会儿讲不清，总之是个神奇的故事（。  &gt;&amp;nbsp;建议先读完第0章再继续决定要不要接受这种神奇设定  &gt; ooc    -----------------------------------------    3.5    “……这里的食物都很好看，颜色搭配也很好，我">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2017-10-05T06:55:11.000Z">
+<meta property="article:modified_time" content="2017-10-05T06:55:11.000Z">
+<meta property="article:author" content="想变成一条鱼">
+<meta property="article:tag" content="润智">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://example.com/1d7a8b0f_114e7ae0">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>【润智】Crooking（中） | 渔船停泊处</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">渔船停泊处</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">一个小型露营地</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/1d7a8b0f_114e7ae0">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/bloghead.jpg">
+      <meta itemprop="name" content="想变成一条鱼">
+      <meta itemprop="description" content="想变成一条鱼的永久分矿">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="渔船停泊处">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【润智】Crooking（中）
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2017-10-05 14:55:11" itemprop="dateCreated datePublished" datetime="2017-10-05T14:55:11+08:00">2017-10-05</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Text/" itemprop="url" rel="index"><span itemprop="name">Text</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p>warning：</p> 
+<p>&gt;&nbsp;前章：<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_10c6a7e9"  >0</a>，<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_11083981"  >上</a><br /></p> 
+<p>&gt;&nbsp;剧作家润 x 时间旅行者智，其余设定一时半会儿讲不清，总之是个神奇的故事（。</p> 
+<p>&gt;&nbsp;建议先读完第0章再继续决定要不要接受这种神奇设定<br /></p> 
+<p>&gt; ooc</p> 
+<p><br /></p> 
+<p>-----------------------------------------</p> 
+<p><br /></p> 
+<p>3.5</p> 
+<p><br /></p> 
+<p>“……这里的食物都很好看，颜色搭配也很好，我从来没见到过这么素雅的颜色……”</p> 
+<p><br /></p> 
+<p>“……松润竟然才28岁啊……28岁就这么稳重能干真厉害……”</p> 
+<p><br /></p> 
+<p>“……混进人群意外的很简单，这个时代的人类基本和盖亚上的一样，都不愿意理人呢fufu……也很方便我四处走走……我在住的地方附近发现了一家博物馆，里面放着据说是这个时代再往前几千年的铠甲……我记得教会学校里讲得那个时候还没有人类，不知道为什么要这么说……”</p> 
+<p><br /></p> 
+<p>“……不会读汉字好难受啊……这里的汉字很难懂啊，完全不知道这样写有什么意义……这一点上盖亚的通用语还是比较简单的……不过算了，太麻烦了不想学……”</p> 
+<p><br /></p> 
+<p>“……松润说我画的插画都很奇特……那就是我真的遇见过的、看到过的东西呀……要说奇特的话这里的艺术品才奇特呢fufu……啊不对，不应该用奇特，用神奇比较好……艺术果然是没有正确答案啊……”</p> 
+<p><br /></p> 
+<p>“……今天我出去买一种叫做蛋糕的东西，不小心在他们的公共交通工具上碰到两个人在聊天，他们说的话都能听懂，但不知怎的我实在是搞不明白，听起来这两个人关系好像还不错，说是一定要约着出去玩什么的，但他们很快就分开了……不是说要一起吗……”</p> 
+<p><br /></p> 
+<p>“……我无法接受把动物生前的样子完整保留下来的食物……这太残忍了……不过人类真的从里到外都是残忍的……”</p> 
+<p><br /></p> 
+<p>“……我终于看到了在历史中的叫做‘电影’的东西！就和教皇做演讲时候弹出来的影像流一样的东西！很有趣，我还流眼泪了……对了对了，这里可以随便流眼泪，不会因为流眼泪被主教叫过去受罚，啊太好了……顺便松润真的很难懂，明明也流泪了，非要说没有……为什么呢……”</p> 
+<p><br /></p> 
+<p>“……发现了，他们这个时代的智能发展真的是远古级别的，而且没有整合出来像天网语言那样高级的智能范式……我觉得天网应该不会追到这儿来……”</p> 
+<p><br /></p> 
+<p>“……我去了趟图书馆，偷偷带着翻译器去的……用端脑计算，按照目前这个科学发展和世界形势，虽然导致大流亡级别的事件可能会发生，但是地球会完全消失掉的概率不到百分之二十……它为什么消失了……”</p> 
+<p><br /></p> 
+<p>“……松润把我说过的事情都记录下来了，虽然他从来没有提过或者给我看过，但没办法啊，不管学的怎么样也算是学过天网语言的……”</p> 
+<p><br /></p> 
+<p>“……我发现松润的脸很好画，特征很明显，而且真的很好看。我在想如果他到了我们那个时代，一定会在教皇手下的宣教部做事吧。如果是他的话说不定我就答应种植复活基了……”</p> 
+<p><br /></p> 
+<p>“……顺便说一下，似乎我的味觉系统受损比较大……不过没关系，本来也已经不需要怎么进食了……”</p> 
+<p><br /></p> 
+<p>“……身体有些累了……”</p> 
+<p><br /></p> 
+<p>“……润真的很温柔，我已经给他造成了太多的困扰了……但是……我似乎已经习惯这样的生活了……”</p> 
+<p><br /></p> 
+<p>“……看着他的眼睛，感觉自己卷入了WE-30星球上的弥花漩涡里……”</p> 
+<p><br /></p> 
+<p>“数据已上传至薛定谔箱端脑存储核心，存储空间剩余43%，晶体初始化中。”</p> 
+<p><br /></p> 
+<p>4</p> 
+<p><br /></p> 
+<p>松本润这天难得起了个大早，他睁开眼睛，躺在床上消化掉自己的起床气，然后一骨碌爬起来。</p> 
+<p>床边堆满了他昨晚收拾出来的搭配好成套的衣服，显然衣服们的主人还没有决定要穿哪件，可怜巴巴地摊在那里。</p> 
+<p>他冲了个澡，在镜子前洗漱完毕，还用剃须刀刮了刮因为赶一些短篇约稿而长出来的胡茬，犹豫了一下便抬手修整了他那随着时间推移疯长的眉毛。从卫生间出来的松本顺手把客厅的大门打开了一个缝，然后回到卧室看着满床的衣服叹了口气。</p> 
+<p><br /></p> 
+<p>“……这件太正式了……这件是不是太花哨……”</p> 
+<p>松本拿起衣服比划了半个多小时，最后决定穿着一件衬衫，外面搭着巧克力色菱形方格的毛衣外套，故意把衬衫的下摆不规则地拽了出来，下身穿了一条略微修身的牛仔裤。乍看起来有些随意，但配上松本那张多情又深邃的脸，莫名地有气场。</p> 
+<p>他戴上手表，往嘴里塞了半块吐司，一边嚼一边想着今天的安排。</p> 
+<p><br /></p> 
+<p>他又一次走到了镜子前，琢磨怎么折腾他的头发。松本每次去一些剧作家的沙龙时总会用发胶把刘海抹上去，又利落又充满攻击性，平时为了不遮挡视线，他也会稍微抹一点不让刘海落下来。</p> 
+<p>今天他也打算这么做。</p> 
+<p><br /></p> 
+<p>当松本刚刚拧开发胶的盖子时，传来了大野的声音。如果不仔细听还听不见。</p> 
+<p>“松润？我在门口等你。”</p> 
+<p>“好，我很快！”松本喊了一声，他这时才看了一眼手表，早就已经到了他和大野昨天约定好的时间，还超过了两分钟。</p> 
+<p><br /></p> 
+<p>我这是在做什么啊。</p> 
+<p>怎么搞得像是高中时候第一次约会一样。</p> 
+<p><br /></p> 
+<p>松本赶紧把头发随手拨弄了一下，连发胶都没来得及上，抄起手机和钱包就往外走。</p> 
+<p>他走到门口，路过厨房又拿了两片吐司：“你吃过早饭吗？”</p> 
+<p>大野摇了摇头：“不用吃了，我一点都不饿。”</p> 
+<p>“不行，”松本走到大野面前，强硬地把吐司塞到大野手里，“水族馆有点远，去地铁站的路上吃掉。”</p> 
+<p>大野撇着嘴像是吞下剧毒一样艰难地小口啃着吐司，跟在松本身后下了楼。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>他们在深秋的街道上慢悠悠地往地铁站赶去，因为还早，街上没什么人，秋天特有的无云天空刚被探出头的阳光晕染上一层金色，半绿半黄的叶片从树上挣扎着跳下，落在了嚼着吐司的大野头上。</p> 
+<p>这个时候，松本才有时间好好看看大野。</p> 
+<p><br /></p> 
+<p>幸好松本昨晚提醒大野，今天天气略凉要多穿点等等，大野他换了一身衣服。不同于平时万年不变的T恤加宽松的运动外套，大野穿了一件白色的打底长袖，外面套了一件略大的灰色开衫薄毛衣，V形的领口松松地挂在胸口，袖口长度刚刚能露出手指尖。因为袖子有点长，大野拿着吐司的时候显得非常小心翼翼，看起来像某种小型动物。</p> 
+<p><br /></p> 
+<p>松本莫名其妙地心情很好，步伐也变得轻快了许多。</p> 
+<p><br /></p> 
+<p>大野走着走着，突然冒出了一句：“刘海，很可爱。”</p> 
+<p>松本愣了一下，才发觉自己出门前竟然忘记把刘海抹上去。他有些不好意思地伸手捋了一下：“忘记弄上去了……”</p> 
+<p>“放下更可爱一些，松润还是把刘海放下来吧。”</p> 
+<p>“喂不要用可爱形容一个男人啊……”松本脸有点红，假装生气地轻拍了一下大野的头。</p> 
+<p>“不可以吗？”大野当真了，很认真地看着松本，“可是我看到很多人会对男性说可爱啊……他们都用错了吗？‘可爱’这个词，到底是什么意思呢？”</p> 
+<p>松本一时语塞，想找个别的话题糊弄过去，但是看着大野求知欲旺盛的眼神，他犹豫了一下，说：“恩……如果你看到某个东西时，感觉自己心里突然一软，特别想把它捧在手里或者抱在怀里什么的，那就证明这个东西很可爱……一般是用来形容女孩子啊小动物啊之类的……”</p> 
+<p>“可是，”大野很认真地说，“我看到松润的刘海时，确实心里一软。”</p> 
+<p>“……谢谢。”</p> 
+<p><br /></p> 
+<p>松本停下脚步。</p> 
+<p>他拍拍已经热到快冒出蒸汽的脸颊。</p> 
+<p>振作一点啊松本。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本和大野一路无话，坐车到了水族馆，松本让大野在一个角落里站着等他，他买完票就回来。</p> 
+<p>他在排队的时候好好整理了一下自己的思绪。</p> 
+<p><br /></p> 
+<p>大野已经在对面住了一年多，这一年多的时光里，不管是习惯还是什么，他越来越无法将目光从大野身上移开。大野这个人仿佛一个龙的巢穴，充满了许许多多未知的宝藏，不经意间就会猛地发现一个闪亮的、异于常人又很符合大野风格的地方。</p> 
+<p><br /></p> 
+<p>比如大野模模糊糊的日语，比如大野无比珍惜身边的活物，甚至包括门口绿化带的杂草，比如大野看到完整保留活着样子的食物就会于心不忍地难以下咽，比如大野毫无保留的温柔。</p> 
+<p><br /></p> 
+<p>他会在回家路上因为一个卖唱艺人而动容，不顾身边人的劝阻塞给那人一张自己也不是很明白价值多少的大钞，在松本告诉他“那人有钱只是为了给大家唱歌而已”之后，每天都会特意过去当听众。</p> 
+<p>他会在看电影时处于即将泪崩的边缘，小心翼翼地问身边热泪盈眶有些害羞的松本能不能哭，然后靠在松本的肩上默默流泪，还不停地安慰松本，明明自己也哭得惨不忍睹。</p> 
+<p>他不明白理所当然的人情世故，他直截了当地和樱井说不要管他，和来围追堵截的杂志社记者探讨为什么人们需要了解他的私生活，向松本提出一个又一个让他无言以对的问题。</p> 
+<p>他遇到许多没有耐心的人对他出言不逊，而他从来没有抱怨或者伤心过。松本有次提起来，特意问过他需不需要帮忙，而他摇摇头。</p> 
+<p><br /></p> 
+<p>“对人类失望了吗？”松本半开玩笑地问。</p> 
+<p>“没有，”大野言简意赅地回答，“从来没有过。”</p> 
+<p><br /></p> 
+<p>这么数下去根本数不完。</p> 
+<p>他太纯粹了，纯粹又深刻，他能看到寻常又异常的东西，他看不懂，但看的比谁都清楚。</p> 
+<p><br /></p> 
+<p>松本发现自己也在跟着潜移默化地发生改变。</p> 
+<p>变得越来越平静。</p> 
+<p>因为有时需要帮大野了解一些事，松本推掉了一大堆不必要的应酬，他难得地发现自己越来越放松，也越来越有时间去细细琢磨和修改那些曾经脑子里未成形的剧本。</p> 
+<p>松本也渐渐地从大野的视角发现了许多平日里司空见惯却又美好的风景。</p> 
+<p><br /></p> 
+<p>“松润其实做自己就好，”大野随口说道，“累了就休息一下吧。”</p> 
+<p>那次松本又被一个制片人拒绝，强打精神回来带大野去游乐园逛逛。他听到这句话不知怎的眼眶一红，差点掉下眼泪。</p> 
+<p>同时他觉得身上无形中沉重的雾霾消散了，那天是他成年之后在游乐园里玩得最开心的一次。</p> 
+<p><br /></p> 
+<p>他什么都知道。什么都看在眼里。</p> 
+<p><br /></p> 
+<p>跟着纯粹天真的人一起，自己也会变得纯粹……吗……</p> 
+<p>想戴上一副眼镜，能看见大野所看到的这个世界。</p> 
+<p>松本的嘴角无意识地勾起了一个笑。</p> 
+<p><br /></p> 
+<p>“先生？先生您是要买票吗？”窗口的售票员疑惑地询问道。</p> 
+<p>“啊，是的是的……抱歉……”</p> 
+<p>松本蔓延开的思绪被打断了，他慌乱地匆匆买完票，回头赶快去寻找大野，却发现他不在最初的角落。</p> 
+<p>松本慌了，他在那个角落附近找了一圈都没找到大野，正当他马上要去求助于馆内广播的时候，大野从街对面晃晃悠悠走了回来。</p> 
+<p><br /></p> 
+<p>“你去哪……”松本有些生气，但看到大野手里的东西，瞬间没脾气了。</p> 
+<p>大野手里拿着两个热狗，还冒着热气。</p> 
+<p>是松本有次拉着大野专门跑去吃的一家，那时松本疯狂地迷恋上寻找好吃的小摊子，吃的时候松本在那家热狗摊上对它赞不绝口。</p> 
+<p>而松本其实也就吃了那一次而已。</p> 
+<p>“正好看到有卖的，”大野递给松本，小声地说，“抱歉，擅自离开这里。”</p> 
+<p><br /></p> 
+<p>是了。</p> 
+<p>他又那么敏锐。</p> 
+<p>松本接过热狗，有些心绪不宁地小声回了句谢谢。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>水族馆里人不是特别多，都是成对的情侣手牵手地逛着。松本有些不自在地插着兜，低着头慢慢地跟在一进来就兴奋地四处乱跑的大野后面。</p> 
+<p>他看起来真的很开心，平时走路总是晃晃悠悠的，但是在他一看到大批的沙丁鱼在玻璃后面游过的时候，那个快步走过去的大野简直不像松本认知里的他。</p> 
+<p><br /></p> 
+<p>松本来过这里许多次，都是被狐朋狗友拉过来，美其名曰“增进友谊”实则是拉他来当电灯泡，和迟迟不肯上钩的姑娘炫耀自己的交友圈。</p> 
+<p>说实话，已经看腻了。</p> 
+<p>而且他本来也不是特别喜欢海，更别说海里的生物了。</p> 
+<p>大海的咸腥，海底的无掌控感，以及海里生物身上滑腻腻的触感。</p> 
+<p>松本可以数出几十个不喜欢海的理由。</p> 
+<p><br /></p> 
+<p>“……水母好小……”</p> 
+<p>大野指着几乎把自己的触角伸到玻璃缸里的每个角落、缓缓飘过去的僧帽水母说，冲松本眨了眨眼睛。</p> 
+<p>“盖亚没有海洋，编号是ABIAS39的行星有海，那是我第一次见到海，里面只有水母，一只相当于整个水族馆那么大。”</p> 
+<p>松本心不在焉地嗯嗯应和着，伸手轻轻把大野从一对拍照的情侣前面拨开。</p> 
+<p>“再往前的水族箱要比这一带的大很多，”他低头对大野说，“那是一个从天花板到墙壁都是连通的水族箱，那里有一些更大的鱼。”</p> 
+<p>“真的？那我们赶快去吧！”大野听完，拉起松本的手就往前走。</p> 
+<p><br /></p> 
+<p>如同松本所说，前面一个分馆的楼层都打通了，从高高的天花板到墙壁都是大型的密闭玻璃水缸，灯光安装在了墙壁上，透过玻璃缸和水投下来，整个馆的光照不是很强，人们走在连通的水箱下面，就像是走在海底城市里一样。</p> 
+<p>而这个分馆里也有着几乎是镇馆之宝的生物——鲸鱼。</p> 
+<p><br /></p> 
+<p>松本和大野走进的时候，鲸鱼恰好从天花板上的玻璃缸里游过，上方的灯光被鲸鱼巨大的体型遮挡住，如同闷热夏天里飘过的一团雨云。</p> 
+<p>大野抬起头目不转睛地看着，鲸鱼逆着人造灯光，投射出巨大的光晕轮廓。</p> 
+<p>也许是因为情侣们在之前他们呆的地方磨蹭太长时间，这个分馆目前人不是很多。大野恰好停在了正中央，被鲸鱼游过的阴影笼罩着，缓缓流畅地移动着的巨大黑暗，以及在光晕内的空旷，使他看起来更为渺小。</p> 
+<p>在松本的眼中，似乎大野身边掠过的人都是虚焦的，模糊一片。</p> 
+<p>只有他一直抬着头，直到那条鲸鱼完全从上方游过。</p> 
+<p><br /></p> 
+<p>孑然一身。</p> 
+<p>松本的脑子里突然冒出这个词。</p> 
+<p><br /></p> 
+<p>大野又往前走了走，径直走到了标着“鲨鱼”的地方。</p> 
+<p>水缸里有各种各样的鲨鱼，还有许多其他的深海鱼，水缸底有着随水波飘动的海葵和枝杈挺立的珊瑚。</p> 
+<p>他看着离他很远摆动着鱼鳍的鲨鱼，下意识地把手指轻轻地放在了玻璃上。</p> 
+<p>深蓝色的水，以及影影绰绰的灯光，和看得着了迷的大野，好像整个世界只剩下他和水里游动着的鱼。</p> 
+<p><br /></p> 
+<p>松本觉得自己似乎什么都听不到了。</p> 
+<p>他愣愣地朝大野走了几步，又赶快停了下来。松本不想打扰这个安静的时刻，尽管周围都是一些杂乱的惊呼和赞叹。</p> 
+<p>大野像是感觉到什么一样，回头看了松本一眼。</p> 
+<p>他眼睛里都是泪，映着被鱼群划得斑驳破碎的光，微笑着对松本叹息着说：</p> 
+<p><br /></p> 
+<p>“见到了，鲨鱼。”</p> 
+<p>“它们……海豚们……那片海里只有海豚剩下了……它们说过最想念鲨鱼……我想我明白它们为什么会这样说了……”</p> 
+<p>“它们没有在真正地‘活着’，鲨鱼，敌人使它们活着。”</p> 
+<p><br /></p> 
+<p>听完大野不是很连贯的话之后，松本感觉全身的鸡皮疙瘩都起来了，他的心脏不受控制地狂跳，像是被一群人拿蘸了蜜糖的鞭子抽打着一样，伴随着疼痛和说不出来的甜味。</p> 
+<p><br /></p> 
+<p>“我想我也明白了……”</p> 
+<p>他喃喃说道。</p> 
+<p><br /></p> 
+<p>或许，对，或许。</p> 
+<p>大野会让自己喜欢海，喜欢世间的一切。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“和我讲讲你见过的海洋吧。”</p> 
+<p><br /></p> 
+<p>几周后，松本在车上对大野说。</p> 
+<p>从那次他们回去之后，松本开始着手计划着去海边的事情，他连着熬了几个晚上把以前谈下来的网络剧剧本稿子写完寄出，休息妥当便带着大野出发了。</p> 
+<p>离海边还有一段车程，松本就问了这样的问题。</p> 
+<p><br /></p> 
+<p>大野犹豫了一下：“呃……太多话了……我怕我讲不清楚……”</p> 
+<p>他灵机一动，鼓捣了几下手腕上的皮质手链，上面竟然出现了一个耳机接口。松本坐在旁边目瞪口呆地看着大野拿着他的耳机插了进去，又戳了几下手链，把耳塞递了过来。</p> 
+<p>“这样就方便多了。”大野说。</p> 
+<p>松本狐疑地戴上了耳机，被吓了一跳。另一边传来一阵叽里咕噜的声音，但听起来像是大野在讲话。</p> 
+<p>“啊，”大野看到松本犯难的样子，想起什么似的赶紧又戳了几下，“我忘记翻译成日语了……”</p> 
+<p>在大野调整之后，松本才听懂他在说什么。似乎是一些录音，但几段之间没有什么逻辑关系，顶多都是谈论海洋的。</p> 
+<p><br /></p> 
+<p>是检索了关键字吗……</p> 
+<p>松本感到很惊讶，但令他更惊讶的是大野录音中的内容。</p> 
+<p>破碎的、令人不敢相信的故事。</p> 
+<p><br /></p> 
+<p>关于海洋①</p> 
+<p><br /></p> 
+<p>“这里是星际地图上标着‘恸哭之海’的地方，可是我到的时间是一百年前……还没有地图上讲得那么大的海，不过风大是真的……我的天好大的风……飞船差点被浪打翻……希望不要把那个泄露出来……</p> 
+<p>海水可以直接饮用，不过颜色太可怕了，想想会有哪个疯子会喝下亮晶晶的荧光黄色的水……</p> 
+<p>啊我发现它为什么是荧光黄色的了，水里有一种虾，它们的卵是黄色的，嘛还蛮好吃的，有没有毒不太清楚，总之我太饿了就……</p> 
+<p>这里的时间太快了，我还没钓够这儿的虾就得走了……”</p> 
+<p><br /></p> 
+<p>关于海洋②</p> 
+<p><br /></p> 
+<p>“呜啊这颗星球五十年前全部都是水……而且都是死水……</p> 
+<p>这水里……带电……我觉得……我没办法在这个鬼地方待满五年……</p> 
+<p>这种环境里竟然还有鱼？？我……我实在是……</p> 
+<p>好吧，这种鱼太难抓了……顺便说一句这颗星球的海竟然有二十米深……</p> 
+<p>太难吃了，太难吃了，太，难吃了……”</p> 
+<p><br /></p> 
+<p>关于海洋③</p> 
+<p><br /></p> 
+<p>“终于到了，我实在是想看看所有游客都要来的‘粉潮’，确实很粉……</p> 
+<p>恩……不是水粉，也不是水里的东西粉，是一种叫塔拉戈那的水母，它们发出的粉光映的粉……</p> 
+<p>说实话，我见过许许多多的海，颜色都太可怕了……”</p> 
+<p><br /></p> 
+<p>关于海洋④</p> 
+<p><br /></p> 
+<p>“据说这里的海洋曾经和故乡的是最像的，我在原来的时间中来过，这颗星球上的液体只有黑乎乎的油油的矿物和生锈的管道，不过我专门挑了它还没答应开通超光传输门的时间点到，估计能看到很好的海吧……</p> 
+<p>这里的海真好看！很透明的那种蓝绿色，而且竟然有海豚！</p> 
+<p>海豚们会发出声音！我这里有个翻译器，我想看看海豚每天在说什么……</p> 
+<p>呜啊我成功和它们讲话了！让我看看我可以问它们什么东西……</p> 
+<p>我问‘你们开心吗’，它们说‘食物，食物，心’，我问‘只有你们了吗’，它们说‘是，唯一，食物，还有’……</p> 
+<p>我很难过，它们突然离开了，在我问完‘你们最想念什么’的时候……</p> 
+<p>啊我听到远处传来的它们的声音了，希望能收到它们说了什么……</p> 
+<p>‘想念鲨鱼！想念鲨鱼！想念鲨鱼！’……为什么这么说？</p> 
+<p>它们可真好啊，还有同伴……”*</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本还想继续听下去，无奈他们已经到了。</p> 
+<p>和许多的旅客一起下车，松本拖着行李箱，头疼地发现自己又找不到淹没在人群里的大野了。</p> 
+<p>他站在车门附近，焦急地看着已经走远的人群，想从中发现穿得鼓鼓囊囊的大野。</p> 
+<p>冬天略冷的海风吹得松本鼻尖有些疼，他有点后悔没能再等一等，到夏天再带大野到海边玩，那样可能乐趣更多一点。</p> 
+<p>不过那样可能会晒黑吧……</p> 
+<p><br /></p> 
+<p>“松润？松润？”</p> 
+<p>松本回过神来，大野正站在他前面，背着一个小腰包，有些疑惑地看着他。</p> 
+<p>“啊……我还以为你和人群一起走了……”松本赶紧解释。</p> 
+<p>“fufu，怎么会，”大野笑了，“松润还没有走嘛。”</p> 
+<p>松本突然心里一暖，正要说什么，大野又接着说：“松润不在我可不知道怎么回去啊。”</p> 
+<p>……所以我只是个带路的吗。</p> 
+<p>松本耸耸肩，暗暗骂了自己一句，就带着大野往海边的旅馆走去。</p> 
+<p><br /></p> 
+<p>他们订了一间正好离海特别近的酒店，出门就是海边，现在是旅游淡季，人不是特别多，正好有一间房子空了出来。</p> 
+<p>松本正在前台忙着办入住，一回头看见大野站在酒店门口，呆呆地望着海边。</p> 
+<p>他感觉自己胸口被什么软绵绵毛茸茸的东西蹭了蹭，于是笑着走过去，拍了拍大野的肩：“等我们把东西放下，就去看，好吗？”</p> 
+<p>大野拼命地点了点头，一言不发地跟着松本走了进去。</p> 
+<p><br /></p> 
+<p>松本和大野在海边绕了好久，吃过了一大堆新鲜的海产，还跑去和一群来这里的游客一起租了条船在海上转了几圈，大野还在船长的带领下拉着松本跑到一个养殖区钓了会儿鱼。晚上回到酒店的时候，松本已经累得眼睛都快睁不开了。</p> 
+<p>但是他觉得，这次和大野一起去海边，是最为开心的一次。</p> 
+<p>他洗了个澡，拎着罐啤酒想瘫在沙发上看会儿电视，发现大野一个人坐在房间的露台上，朝着大海，不知道在想什么。</p> 
+<p>松本见他只穿了一件皱巴巴的T恤，叹了口气，伸手拿了一件厚厚的外套便推开落地窗，站在了大野的旁边。</p> 
+<p><br /></p> 
+<p>感觉到身上有什么落下，大野抬头看了一眼，赶忙对松本说：“快回去，你刚洗完澡，会着凉的。”</p> 
+<p>松本无奈地看着大野：“你穿得这么少就不要说我了。”</p> 
+<p>“我感觉不到。”</p> 
+<p>“恩？”</p> 
+<p>“我感觉不到冷。”</p> 
+<p>松本觉得气氛有些沉重，他想了想，问：“要不要去海边走走？”</p> 
+<p>看着点了点头的大野，他又补上了一句：“条件是要把外套穿上。”</p> 
+<p><br /></p> 
+<p>冬日的晚上，没有云，可惜是下弦月，白天看起来湛蓝色的海洋漆黑一片。松本和大野两个人一前一后，沉默地走在海边，松本无聊地甚至开始踩起来大野的脚印。</p> 
+<p><br /></p> 
+<p>“……真好啊。”</p> 
+<p>“恩？”松本没听清楚。</p> 
+<p>“地球，真好啊。”大野重新说了一遍，停下来，眼神飘忽地望向远处的海面，无意识地踢着脚下的沙子。</p> 
+<p>“从没听你这么说过，见了海之后才这么觉得吗？”松本有些坏心眼地问道。</p> 
+<p>“城市都是差不多的，”大野毫不留情地说着，“人也是一样。”</p> 
+<p>松本静静地听着，只有不停响动着的海水在回应着大野的话。</p> 
+<p><br /></p> 
+<p>“咸咸的，还带着腥味，我觉得那是生命的味道。”</p> 
+<p>“地球的海太大、太深，而且是蓝色的。”</p> 
+<p>“蓝色很放松，可以彻底地放空自己，什么都不用去想。”</p> 
+<p>“我可以在海边一直看着，看一整天，发一天呆。”</p> 
+<p><br /></p> 
+<p>“不觉得很孤单吗？只有你一个人在发呆？”</p> 
+<p><br /></p> 
+<p>“习惯了。”</p> 
+<p>松本低头看着大野望向海边的侧脸，海面映射出来周围的人工灯光，影影绰绰地将暗暗的光点投射到大野脸上，睫毛上似乎都落满了不明的光线，他的轮廓被模糊掉了，就像一个冗长的梦。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>他们在海边的沙滩上坐了一会儿，一直坐到松本打了几个喷嚏，大野才如梦初醒一样地催促着松本赶快回去。</p> 
+<p>结果在回去的时候赶上了在酒店里住着的人们突然发起的party。</p> 
+<p><br /></p> 
+<p>人们纷纷举起酒杯，称赞着彼此的相遇，尽管前一天还是陌生人，但此时此刻，大量的烈酒和音乐以及潮湿的海风面前，大家都是朋友。</p> 
+<p>小舞台上的歌者换了一批又一批，坐在吧台不动的松本也有点微醺，他眯着眼睛和大野一起因为某个舞姿奇怪的人而大笑，又因为歌手突然某首悲伤的歌曲而差点落泪。</p> 
+<p>大野也难得的情绪高涨，和人们一起挥舞着手，灌下一罐又一罐的啤酒。</p> 
+<p>在松本扯着嗓子和酒保交流自己下一杯想喝什么的时候，大野被人群簇拥着上了台，迷迷瞪瞪地拿起了话筒。</p> 
+<p><br /></p> 
+<p>“呃……我是来自未来的大野智……！”</p> 
+<p>松本被这句话吓得酒都醒了，他正打算起身把大野从台上拉下去，却被四周人群包括那个长了青春痘的酒保发出的巨大的欢呼声搞得开始犹豫了起来。</p> 
+<p>“fufufu……在那边的松本先生收留了我，他真的非——常非常温柔哦，是个好男人呐……！”</p> 
+<p>人们把目光都集中在了松本身上，朝他举起了酒杯。又是一阵响彻了整个大厅的欢呼，松本只得也举起酒杯，报以一个形式化的微笑。</p> 
+<p><br /></p> 
+<p>“地球真的，最棒了！”</p> 
+<p>“最棒的海！”</p> 
+<p>“最棒的甜点！”</p> 
+<p>“最棒的音乐！”</p> 
+<p>“最棒的松本先生！”</p> 
+<p>每一句都有越来越响亮的欢呼和口哨声与之回应，松本都有点头疼了。</p> 
+<p>“那么那么，就给大家唱一首最棒的迈克尔的歌吧！”</p> 
+<p><br /></p> 
+<p>他终于说对了名字。</p> 
+<p>松本不抱什么希望地想着。</p> 
+<p><br /></p> 
+<p>大野开口了，没有伴奏，只有他的声音，通过话筒、电流、音响，在嘈杂的大厅里回荡着。</p> 
+<p><br /></p> 
+<p>是Earth Song。</p> 
+<p><br /></p> 
+<p>厅里所有人都慢慢地闭上了嘴，熙熙攘攘的声音渐渐地消失，只剩下大野清澈的声音。</p> 
+<p>可能是因为大野的母语是另一种语言，他的发音意外地准确，而他的歌声根本不像是一个从没有音乐和歌曲的星球的人所能发出的。</p> 
+<p><br /></p> 
+<p>冰过的伏特加。</p> 
+<p>松本晕乎乎的脑袋里蹦出了这个词。</p> 
+<p><br /></p> 
+<p>冷冽的、又充满了某种强烈的热度，至少它已经把松本的脑子焚烧殆尽了。</p> 
+<p>大野头顶的光打了下来，让唱着歌的大野身上围绕了一圈光晕，而他眼神那么的辽远又带着某种不知名的忧郁。</p> 
+<p><br /></p> 
+<p>完蛋了。</p> 
+<p>大野唱完后，松本拍着手想着。</p> 
+<p><br /></p> 
+<p>4.5</p> 
+<p><br /></p> 
+<p>“……松润他……”</p> 
+<p><br /></p> 
+<p>“……松润今天做的饭真好吃……”</p> 
+<p><br /></p> 
+<p>“……啊，松润他说想到我房间看看，我拒绝了……”</p> 
+<p><br /></p> 
+<p>“……松润今天带我去了叫卡拉OK的地方，说想听我唱歌……我哪里会什么唱歌啊，完全没有拿过话筒fufu……”</p> 
+<p><br /></p> 
+<p>“……松润的歌声也很可爱……”</p> 
+<p><br /></p> 
+<p>“……松润……”</p> 
+<p><br /></p> 
+<p>“……啊我好像说了太多他的事情……这不应该，我只能在这里待五年……”</p> 
+<p><br /></p> 
+<p>“……等等，我仔细看了一遍判决，是一个时间点在规定的次数内只能待五年……所以我可以去松润的其他时间点啊……有点想看看小时候的他，一定很可爱……”</p> 
+<p><br /></p> 
+<p>“……我觉得我要坏掉了……我竟然想抱抱他……”</p> 
+<p><br /></p> 
+<p>“……他今天说我是天才，我太高兴了，实在是太过高兴，忍不住直接抱了抱他……结果被推开了fufufu……不过松润看起来也很高兴的样子……”</p> 
+<p><br /></p> 
+<p>“……不行，不可以……他有着他的世界，而我只是一个旅行者……”</p> 
+<p><br /></p> 
+<p>“……松润带我去了水族馆和海边……”</p> 
+<p><br /></p> 
+<p>“……我上台唱了歌，下来的时候松润没怎么理我……但他看起来又不像是生气了……也不一定，一般人类生气都是满脸通红的样子……”</p> 
+<p><br /></p> 
+<p>“……怎么……感觉头晕晕的……”</p> 
+<p><br /></p> 
+<p>“……我的膝盖突然开始疼了……而且……身体没什么力气……”</p> 
+<p><br /></p> 
+<p>“数据已上传至薛定谔箱端脑存储核心，存储空间剩余31%，晶体初始化中。&nbsp;”</p> 
+<p><br /></p> 
+<p>5</p> 
+<p><br /></p> 
+<p>第二天回了家，大野竟然病倒了。</p> 
+<p><br /></p> 
+<p>松本一开始也没发现他哪里不太对，还是和平时一样的沉默寡言，只不过看起来稍微有些蔫儿，松本还以为他只是玩累了。</p> 
+<p>他拍了许多照片，想把相机拿过去给大野看的时候，发现自己不管怎么敲门都没人来开，门上也没贴要出门的便利贴。</p> 
+<p>松本想了想，直接掏出备用钥匙开了门，发现大野倒在了玄关，身上还穿着刚回来时候的衣服，额头滚烫，意识不清。</p> 
+<p><br /></p> 
+<p>松本赶紧打了急救电话，把大野扶起来拿被子裹了裹，手忙脚乱地拿了块湿毛巾给大野敷在额头上，等救护车到了之后，松本抱起大野就是赶紧往下跑。</p> 
+<p><br /></p> 
+<p>到了医院把手续什么的办了，急救室的灯变绿了之后，松本才发现自己连拖鞋都没来得及换，脚上还是那双毛茸茸的棉拖鞋。</p> 
+<p>闻讯赶来的相叶指着那双紫色的小拖鞋笑得连腰都直不起来，他笑够了之后拍拍松本的肩膀：“你回去换双鞋，给O酱拿点换洗的衣服，看样子可能要留下来观察几天。”</p> 
+<p>松本还想说什么，相叶接着表示自己会在这儿看着大野，不用担心，他才放心地离开医院。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本站在大野家门口&nbsp;，犹豫着要不要进去翻找大野的衣服。</p> 
+<p>其实他可以把自己过去买的偏小的衣服拿去凑合几天，但是……</p> 
+<p>他盯着门，不断地对自己说：“只是去找几件衣服，只是去找几件衣服……”</p> 
+<p><br /></p> 
+<p>松本让自己尽量目不斜视地通过房间，不过他意外地发现房子里太过整洁，只有沙发上放着整整齐齐的毛毯，没有什么过多的个人物品。</p> 
+<p>他找到大野放置衣物的地方，随便挑了几件厚一点的毛衣和外套，又拿走了那套他顺手给大野买的连体睡衣，虽然花得是大野的房租。</p> 
+<p><br /></p> 
+<p>正当松本努力想把睡衣从衣柜下面抽出来的时候，他一个用力，不小心碰倒了衣柜旁边的置物架，几个大本子从小纸箱子里散落了出来。</p> 
+<p>他赶忙去捡，因为太过慌乱和着急，有几个本子被他笨手笨脚地摊开了。</p> 
+<p>画得满满当当的素描本和一本非常厚的看起来像是画集一样的东西。</p> 
+<p><br /></p> 
+<p>松本润的本意是赶快合上本子，收拾好赶去医院。</p> 
+<p>但是他不由得被一个本子上画着的事物吸引了视线。</p> 
+<p><br /></p> 
+<p>本子上画着宇宙。</p> 
+<p>虽然说是宇宙，但看起来和松本认知里的宇宙不太一样。<br /></p> 
+<p><br /></p> 
+<p>大野的画一如既往地细致和密集，诸多的行星和恒星之间并不是只有无限的空旷和碎片，他画中的宇宙既安静又拥挤，行星和卫星通过大量的看起来了无生气的大型飞船和被大量扭曲的电缆缠绕的“门”连接在一起，大量的充满齿轮、电缆、绞线的机械在巨大的空旷之间穿梭，甚至在恒星上都架满了复杂的工事。</p> 
+<p><br /></p> 
+<p>他翻了一页，下一页也类似这样的画着一些星球，但与之不同的是，每颗星球上都有座巨大无比的建筑物，有的看起来像是宫殿，有的又只是一座规模较大的木屋，星球的不远处都有一座和上一页类似的门，但每座门上都有一个由电缆缠绕成的词语。由于涂改了太多次，松本在一个角落的门上看到一个改了几次后扭扭曲曲写着的词——“POPE”。</p> 
+<p><br /></p> 
+<p>松本接着快速地扫了好几页，把那个本子翻完了。</p> 
+<p>有几张就像某些美漫里的未来都市，有几张完全就是焦土和废墟。</p> 
+<p>最令松本感到一阵害怕的是最后两张画。</p> 
+<p><br /></p> 
+<p>一张是破碎的地球，碎片飞溅，卷入一个看起来像是土星照片一样的地方，而这个地方却画上了一圈光晕，一切的星球、尘埃、碎片等都被卷入了这个有着光环的漩涡中。*&nbsp;</p> 
+<p><br /></p> 
+<p>另一张画着一个占了纸张大部分空间的十字架，上面雕满了奇形怪状的花纹，甚至还有其他宗教的符号和神像，十字架四周漂浮着密密麻麻的人，有的表情痛苦，有的却流露出来某种疯狂的欣喜，这些人形态各异，但都是裸着的，心脏的位置延伸出一个充满枝杈和纹路的小型十字肿瘤。这些人仿佛按照某种规律排列着，松本稍微把画拿远些再看，发现这些人和中间的大型十字架组成了一张血盆大口，像是要将这一切吞噬掉。*</p> 
+<p><br /></p> 
+<p>松本慢慢地合上了本子，他突然没有想继续翻看其他本子的欲望了。</p> 
+<p>他颤抖着手打开了那本很厚的画集，上面的字有些像英文，但又夹带着一些看起来很“汉字”的文字，他随便翻了一页，上面的画好像是在说一些关于移动终端和智能终端的事情，看起来像是某种网络。</p> 
+<p>松本掏出手机拍了一张，看到时间已经过去几个钟头，他赶快把本子收拾好，提起装了衣服的包就走。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>路上，松本一阵的心神不宁。</p> 
+<p>他本来是没有相信大野关于“时间旅行”“未来”之类的描述，即使他看到大野手腕上的手链似乎不是目前的科技能够制作出来的，即使他听到过从大野口中说出完全不符合地球上已知语言发音的话，松本还是把大野当做从某个研究所逃脱的信息闭塞又想象力丰富的天才。</p> 
+<p>但是画里的事物、他描述的事物都太过真实，似乎确实真的存在过。</p> 
+<p>大野到底是……？</p> 
+<p><br /></p> 
+<p>当松本坐在出租车里胡思乱想的时候，相叶打过来电话了。</p> 
+<p><br /></p> 
+<p>“……告诉你一个事情……”</p> 
+<p>“他被研究所抢走了？？？”松本没过脑子地问了这么一句。</p> 
+<p>“……你在说啥？”</p> 
+<p>“……你别理我，你直接说吧。”松本捂着脸说。</p> 
+<p><br /></p> 
+<p>“……是这样的，要给他做检查的时候，O酱的手链不管用什么方法都取不下来。倒是这也不太影响，关键是后面这个事情……大夫取了一些他的血来化验，而且因为手链不是金属制品所以也没办法就这么做了X光……发现……不行，这太奇怪了，和你讲这个事情也很奇怪……”</p> 
+<p>“你说。”</p> 
+<p>“……他的血液和普通人的血液不一样，含有一种我们从来没见过的物质，这种物质可能会使某种代谢变得缓慢，不过具体是什么我们还不太清楚。而且他的年龄……”</p> 
+<p>“……多少？”在答案呼之欲出的时候，松本反而变得非常镇定了。</p> 
+<p>“……他似乎已经210岁以上了……”</p> 
+<p>松本长出了一口气，喃喃说道：“是真的，他说的都是真的……”</p> 
+<p>“我们打算进一步对O酱的一些身体细胞样本做些化验，看看到底是减缓什么……”</p> 
+<p>松本打断了相叶语无伦次的话：“所以他的身体怎么样了？因为什么晕倒的？能醒过来吗？严重吗？”</p> 
+<p>相叶在电话另一端愣了愣，说：“没关系的，O酱应该只是重感冒了，输点液退烧就可以醒了。”</p> 
+<p>“那就好。”松本想到什么，又补了一句，“你们不允许把他当成实验的小白鼠啊，我警告你们。”</p> 
+<p>相叶开玩笑地说：“你是O酱什么人啊你就这么说，他也只是你的租客吧？”</p> 
+<p>松本想了一下，严肃地说：“我起码是他的监护人。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本坐在大野的病床旁边，他看着躺在床上紧闭双眼的人，猜想着大野画里的含义。</p> 
+<p>可能，或许，那个时候地球已经不复存在了。</p> 
+<p>那么那个时候的人类是什么情况？看起来似乎和现在的人差不多。</p> 
+<p>而大野是因为什么在做时间旅行？</p> 
+<p>他提到的“敌人”又是什么？</p> 
+<p><br /></p> 
+<p>松本听到大野那边的仪器开始有动静了，于是赶紧呼叫了护士。</p> 
+<p>没等护士和大夫过来，大野就醒了。</p> 
+<p><br /></p> 
+<p>“这是……什么？”</p> 
+<p>大野迷迷糊糊地问。</p> 
+<p>“……你感冒了，发烧晕过去了。”松本按捺住心里的诸多疑问，向大野解释道。</p> 
+<p>“……你看起来脸色不太好？”大野坐起来问。</p> 
+<p>“……”松本深吸了一口气，“现在问你不太好吧，你刚醒……”</p> 
+<p>“我没事了，”大野马上回答，他努力地让自己看起来精神一点，还用手搓了搓脸，“你说吧。”</p> 
+<p>松本盯着大野手腕上的手链，终于下定决心说：“我帮你找衣服的时候……不小心打开了你的素描本……”</p> 
+<p>“那个啊……那是我自己随便……”</p> 
+<p>“他们取了你的血液化验，也给你拍了X光……”松本心烦意乱地打断了大野的话，“你真的是从很远的未来做了时间旅行来到这里吗？”</p> 
+<p><br /></p> 
+<p>大野沉默了。</p> 
+<p>松本抬头看着大野，他的眉眼垂了下来，脸上没什么表情。</p> 
+<p>“是的。”大野苦笑，“我一开始就说过了，只是你不相信而已。”</p> 
+<p>“能和我讲讲吗？关于未来，关于地球，关于……你？”</p> 
+<p>“不是什么有趣的故事，如果想从这些事情上取材的话你可能要失望了。”</p> 
+<p>“不是取材……我只是……想知道……想多了解你的事情……”</p> 
+<p>“为什么呢，”大野迷惑地看着松本，“为什么呢。”</p> 
+<p>松本脑子里瞬间闪过无数个答案，可他张着嘴，竟然发不出一点声音。</p> 
+<p>在护士进门之前，松本喃喃地回答。</p> 
+<p><br /></p> 
+<p>“我不知道。”</p> 
+<p><br /></p> 
+<p>——tbc</p> 
+<p><br /></p> 
+<p>注1：参考《海伯利安》中上尉的故事</p> 
+<p>注2：参考《星际穿越》中的黑洞的样子（</p> 
+<p>注3：参考《安迪密恩》中的“十字形”</p> 
+<p><br /></p> 
+<p>所以我又没写完……</p> 
+<p>算了算了慢慢弄吧……</p> 
+<p><br /></p>
+
+<a id="more"></a>
+
+<hr>
+<p><code>2017-10-05 15:06:31</code> 【查无此梨】 这篇更了，好开心！智以后会留下来吗？</p>
+<p><code>2017-10-05 15:13:40</code> 【qi_an】 回复【查无此梨】 hhhh谢谢gn还记得这篇😂结局早就定了，但是现在说了不太好啊（托腮（喂</p>
+<p><code>2017-10-05 15:23:27</code> 【查无此梨】 回复【qi_an】 祈祷结局不虐_(:3」∠)_</p>
+<p><code>2017-10-05 16:46:12</code> 【今天毒O狗带了吗】 热泪盈眶还问别人他能不能哭…啊。。。太软了，我飘起来了</p>
+<p><code>2017-10-06 00:43:36</code> 【qi_an】 回复【查无此梨】 不会虐的放心昂（大概</p>
+<p><code>2017-10-06 00:45:23</code> 【qi_an】 回复【今天毒O狗带了吗】 就……忍不住妄想小脸皱皱的湿湿的然后带着哭腔问能不能直接哭……（快住手</p>
+<p><code>2017-10-06 00:45:45</code> 【qi_an】 碳老师——（hug</p>
+<p><code>2017-10-06 03:06:42</code> 【dianaserena】 文字描写都好有情景感，感觉像在看电影，非常棒！</p>
+<p><code>2017-10-06 04:36:43</code> 【今天毒O狗带了吗】 回复【qi_an】 还扯着别人的袖子（啊啊啊啊啊！！！！！）</p>
+<p><code>2017-10-06 05:15:29</code> 【茜茜Crystal3104🐟】 对您的描述的每一个文字进行膜拜！</p>
+<p><code>2017-10-06 10:19:57</code> 【爱的侵略者滚滚参上】 号泣，润润快给阿智的这场旅行一个终点吧</p>
+<p><code>2017-10-06 13:07:03</code> 【qi_an】 回复【dianaserena】 谢谢gn一直以来的喜欢昂💕</p>
+<p><code>2017-10-06 13:08:08</code> 【qi_an】 回复【今天毒O狗带了吗】 肥肠想一把揉在怀里扛起来就跑（x</p>
+<p><code>2017-10-06 13:08:49</code> 【qi_an】 回复【茜茜Crystal3104🐟】 😂😂😂喜欢就好昂——</p>
+<p><code>2017-10-06 13:13:23</code> 【qi_an】 回复【爱的侵略者滚滚参上】 抱紧gn，怎么说，旅途总会有终点的昂（x</p>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E6%B6%A6%E6%99%BA/" rel="tag"># 润智</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/1d7a8b0f_1146539e" rel="prev" title="【润智润】鹰（12）">
+      <i class="fa fa-chevron-left"></i> 【润智润】鹰（12）
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/1d7a8b0f_115535e4" rel="next" title="【润智润】鹰（13）">
+      【润智润】鹰（13） <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC81MjA3Ny8yODU1OA=="></div>
+  </div>
+  
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="想变成一条鱼"
+      src="/images/bloghead.jpg">
+  <p class="site-author-name" itemprop="name">想变成一条鱼</p>
+  <div class="site-description" itemprop="description">想变成一条鱼的永久分矿</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">121</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">20</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/SilencerSato" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;SilencerSato" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:sqsq94@sina.com" title="E-Mail → mailto:sqsq94@sina.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://weibo.com/u/1861343134" title="Weibo → https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;1861343134" rel="noopener" target="_blank"><i class="fab fa-weibo fa-fw"></i>Weibo</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/silencer_sato" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;silencer_sato" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://instagram.com/silencer_satoya" title="Instagram → https:&#x2F;&#x2F;instagram.com&#x2F;silencer_satoya" rel="noopener" target="_blank"><i class="fab fa-instagram fa-fw"></i>Instagram</a>
+      </span>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      相关链接
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://www.lofter.com/blog/fishingsilencer" title="https:&#x2F;&#x2F;www.lofter.com&#x2F;blog&#x2F;fishingsilencer" rel="noopener" target="_blank">Lofter</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://fishersilencer.wordpress.com/" title="https:&#x2F;&#x2F;fishersilencer.wordpress.com" rel="noopener" target="_blank">WordPress</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://archiveofourown.org/users/silencer_sato" title="https:&#x2F;&#x2F;archiveofourown.org&#x2F;users&#x2F;silencer_sato" rel="noopener" target="_blank">AO3</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="http://hellowland.com//u36070" title="http:&#x2F;&#x2F;hellowland.com&#x2F;&#x2F;u36070" rel="noopener" target="_blank">HelloWorld</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.rearyard.com/self/29330/info" title="https:&#x2F;&#x2F;www.rearyard.com&#x2F;self&#x2F;29330&#x2F;info" rel="noopener" target="_blank">rearyard</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 2020-12 – 
+  <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">想变成一条鱼</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+
+    <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+    <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+    <span class="post-meta-divider">|</span>
+    <span id="busuanzi_container_site_uv">总访客数<span id="busuanzi_value_site_uv"></span>人</span>
+    <span class="post-meta-divider">|</span>
+<!-- 不蒜子计数初始值纠正 -->
+<script>
+$(document).ready(function() {
+
+    var int = setInterval(fixCount, 50);  // 50ms周期检测函数
+    var countOffset = 20000;  // 初始化首次数据
+
+    function fixCount() {            
+       if (document.getElementById("busuanzi_container_site_pv").style.display != "none")
+        {
+            $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + countOffset); 
+            clearInterval(int);
+        }                  
+        if ($("#busuanzi_container_site_pv").css("display") != "none")
+        {
+            $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + countOffset); // 加上初始数据 
+            clearInterval(int); // 停止检测
+        }  
+    }
+       	
+});
+</script> 
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  
+  <script color='0,0,255' opacity='0.5' zIndex='-1' count='99' src="/lib/canvas-nest/canvas-nest.min.js"></script>
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+<script>
+NexT.utils.loadComments(document.querySelector('#lv-container'), () => {
+  window.livereOptions = {
+    refer: location.pathname.replace(CONFIG.root, '').replace('index.html', '')
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
+});
+</script>
+
+</body>
+</html>

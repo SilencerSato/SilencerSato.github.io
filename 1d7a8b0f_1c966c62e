@@ -1,0 +1,1001 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.2.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/fish_32px_1289440_easyicon.net.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/fish_16px_1289440_easyicon.net.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-minimal.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="warning：    &gt;&amp;nbsp;本来是想按照&amp;nbsp;@&amp;nbsp;甜甜草莓甜甜 gn点的校园爱情写的，结果写串了……  &gt;&amp;nbsp;大学生和高中生，一个关于相遇的故事  &gt;&amp;nbsp;很多情节类似《阿黛尔的生活》  &gt; 520节日快乐  &gt; ooc，假设他们都话很多（不）      -------------------------------------">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【智润】Labyrinth of Encounter">
+<meta property="og:url" content="http://example.com/1d7a8b0f_1c966c62e">
+<meta property="og:site_name" content="渔船停泊处">
+<meta property="og:description" content="warning：    &gt;&amp;nbsp;本来是想按照&amp;nbsp;@&amp;nbsp;甜甜草莓甜甜 gn点的校园爱情写的，结果写串了……  &gt;&amp;nbsp;大学生和高中生，一个关于相遇的故事  &gt;&amp;nbsp;很多情节类似《阿黛尔的生活》  &gt; 520节日快乐  &gt; ooc，假设他们都话很多（不）      -------------------------------------">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2020-05-20T05:21:16.000Z">
+<meta property="article:modified_time" content="2020-05-20T05:21:16.000Z">
+<meta property="article:author" content="想变成一条鱼">
+<meta property="article:tag" content="智润">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://example.com/1d7a8b0f_1c966c62e">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>【智润】Labyrinth of Encounter | 渔船停泊处</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">渔船停泊处</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">一个小型露营地</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/1d7a8b0f_1c966c62e">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/bloghead.jpg">
+      <meta itemprop="name" content="想变成一条鱼">
+      <meta itemprop="description" content="想变成一条鱼的永久分矿">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="渔船停泊处">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【智润】Labyrinth of Encounter
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2020-05-20 13:21:16" itemprop="dateCreated datePublished" datetime="2020-05-20T13:21:16+08:00">2020-05-20</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Text/" itemprop="url" rel="index"><span itemprop="name">Text</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p>warning：</p> 
+<p><br /></p> 
+<p>&gt;&nbsp;本来是想按照&nbsp;@&nbsp;甜甜草莓甜甜 gn点的校园爱情写的，结果写串了……</p> 
+<p>&gt;&nbsp;大学生和高中生，一个关于相遇的故事</p> 
+<p>&gt;&nbsp;很多情节类似《阿黛尔的生活》</p> 
+<p>&gt; 520节日快乐</p> 
+<p>&gt; ooc，假设他们都话很多（不）</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>-----------------------------------------</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>一见钟情的时候，心里到底会变得很空，还是很满？是哑口无言，还是突然多了很多话想对那个人说？</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>1</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>高中是个最容易接受各种信息的时期。</p> 
+<p>青春期到了末尾，未来的方向和多个路标摆在面前，荷尔蒙作祟的蠢蠢欲动，第一次意识到性别之间的异同，混乱的又充满躁动的时间段。这个时候，似乎除去学业以外的所有事情都有自己的颜色——放学后和朋友去唱k，小小的房间是暗金色的，有着汽水和零食的味道；上学时候同行的女孩子，发绳是樱花似的浅粉；假期午后的波子汽水，带着透明玻璃瓶的淡蓝色，诸如此类。</p> 
+<p><br /></p> 
+<p>爱是什么颜色？一见钟情又是什么颜色？松本润这天在放学后的电车上突然想到这两个问题。头顶的报站声音响了起来，他的注意力被打断了。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本很喜欢他们学校的美术老师。</p> 
+<p>那是位大概五十多岁的女士，戴着银边的眼镜，深绿色的眼睛，看人总是一副探究的目光。据说她从小跟着父母在法国长大，研究了十几年美学艺术，回国后嫁了一个普通的职员，心甘情愿地在高中当了一辈子的美术老师。她没有日本式的名字，第一堂课的时候，她对坐在椅子上好奇地看着的学生们笑着说，叫我安妮老师就好。</p> 
+<p>安妮老师没有简单地教他们画画或者别的什么，而是列出了一列长长的书单，有哲学，有艺术鉴赏，也有国外的小说、神话故事。她第一堂课的时候就在他们画画的时候读书，朗读出声，一边读一边讲解里面的一些观点和想法，而且会提问，还会点名让他们起来读那些有点拗口的故事。</p> 
+<p>安妮在松本高中里算是一个不太被喜欢的老师，这个年纪的学生大多都比较浮躁，不会静下心来阅读这些东西，通常都是一脸的半懂不懂坐一节课，被点到起来也不会有什么见解。安妮经常叹气，说这些东西在欧洲，是每个高中生都会读也都会理解的东西。</p> 
+<p>虽然松本并不相信欧洲人在高中的时候真的会理解什么是存在主义和自由主义，但他还是蛮喜欢安妮老师这节课的。</p> 
+<p><br /></p> 
+<p>松本在学校里不算是什么好学生，但绝对是比较耀眼的那个。他顶着一头有点乱有点卷曲、尾端有点长的头发，看起来有些不良，可他的制服一直都很整洁，和人说话永远都是看着对方的眼睛，认认真真听着，笑起来会咧出还有些不太整齐的牙齿。他很喜欢把青春期的热情和精力发泄在棒球上，但他也喜欢坐下来仔细地读完一本书。当然他更多的时间，还是像普通高中生一样，把青春不要钱一般地挥霍着。</p> 
+<p>刚开始，他也和其他人一样，在安妮老师的课上走神或者睡一觉，直到有一天，安妮老师开始读《少年维特之烦恼》。</p> 
+<p><br /></p> 
+<p>“……这就像是谈恋爱。小伙子钟情于一位姑娘，成天厮守在她身边，耗尽了全部精力和财产，为的是好时时刻刻向她表白他对她一往情深的感情。这时来了个担任公职的市侩，对小伙子说：“可爱的年轻先生，恋爱是人之常情，你的爱也应合乎情理！把你的时间分配一下，一部分时间用来工作，休息时间就给你心爱的姑娘。算算你的财产，除去必要的开销，余下的我倒不反对你买件礼物送她，只不过不要送得太频繁，大体上在她的生日和命名日送她就行了”等等诸如此类的话。——要是听了这位庸人的话，那么就会出现一个有为的青年，我甚至可以向任何一位侯爵推荐，给他一个职位；不过他的爱情就完了，倘若他是艺术家，他的艺术也就完了。啊，朋友们，为什么天才的河流难得冲破堤岸，难得成为汹涌澎湃的洪水，震撼你惊愕的灵魂？——亲爱的朋友们，其原因就在于，两岸住的是沉着冷静、深思熟虑的老爷，他们担心自己花园中的亭榭、郁金香花圃以及菜园会被洪水冲毁，所以知道及时筑堤挖渠，以防患于未然。……”</p> 
+<p>安妮老师一边读，一边滑动着投影仪，原文和插图被放了出来。她花了几节课去朗读这本相对浅显得多的书，当课程渐渐进行到后来，安妮读到中后期的时候，教室里出现了些叽叽喳喳的细小声响。她在读完这本书的时候，花了半节课的时间去讲其中的情爱桥段，教室里一直有的原本细小的声音突然又响了起来，还变得声音大了一些。</p> 
+<p>关于这本书的所有的课，松本意外地听了进去。他经常在各种戏剧小册子里看到关于少年维特的故事，但从来没有去真的找来读过。他仔仔细细地听完了安妮的朗读和分析，托着腮，眼睛大大地睁着看着有些模糊的投影里关于歌德的介绍。</p> 
+<p>安妮也听到学生的说话声音，她停下了话头，似笑非笑地问：“你们聊什么？”</p> 
+<p>一个胆子很大的学生说：“老师，维特是不是人妻控啊。”</p> 
+<p>“……要是这么说的话，某种程度上，他是。”安妮竟然很认真地回答了，“维特爱上绿蒂，这是一个很正常的事情，当维特爱上绿蒂的时候，这份爱其实是可以平静、缓和的。但当维特和绿蒂的丈夫阿尔贝特遇到的时候，他注定会死亡，对绿蒂的爱也不可能平息下来，因为他注定无法得到绿蒂。当然，维特的悲剧并不仅仅是因为爱而不得，但爱而不得，恰恰是一个毁灭性的导火索。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本皱着眉头，他有些疑惑，但决定不问出口。</p> 
+<p>爱真的有怎么大的能量吗？</p> 
+<p>他决定按照安妮提供的书单好好读一读那些书，希望能从那些书里找到答案。</p> 
+<p>这也是松本最近时常有些恍惚的原因，他读过之后仔细地想过那些文字组成的词句含义，却得不出什么头绪，只能隐隐觉得“这里好美”“那句话好有道理”，具体是什么，他还在云里雾里。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“松润？松润！”</p> 
+<p>松本被旁边的同学拍了一下胳膊，才把视线聚焦到了那人脸上。</p> 
+<p>“……你是怎么了，不常见你走神啊。”</p> 
+<p>“啊，我昨晚睡得太晚了。”松本随口解释了一下。</p> 
+<p>“诶……对了，你和爱子怎么样了？”那人脸上露出了神秘莫测的笑容，“听说你和她上周周末约会去了？”</p> 
+<p>“加藤……”松本无奈地看了他一眼，“只是出去陪她吃了个饭而已。”</p> 
+<p>去的还是麦当劳……松本没有继续说下去，朋友的脸上充满了古怪又暧昧的笑容，仿佛他知道松本隐瞒了什么似的，但松本知道，加藤其实什么都不清楚。</p> 
+<p>“哎呀不要害羞嘛。”加藤瞥了眼聚在一起聊天的女孩子，神神秘秘地说，“我和小静，上周，那个了。”</p> 
+<p>“诶？”</p> 
+<p>“嗯。”加藤感叹的语气，“终于我也摆脱了童贞啊——不过小静已经不是第一次了哦。”</p> 
+<p>“大家都这么早的吗？”松本假装没有兴趣、语气平平地问了一句。</p> 
+<p>“是啊，说实话，大家都想试试到底是什么。”</p> 
+<p>“大家，吗……”</p> 
+<p>“所以你和爱子到底进行到哪一步了？”加藤眼睛发亮，“爱子一定很不错吧，身材那么好……”</p> 
+<p>“……什么都没有啊，你到底在想什么？”松本眯起眼睛有点嫌恶地看着加藤，“看起来和色眯眯大叔一样。”</p> 
+<p>加藤瞪了松本一眼，他没继续说什么，而是意味深长地盯着松本的脸，盯了几分钟。松本感觉到了加藤的视线，问了好几个“怎么了”，加藤都不回答。</p> 
+<p>松本有点上火，他把手里吃了一半的面包放下，语气不悦：“你到底什么意思？”</p> 
+<p>“你喜欢男人吗？”</p> 
+<p>“哈？”</p> 
+<p>“因为啊，你和爱子在一起已经快一年了，什——么都没发生，这不是很奇怪嘛！”加藤的声音稍微有一点点高，离他们几个桌的同学都向这边投来了疑惑的目光。松本赶紧按住有些不管不顾的加藤，他低声急促地对加藤说：“你发什么疯啊我当然是喜欢女孩子的！”</p> 
+<p>“你和爱子kiss了没有？”加藤一脸平静地看着松本。</p> 
+<p>“……没有。”</p> 
+<p>“……松润，你真的得好好想想了。”加藤把松本按着他肩膀的手拨开，“这样对女孩子来讲也会伤害到她的。”</p> 
+<p>说完，加藤就拎着自己的便当盒离开了座位，留下了愣住的松本。</p> 
+<p><br /></p> 
+<p>这种事情……</p> 
+<p>这种事情……</p> 
+<p>松本皱紧了眉头，他坐在座位上，盯着桌上的课本发愣。</p> 
+<p>他觉得这些事情不应该在高中时候就做，虽然他也知道有的人会偷偷地品尝禁果，但在他原本的意识里，这件事不应该是这样的。他抬头看了眼爱子的方向，正巧和担心地看过来的爱子视线对上了。他努力扯出一个宽容的微笑，摇摇头表示没什么事，爱子朝他甜甜地笑了一下，就回头继续和她的朋友聊天了。他的视线没有离开爱子，而是在爱子身上转了一个圈。</p> 
+<p>夏天的水手服，手臂的线条，裙子恰好在膝盖上面，露出一截白嫩的腿。</p> 
+<p>他想起了几次和爱子一起出门玩的时候，对方总是会有意无意靠近。有次去游乐场的鬼屋，爱子紧紧搂住松本的手臂，几乎要把手臂嵌进自己身体里一样。那是他们身体触碰最多的时候了，他清晰地记得那个时候对方身体的柔软和热度，以及似有若无的香水味道。</p> 
+<p>松本垂下眼，他收回了视线，重新盯着自己的课本，上面大大的“自然科学”，仿佛在告诉他——这是自然的、科学的事情。</p> 
+<p><br /></p> 
+<p>他那个时候，下意识的第一反应不是像很多小电影、少女漫画或者小说里那样脸红心跳，而是想要甩开她。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>2</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本润最近读的书是加缪的《西西弗的神话》，这本书被列在了安妮老师书单的“必读”项目里，尽管确实没有人会对这些高中生有什么过高的要求，松本还是想明白这本书到底讲了什么。在他看来，这本书毫无乐趣可言，没有故事，没有情节，只有解释和论述，读起来太令人昏昏欲睡。但他有无法控制自己想要读下去，他想弄明白里面提到的“荒谬”和“存在”到底是什么意思。</p> 
+<p>读书占用了他太长的时间，松本参加完放学的社团活动之后，不是很想留在外面晃悠。爱子有的时候在球场等他，他也就跟着爱子在街上漫无目的地晃一会儿，然后便送爱子回家。今天爱子又出现在了球场上，看起来像是刚结束自己的社团活动。松本休息的时候注意到，爱子没有看向自己、看向球场，而是坐在观众席的阴凉处，自顾自地拿什么擦着脸，似乎是在补妆。</p> 
+<p>他顿时觉得有些无趣，心下叹了一口气。一直以来他欺骗和说服自己的说辞瞬间没有了用处，他甚至开始祈祷爱子能自己回去，不要再等他了。</p> 
+<p>但通常，这种祈祷没什么用。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“路过的商业街那边新开了一家冰沙，”爱子耐心地等松本训练结束后磨磨蹭蹭地冲完澡，温温柔柔地走在松本身边，问道，“要不要去吃吃看？反正回家还早。”</p> 
+<p>松本拎着书包，他犹豫了几秒，最后还是点了点头。</p> 
+<p><br /></p> 
+<p>爱子和松本的交往看着就像开玩笑一样，爱子自己一开始也觉得很奇怪。她是个出众也很漂亮的女孩，当时在和几个朋友聊天，和这个年纪的大多数女孩子一样，聊学校里哪个男生比较好，想和哪个男生交往，等等。她们都觉得松本润好看是好看极了，但长得有些带着攻击性，看起来脾气像是很不好的样子。爱子在聊天的时候，随口一说可能不是那样的。第二天上学的时候，同班同学就开始传松本和爱子之间关系很好等等。事后爱子仔细想了想，也许只是一时口快，或者下意识想反驳别人，她就那么说了。事实上，她和松本一句话都没有说过。</p> 
+<p>过了两周，她就稀里糊涂地被朋友怂恿着告白了，松本只是吃了一惊，然后红着耳尖答应了。</p> 
+<p>她经常和朋友夸松本温柔、会照顾人，但她不肯聊更多了。她根本也没有想明白，自己到底喜不喜欢他。身边的朋友有时候晚上来借住，提起她和松本的进展，都觉得他们这对太纯情了，连kiss都少得可怜，反而很不正常。爱子也疑惑过，她相比起其他女孩，算是比较早熟的姑娘，之前交过的男朋友一个个都很不老实，交往没过多长时间就想动手动脚了。爱子也尝试过，她觉得这样的自己能够吸引到男孩，也算不上什么大不了的事情，也不值一提，是很正常的事。可到松本这里，爱子却发现自己对他来说没多少那种方面的吸引力，就连自己主动，都没有什么回应。她经常怀疑松本是不是有问题，可是她不能说出口。</p> 
+<p>但总之，有个帅哥男朋友总比没有好。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>爱子在旁边声音柔柔地聊着一些她觉得很有趣的事情，松本也在认真听着，但他却没多少兴趣。爱子聊的事情太过常见，日复一日的学生生活聊出花儿也就那么多，学业、同学犯蠢、吐槽老师，社团活动、漫画、游戏，谁和谁交往，谁又和谁告白，谁拒绝了谁，也就这么多了。松本一边听，一边附和，时不时多问几句，体贴地让话题继续下去，但他本身并不是很想聊这些。</p> 
+<p>他们走到冰沙店门口，正要推门走进去的时候，店门突然向外打开，迎面走出来两个男人，在聊着什么，其中一个人笑了起来，声音听起来就像是化了的冰沙一样黏黏糊糊的。</p> 
+<p>那个人和松本擦身而过的时候不小心撞到了松本的肩膀，他抬头看了松本一眼，便被他身边的人拉走了。</p> 
+<p>松本的视线追着那人。也许是因为那个男人把所有的头发都染成了色泽很淡的黄色，又都弄得立了起来，比较惹眼，他不由自主地看着那人被拉得踉踉跄跄的，还在闷闷地笑。</p> 
+<p>笑声轻轻的，似有若无，和那人手里冰沙的巧克力味道一起飘了过来。</p> 
+<p>正当松本意识到自己这样盯着人家有些失礼的时候，那人回头对松本笑了一下，点点头，低低地说了句“抱歉”。</p> 
+<p>松本愣住了。</p> 
+<p>他不知道为什么突然想上前拦住那个男人，他的脚也确实这样做了。他迈出两步，被爱子拉住了，她问松本：“怎么了？被撞疼了吗？”</p> 
+<p>松本仿佛刚被人从湖水里捞了出来一样，他回过神，便慌乱了起来，耳朵根都变红了。</p> 
+<p>这一切被那人都看在了眼里，他又冲松本笑了一下，眼尾弯起了一个好看的弧度，深色的眼睛亮亮的，好像有座湖在眼睛里一样。他回过头，给松本留下了一个看起来毛茸茸的后脑勺。</p> 
+<p>松本沉默地看着那个人被旁边同行的男人牵着手离开。这一切发生得太快了，大概也就几十秒的时间，可在松本这里，时间似乎被拉长了，像是融化后的糖稀，撕扯不断。</p> 
+<p>他感觉到胳膊上有只手握住了他，于是垂下眼，向爱子露出一个微笑，温和地说：“走吧，进去买冰沙。”</p> 
+<p><br /></p> 
+<p>松本点了巧克力味道的冰沙，结果因为对他来说有点过于甜，大半都融化掉了，成了半杯饮料。</p> 
+<p>他回到家，把那杯混合物放在了桌上，塑料杯子的外面有一层冰块融化时候凝结的水汽，滴了下来，在松本的书桌上形成了一个小小的、浅浅的水洼。</p> 
+<p>真热啊。</p> 
+<p>松本想。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>3</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野智跟着渡边走进了他常去的酒吧。他兴致不是很高，本来打算在家看个电影或者睡一觉的，结果还是被渡边拉了出来。</p> 
+<p>他知道渡边不是什么循规蹈矩的人，去酒吧也是为了寻觅一个刺激的对象，这些大野都清楚，也假装不知道有这回事。</p> 
+<p>原因很简单，因为大野其实也不是那么闷的人，只不过入他眼的人少得几乎没有罢了。渡边那个人实际上很单纯，单纯地用身体思考事情，他只要觉得对方能令他有欲望，也就直接出手了。大野至今都没明白渡边怎么就看上自己，还把他纳入了固定对象的范围里面。</p> 
+<p>他没有问过，也没多少想知道的兴趣。</p> 
+<p><br /></p> 
+<p>大野不是第一次来这间酒吧了，他熟门熟路地和认识的酒保、门口保安打了个招呼，就自顾自地上了二楼，找了个角落坐下了。渡边没有跟着他，进门之后，就不知道去哪里了。酒吧里的熟人也都了解他们，趁渡边不在的时候，大野也跟着几个朋友一起聊天喝酒。</p> 
+<p>大野不知道他的人气其实很高。这圈子不是很大，年轻又洒脱的人不是很多，大多都有点矫情。而他岁数不算很大，却有着淡然的气质，长得也精致，又能喝能聊，看起来信任陌生人到了所有人都觉得他单纯的地步，兴致高了还能唱会跳的，挑人的眼光也意外得很高。能在酒吧里遇到这样的人，雄性的征服欲和母性的关怀欲都往他身上投射了过去。可大野自己没什么自觉，反应过来还会问：“你为什么喜欢我啊？”</p> 
+<p>他基本不会跑到舞池里去和陌生人跳舞，他觉得自己已经过了那个看什么都新鲜得要命的年纪，尽管大野经常被人说“你才多大啊大学生别看起来像个老头一样”，可他就是这样想的。</p> 
+<p>最近导师开始让他们搞阅读小组，大野属于你们爱读啥读啥，我按时交报告，平时别烦我的组员，对阅读内容没有任何要求。但这个月的阅读书籍是罗兰&middot;巴特的一本著作，他并不喜欢这类要对一切都下个定义的解构主义理论，读得很烦。大野觉得这种给一切都要下个定义，拆解所有的有形的、无形的事物甚至情感，是一件非常没有必要的事情。</p> 
+<p>他和大学同学抱怨这件事，同学都和他开玩笑：“你就是萨特读太多读太早了。”</p> 
+<p><br /></p> 
+<p>“说起来为什么美学研究要读这类东西啊，我以为你们就是画画的。”</p> 
+<p>大野眯着眼睛瞥了一下说话的人，他摇摇头，喝了口酒：“我哪知道。”</p> 
+<p>“诶，注意点，别刚成年就成了酒鬼。”</p> 
+<p>“有什么关系，”大野扬了一下眉毛，“有酒才会有思路。”</p> 
+<p>周围人聊天的声音大野大多都没往心里去，也都随随便便说着半真半假的话。围着他坐下的人里五个有四个都不认识，却一脸熟悉地过来，亲昵地叫着“Oちゃん”。仔细想想，可能有几次喝醉了在别人家醒来的时候，但大多也都对那人没了印象。</p> 
+<p><br /></p> 
+<p>这也算是体验一下放纵人生的感觉。</p> 
+<p>大野清醒地知道这点，然后再把自己灌到不清醒。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>这天的醉酒来得格外的晚。</p> 
+<p>大野喝了第二杯啤酒就觉得没什么劲了，他有点恹恹的，于是站起身，说“我出去抽根烟”。他在一波起哄中走下楼，满不在乎地拨开那些伸手想揩他油的手，横着从缝隙里穿过了舞池。</p> 
+<p>他很早就开始吸烟了，断断续续偷偷摸摸的，到大学之后，熬夜变多了，需要打起精神的时候也变多了，就变得略微有些烟瘾。大野不觉得这是一件多酷的事情，烟酒只是一个消遣，就像是他忘记哪部电影的台词一样，大意是——“人总是在想方设法地通过各种手段去排遣自我的空虚，去浪费自己本就不多的时间”。</p> 
+<p>酒吧门口站着几个异装的美人，穿着闪亮的小裙子，脸上化着浓妆，手里都有根烟。他们旁边三三两两地站着年轻的男孩子，勾肩搭背，有些眯着眼睛看人。大野见怪不怪地站在他们前面，掏出根烟。</p> 
+<p>就在这个时候，他看到了一直往这边瞟的松本润。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本润也不知道自己为什么鬼使神差地走到了这里。</p> 
+<p><br /></p> 
+<p>他被加藤在耳边叨叨了很长时间，内容都是某些酒吧专门给特殊人群开放，希望他能去看看之类的。松本听说过那类酒吧，在他脑子里都和人妖酒吧类似，带着一股劣质香水和粗糙妆容的感觉。他有点抗拒，但又忍不住想去看看。</p> 
+<p>松本偷偷去过普通的酒吧，清吧和热闹的pub都偷摸去过。他很喜欢电子乐，有的时候pub里的DJ会放很好听的混音，男男女女在模糊的光线里跳着、扭着，酒精和荷尔蒙混在在暧昧的距离里，闻起来像是大人的味道。</p> 
+<p>但这类特殊的酒吧，他还真的有点好奇，当然只是略微有点。</p> 
+<p><br /></p> 
+<p>他晚上吃完饭，和父母说了一声就想出去散散步。松本的生活还是很健康和严格的，他很早就知道身体是不需要那么多的碳水化合物，无奈家里做的饭菜太好吃，每次都要吃得很多。为了消化掉那些多余的食物，以及加快吸收早点长高，他饭后都会去街上散散步，顺便绕去书店看看。</p> 
+<p>但今天不知道为什么，在外面待的时间有些长。他莫名地不太想回家。回家意味着作业，意味着面对这学期期末的复习，意味着晚上睡前给爱子发“晚安”。松本觉得自己仿佛喘不过气，他觉得自己的生活没有什么特别明显的目的，都是大家和通用规则来告诉他“你应该这样做”，他本能地觉得不对，但又没法反驳。</p> 
+<p>他厌倦了。</p> 
+<p><br /></p> 
+<p>松本漫无目的地走到了加藤曾经路过指给他看的一家酒吧。那天加藤差点就要拉着他一起进去，而他态度强硬地拒绝了，还引来了门口站着的人的嘲笑。松本不想和加藤一起进去，他知道这样看起来像什么，他不愿意这种误会发生在自己和加藤身上，虽然加藤倒是不介意，松本却对此有着异乎寻常的认真。他也不知道为什么，总之就是不愿意。</p> 
+<p>加藤问他“那换个人呢？”松本当时信誓旦旦地说“也不愿意”。</p> 
+<p>但现在，他独自站在那家酒吧门口的不远处，往那边好奇地、默不作声地张望。</p> 
+<p><br /></p> 
+<p>就在他觉得没什么意思了打算回去的时候，他的心脏突然欢快地跳动了起来。松本一眼就看到了猫着背走出来点烟的男人，虽然只有那么短短的一面之缘，他却记住了他。他瞪大眼睛几乎是呆呆地盯着那人不放，时间又一次地被融化，松本感觉手里的可乐罐表面又开始凝结水滴了。他就这样看着那人，直到那个男人抬头和他对视了一眼。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本下意识想跑，但他的脚却没有动，眼睛也没有动，就这样眼睛瞪得大大的、毫无防备地盯着那个人。</p> 
+<p>大野智第一次感觉到有人拿这样毫无防备、带着好奇和隐隐的、懵懂的试探的眼神在盯着自己，他觉得那个男孩子有点眼熟，便走了过去。直觉告诉他，他记得那个孩子，只是碍于晚上灯光太暗、自己眼睛视力不太好，看不太清而已。</p> 
+<p>大野迈着步子走近的时候，松本脑子里一直转着“快走”两个字，但他的身体仿佛故意违背大脑指令似的纹丝不动，搞得松本也不知道自己到底是想跑还是想和大野搭话。他看着大野越走越近，最终在离他还有一米距离的地方停了下来。他感觉到对方在打量他。</p> 
+<p>随着距离的缩短，大野终于好好地看了眼这个男孩。他很快就想起来是在那家弥漫着过分甜腻味道的冰沙店门口撞到的那个男孩，他隐约记得当时这个男孩旁边是有个女孩子来着，但大野没有往女孩那边多看一眼，反而一直回头看着他。</p> 
+<p>他印象最深的还是当时撞进视线里的那双眼睛，和现在一样，带着浓烈的好奇，明明是有点失礼却不令人讨厌。他没有在其他男人脸上见过这样的眼睛，看起来真诚，多情，闪着对一切都好奇的光芒，让他忍不住想伸手摸摸那双眼睛的眼睑，检查一下是怎样的构造能遮住这双眼带来的光。他也记得那张脸，看起来有些浓的长相，让他觉得似乎这个孩子不应该出现在冰沙店门口，而是应该在某个杂志封面上。</p> 
+<p><br /></p> 
+<p>大野把视线移开，回头看了眼酒吧门口。他勾起一个笑容，回过头来看着松本：“我们见过，我记得你。”</p> 
+<p>松本的脸马上就红了，他点了点头，努力用随意的语气说：“嗯，我也记得你。”</p> 
+<p>“……未成年不适合来这里哦？”大野注意到了松本还在变声期带点哑的声音，他也注意到了这声音里的味道，听起来像是他有时候去咖啡厅点的甜奶昔一样，“还是说你遇到了惩罚游戏之类的？”</p> 
+<p>“不是。”松本很快地回答，几乎是脱口而出，“我自己来的。”</p> 
+<p>大野愣了一下，他反而没往那个意思想。他眯了眯眼，冷下脸来：“那你知道这里什么地方吗？”</p> 
+<p>“……知道。”松本的声音变小了，他没有底气，说不上来的没有底气。</p> 
+<p>大野还想说什么，被身后一股力量拉得转了半个身子。</p> 
+<p><br /></p> 
+<p>“Oちゃん干嘛自己出来这么远抽烟嘛……诶，这个小帅哥是谁呀？”</p> 
+<p>拉住大野的人是渡边，他身边还站着几个大野没有印象的人。这些人都注意到了松本，或好奇、或心怀不轨地凑向了他，开始半是好奇询问半是搭讪诱骗地和松本搭话。松本哪里见过这种阵仗，他开始磕磕巴巴地说话，明显是慌了。而那些混迹酒吧的人一见松本这样，便更想欺负他了，一时间那些人都围向了松本。</p> 
+<p>大野心里有点不爽，他轻轻甩开渡边，伸手从那些人围成的圈里把松本捞了出来，搂着他的肩膀：“都散了散了，这我表弟，来叫我去他家吃饭的。”</p> 
+<p>渡边看了眼大野：“我还没听说过你有个表弟。”</p> 
+<p>“你没听说的事情太多了。”大野随口一说，“那我先走了，byebye。”</p> 
+<p>说完，他几乎是半推半拖着松本，从那个酒吧那里离开了。</p> 
+<p><br /></p> 
+<p>而松本注意到，大野虽然是搂着他，但手根本没有完全放在他肩膀上，只是托了个手腕在那里。</p> 
+<p>他莫名有点失落。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本和大野无言地走了几分钟后，在大野不小心被路上的一块石子绊了一下之后，突然放松了下来，似乎那个人天生有种令人放松的神奇本事。松本大胆而又光明正大地又一次看向了大野，迫使他停了下来。</p> 
+<p><br /></p> 
+<p>“你想去哪里？要我送你回家吗？”</p> 
+<p>“诶？嗯……&nbsp;突然想吃拉面了。”</p> 
+<p>“那走吧，去吃拉面。”</p> 
+<p>“……这个方向有拉面店吗？”</p> 
+<p>“那去你喜欢的店？”</p> 
+<p>“什么嘛，成年人要问未成年喜欢的拉面店吗？”</p> 
+<p>“这不是你想吃嘛。”</p> 
+<p>“那还是去你喜欢的店吧。”</p> 
+<p>“为什么？”</p> 
+<p>“嗯……想尝试些新东西？”</p> 
+<p>“这样啊。”</p> 
+<p>“嗯。”</p> 
+<p><br /></p> 
+<p>大野觉得这孩子有点好玩，他领着一路上叽叽喳喳开始问各种问题的松本到了拉面店。路上他没有回答任何问题，都是含糊着嗯嗯对对是是是地敷衍过去了。</p> 
+<p>店里除了他们没有别的客人。直到他们坐下来，点完单后，大野才看着松本：“你叫什么名字？”</p> 
+<p>“松本润。你呢？”松本脱口而出没有带敬语的话，都吓了他自己一跳。</p> 
+<p>大野笑了起来，他摆摆手：“我是大野智，比你大不了多少，不用敬语也没关系。”</p> 
+<p>“那你是大学生？”松本问。</p> 
+<p>“嗯，艺大美学研究。”</p> 
+<p>“……为什么要研究美呢？有研究丑吗？”</p> 
+<p>大野失笑。没有人问过他这种问题，他自己也没有问过。</p> 
+<p>“嗯……艺术是没有美丑之分的，”大野想了想，说，“你看，可能你觉得冬天的树很丑，但有的人会觉得它很美……”</p> 
+<p>“所以就统称美学了。”松本抬了下眉毛，“但你研究这个做什么？它没有美丑之分，那你研究的是什么？”</p> 
+<p>“啊，你难住我了。”大野捂着脸，无声地笑着，“现在的高中生这么厉害了吗？”</p> 
+<p>“也没有……”松本忽然感觉自己有些过分，他冷静了下来，垂下眼睛。他不知道自己为什么突然话变得多了起来，像是在拼命了解对方一样。</p> 
+<p>明明刚刚才知道名字的。</p> 
+<p>“是很厉害啊。”大野像是想起什么似的，问，“说起来，你是哪个高中的？”</p> 
+<p>“……堀越高中。”</p> 
+<p>“诶？”大野笑了，“是那个明星高中啊。”</p> 
+<p>“不。只是普通学部而已。”松本摇摇头，又一次地沉默了。</p> 
+<p><br /></p> 
+<p>大野见他安静了下来，也没有再问。他有一搭没一搭地和熟识的拉面店老板聊天，都是些无聊的琐碎的话。他觉得今晚许久没有到来的酒劲有点上来了，看什么都带点虚，好像隔着一层水雾，所有的事物在他眼里都开始泛着涟漪。</p> 
+<p>“我出去……吹吹风。”大野模糊地说了一句，扶着桌子往拉面店外面走。</p> 
+<p>松本这个时候不太敢看大野，他隐隐地觉得有什么东西要失去控制，但又矛盾地想解开那层锁链，让它奔跑起来。他怕他再盯着大野看，会变得奇怪，所以只是点点头，看着桌上放着的红姜罐子。</p> 
+<p>“你表哥好像喝多了哦。”拉面老板一边煮着汤，一边对有些局促不安的松本说，“他一周得有五天是醉着的。”</p> 
+<p>“诶？”松本一愣，然后才反应过来，自己是一个“表弟”的身份。</p> 
+<p>“他每次来这里的时候都是一脸‘我为什么在这里’的表情，一看就是喝多了，觉得胃里空空的，烧得慌，想吃点东西。但他每次都很礼貌，也不会在店里闹事。”拉面店长顿了顿，他叹了口气，“今天可能是我见过他最清醒的一次了。”</p> 
+<p>松本突然感觉到了没有任何理由和立场的同病相怜，他似乎觉得如果是大野，也许他们能找出来一些问题的答案，也许能够解释为什么他总是恍惚着觉得这个世界不是那么的真实。他们点的拉面端了上来，松本决定去外面看看大野是不是需要帮助。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野在外面吹了吹风觉得好多了，刚才强压着的恶心感一到店外，便随着夜风消散掉了。他坐在马路牙子上，点了根烟。</p> 
+<p>他望着远处一些喝醉的上班族，一瞬间浑身被厌倦感淹没了。他厌倦每天喝酒的自己，厌倦自己这样的生活，厌倦无望地寻求生活意义和存在价值的自己，厌倦每天追求一些根本没有任何意义事物的其他人。他觉得自己的生活很空，日复一日，看不到任何结束的迹象，毕业之后去工作，然后工作到死，结婚或者不结婚，最后变成一个啰嗦的老头，直到死亡为止永远没个完。</p> 
+<p>他学着去体验一些其他的生活，但始终跳不脱这个循环系统。他觉得自己不是在这个常人的系统里的人，但他看起来无能为力。</p> 
+<p>一根烟抽完了，大野又点了一根。</p> 
+<p>他觉得松本润这个孩子很有意思，也很可爱。那些问题，如果是以前的自己，可能也会问得出来吧。才过了多少年，想事情的方式就变得这么沧桑，他不知道为什么，只能归咎于遇到了太多年龄大的人。所以当他看到松本那双充满了少年气息的眼睛时候，不由自主地想要靠近对方一点。他没有把松本当做一个小孩子，像大多数大学生看待高中生那样。他从松本的眼睛里看到了一些东西，是他想要去抓住的。</p> 
+<p>他自知今天确实很失态。平日里他不是那种会去搭话或者多管闲事的人。有的人说他看起来像是只在乎死物，比如比起和人搭话，他更宁愿去盯着一堵墙看个大半小时。但那个人似乎真的不太一样。</p> 
+<p>你这是犯罪啊……</p> 
+<p>大野自嘲地笑了笑，打算再点一根。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“……所以你一直在外面抽烟？”</p> 
+<p>大野吓得一抖，差点把烟掉在地上。他回头无辜地看着走过来的松本，有些委屈：“你吓死我了。”</p> 
+<p>松本深呼吸了一下，他跟着一屁股坐在了大野旁边，从愣住的大野手里抢过来烟，吸了一口。</p> 
+<p>“喂！你这样我容易被抓起来的。”大野赶紧把烟抢回来，他后知后觉地注意到松本似乎不是第一次吸烟。</p> 
+<p>“……我总觉得这个世界不是真实的，”松本自顾自地说了起来，似乎刚才那口烟给了他莫大的勇气似的，“感觉做什么都没意思，好像我和它不兼容一样。”</p> 
+<p>大野别过脸，那阵眩晕感又来了，让他的大脑和身体变得不太受控制。他喃喃地说：“我以前也这么想，其实现在也是这么想的。”</p> 
+<p>“我努力想让自己适应，去做大家觉得都很常见的事情，但我现在感觉自己继续不下去了。”松本把自己的脸埋在膝盖里，“我累了。”</p> 
+<p>大野安静地听着，他没有说什么，只是安静地听着松本突如其来的自述。</p> 
+<p>“起先，我是有兴趣的，我也是没有怀疑过的，我觉得这样就是我的道路。读书，交个可爱的女朋友，考个试，读大学、工作或者直接去打工，但最近我突然感觉这样的生活一点意义都没有。”</p> 
+<p>大野听到松本声音里的颤抖，他扭过头，温柔地伸手轻轻拍了拍松本：“你读过《西西弗的神话》吗？”</p> 
+<p>“它在老师给我的书单上，但我还没来得及读。”松本抬起头，他看着大野，脸又红了。他说了谎。</p> 
+<p>“厌倦是好事。”大野语速缓慢地说，“我记性不太好，但读过很久之后仍然记得这段话——‘厌倦产生于一种机械麻木的活动之后，但它同时启发了意识的运动，它唤醒意识，并且激发起随后的活动。无意识的重新套上枷锁，或者最后的觉醒。觉醒之后，随着时间的推移，就会产生结果，自杀或是恢复旧态。厌倦是件好事，因为一切都始于意识。’”</p> 
+<p>“你是说……”</p> 
+<p>“厌倦之后会改变，改变之后重复厌倦，然后再循环下去。”大野说，“就这样。”</p> 
+<p>松本想了想，他有些不太确定地看向大野，然后缓缓地说：“虽然终究是这样的，终究是循环的一个又一个绳套，但要意识到自己的厌倦，意识到这样的循环，接受它……是这个意思吗？”</p> 
+<p>大野有些意外地看着松本，他忽然觉得自己有点没办法直接和松本对视，就低垂下了眼睛。他看着松本穿着的衬衫，从上往下数第三个扣子上粘上了一些灰尘，他伸手轻轻地擦去了，然后他闷闷地笑着，歪了下头。</p> 
+<p><br /></p> 
+<p>“你已经读完这本书了。”</p> 
+<p>“而且比我读得要好太多。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>4</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野智缓过神来，发现自己站在了堀越高中的门口。</p> 
+<p><br /></p> 
+<p>他交完读书报告，便一头扎进画室里画画，熬了三天之后被室友硬拖回去按在床上逼着他睡了一觉。大野醒来的时候宿舍里只有他一个人，他慢吞吞地收拾了一下，冲了个澡，下楼去咖啡厅喝了杯又苦又酸的咖啡。他还觉得不太清醒，但也无所谓，就这样随着心情散步。</p> 
+<p>然后他就走出了学校，坐着电车到了堀越高中。</p> 
+<p><br /></p> 
+<p>大野那天晚上和松本回到拉面店里的时候被狠狠骂了一顿，面都凉透了，大野还是付了钱，一口没吃地和同样什么都没吃的松本又走出店门。他把松本送回家，路上，松本还和他聊了类似的一些话题。现在清醒了，返回去想这些话，无非都是高中时期经常问的一些事情，也都在前人的著作和观点里有各种答案。但大野却得到了一次难得的自省机会，他在和松本讨论，也在反问着自己。</p> 
+<p>从那之后，他就时常想起来松本了。</p> 
+<p>在画室里的时候，大野本来是要画已经拖了导师半个月的一副油画，但不知怎的，炭笔勾线时候总是拐去另一个方向，等他觉得勾线可以的时候，猛地发现自己在画别的东西。他擦了重画好几次，结果都是一样。</p> 
+<p>于是他到了堀越高中的校门口。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本润考完试跟着同学出来，一眼就看到了在校门口街拐角处靠着墙站着的大野。</p> 
+<p>他没想到大野会过来，整个人愣在原地。同学们都疑惑为什么松本不走了，顺着他的视线看过去，就看到大野在那里站着，表情很随意地看了过来，像是那种小混混在等人一样。</p> 
+<p>松本回过神，他什么都没想，或者更准确一点说，是大脑一片空白。他自然而然地迈开腿就往大野那边跑了过去，尽管他确实不知道如何面对这种惊喜。他没听见后边爱子在喊他，就咧着嘴径自跑开了。</p> 
+<p>爱子怔住了，她没见过松本笑成这样，大大的眼睛眯起来，看起来和小狐狸一样。她不由自主地看了大野一眼，发现大野漫不经心的往她这边瞥了过来，赶忙收回眼神。直觉告诉她，她不能就这样放松本走。</p> 
+<p>“润？”爱子喊了一声，“你去哪儿？”</p> 
+<p>松本润停下了脚步。他把手提书包换了个手，他回头，冲爱子抱歉地笑了笑，指了指爱子手里的手机，便转身继续往大野那边走去。</p> 
+<p>学校门口聚集的他的同学都很好奇，七嘴八舌地猜测那个黄毛冲天的男人是松本的什么人。有人猜是哥哥，有人猜是打电动的朋友，只有爱子觉得可能没那么简单。但大家问她是不是见过那个人、那个人是谁的时候，爱子只是露出一个微笑：“那应该是润的亲戚吧。”</p> 
+<p>加藤却不这么觉得。他沉默地看着爱子，又抬眼朝松本的背影投去了担心的目光。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野没想到松本能这么高兴地连跑带走地过来，搞得自己本来难得的忐忑不安转化成了单纯的喜悦，他甚至有点后悔为什么没有早一点过来找对方。半个月不见，他突然觉得松本好像又窜上了几厘米，并肩一起走的时候，感觉不像是和一个高中生在走似的，他忍不住眼角带上了笑意。</p> 
+<p>“你怎么来了？”松本像是在和老朋友说话一样，明明他们已经半个多月没有见过、没有任何联系了。</p> 
+<p>“突然想见你。”大野很随意地给松本抛去了一个小型炸弹，轰得松本心脏有点麻麻的感觉。他安静了下来，手里攥着的书包带变得皱巴巴的。</p> 
+<p>大野没有听到松本说话，他扭过头看了松本一眼：“嗯？怎么了？”</p> 
+<p>“没什么……”松本抿了抿嘴，“所以你来就是看看我？”</p> 
+<p>“啊……”大野突然想起什么，“你喜欢吃什么？”</p> 
+<p>“诶？突然？”</p> 
+<p>“啊，就是，请你吃东西。”</p> 
+<p>“……奶油蟹肉可乐饼。”</p> 
+<p>“诶？”大野一愣，“好可爱啊。”</p> 
+<p>松本赧然：“一点都不可爱啦。”</p> 
+<p>“那去你喜欢的店？”大野问。</p> 
+<p>松本没想到大野这么痛快，他有些开心地点头：“有家店，那里的可乐饼和炸物都很好吃。”</p> 
+<p>“那就带我去吧。”大野笑了笑。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本注意到，大野的食量真的很少，不像是一个已经成年的男人的饭量。他以为是大野和自己吃饭的原因，有点低落，筷子无意识地戳着盘子里夹开的可乐饼。</p> 
+<p>“……我还是很在意，”松本深呼吸了一下，开口，“你突然到我学校，又要请我吃饭，到底是什么意思？”</p> 
+<p>大野抬眼看了松本一下，他想了想，很真诚地说：“我也不知道。其实我今天本来打算只是散散步，就走到这里了。”</p> 
+<p>“无意识？”</p> 
+<p>“嗯。”</p> 
+<p>“但是……但是你……”松本顿了一下，他整理了措辞，继续说，“你不是我真的表哥，你也不欠我什么一顿饭或者别的什么，不用勉强自己的。”</p> 
+<p>“我没有勉强啊……”大野很无辜，他不知道为什么松本误会成这样。</p> 
+<p>“你几乎什么都没吃。”</p> 
+<p>“啊，我吃不了太多东西的。”</p> 
+<p>“那你脸还那么圆？”</p> 
+<p>“我只是脸容易胖啦。”</p> 
+<p>“骗人，你就是不想和我一起吃东西吧。”</p> 
+<p>“……真的没有。”</p> 
+<p>松本撇了撇嘴，他有点赌气地说：“我只是个高中生，你一定是在哄小孩。”</p> 
+<p>大野气笑了，他的指尖开始轻轻地敲着桌子，半开玩笑地说：“起先我真的不觉得你小，现在我觉得了。”</p> 
+<p>松本这才闭嘴，他扬了扬眉毛：“你现在才知道自己是在犯罪啊，老爷爷。”</p> 
+<p>“我犯什么罪了？”</p> 
+<p>“诱拐。”</p> 
+<p>“……是你自己要跟我走的。”</p> 
+<p>“你就让我跟你走了，这也是诱拐。”</p> 
+<p>“哦。”</p> 
+<p>“……你生气了？”</p> 
+<p>“没有。”大野皱着脸，很苦恼的样子，“怎么办啊，你这么一说，好像确实是这样。”</p> 
+<p>“我说了你才认识到吗？”松本忍不住笑了出来，他不再戳盘子里的食物，而是把筷子放下了，“我吃饱了。”</p> 
+<p>“确定？”大野看了眼松本盘子里惨不忍睹的食物，决定不继续问了。</p> 
+<p>“去吃冰沙吧。”松本说，“好热。”</p> 
+<p>不过如果是你的话，松本想，其实也没什么的，倒不如说希望能和你经常这样，被“诱拐”出去晃晃。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>这天的天气很不错，如果没什么急事，行人都愿意在外面晃悠一会儿再去下一个目的地。大野和松本两人在买完冰沙之后，路过一个小公园，决定先坐在这边慢慢吃。</p> 
+<p>大野还是一样点了巧克力味道的，松本却点了抹茶味道的，他觉得上次下意识点的巧克力太甜了。但现在他看到大野一点点挖掉的冰沙，却突然有点想尝尝。</p> 
+<p>可能那是大野碗里的。</p> 
+<p>他一边这么想，一边直接朝大野的冰沙伸过去了勺子。</p> 
+<p>大野竟然没有反抗，他吃东西的时候会不自觉地稍微嘟起一点嘴，冰沙被送进嘴里，含着糖、香料和巧克力酱、抹茶粉一起化在温暖的口腔里，有些负隅顽抗的小冰碴则随着口腔的开合化掉。食物也是这样消失的，最后被人无谓的消耗掉。反正都是被消耗掉，被自己或者被他人消耗，没有什么区别。但松本注意到，大野不管吃什么，嘴唇都是湿润的、饱满的。</p> 
+<p>假如熟悉大野的人看到松本拿着自己勺子在大野的冰沙里挖来挖去的场景，绝对会觉得大野可能被魇住了。他比较讨厌和别人共用餐具、杯子，有时候开玩笑的喂饭喂酒都会引起大野反射性、厌恶性的干呕。</p> 
+<p>大野自己倒不觉得奇怪，他心里有根线，线上面的可以做任何事，叫他出去吃饭，共用杯子等等，线下面的则不可以，就这么简单粗暴。具体那条线是什么，大野也说不清楚，总之就是有条线。</p> 
+<p>松本吃了一口大野的冰沙，觉得好像没有上次自己吃那么甜得过分，就又挖了一勺。</p> 
+<p>大野则想挖一下松本手里的抹茶冰沙，他还没吃过这个口味的。松本却把自己的冰沙拿远了一点，故意没有让大野能挖到。</p> 
+<p>他们沉默地玩了一分钟的逗猫游戏，结果伴随着大野的“好了不吃啦”结束。松本却把自己的冰沙摆到了大野面前，笑眯眯地说：“好啦，吃吧。”</p> 
+<p>大野瞪了松本一眼，赌气一般地挖了一大勺塞进嘴里，被冰的开始头疼。</p> 
+<p>他的手机响了一下，大野掏出来看了一眼，就塞回了衣兜里。</p> 
+<p>“……女朋友？”也许是太放松了，松本多了句嘴。</p> 
+<p>“不是。”大野摇摇头，“嗯……连男朋友都算不上吧。”</p> 
+<p>“……所以你确实是那边的咯？”</p> 
+<p>“嗯。”大野眯起眼睛，故意扯起嘴角坏笑了一下，“你怕了？”</p> 
+<p>“那倒没有。”松本平静地说，他又挖了一勺大野的冰沙。</p> 
+<p>不如说，一听到这个结果，松本第一反应是有点莫名其妙的开心。</p> 
+<p>“不过，”松本皱起了眉，不知道是被冰得还是他想不通，“怎么确定自己是哪边呢？……我读过几本小说，里面都提到欲望，但我觉得可能没有那么简单。”</p> 
+<p>“确实没有，不过我也不太清楚呢。”大野点头，“我之前也有过女朋友的。”</p> 
+<p>“真的吗？”</p> 
+<p>“嗯。但感觉不太合适，就分手了。”大野突然想起什么，他冲松本扬扬眉毛，“不过你可不要学我啊，我是太怕麻烦。”</p> 
+<p>“谁要学你啊。”松本拍了大野一下。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>最后大野手里的冰沙很快就见了底，他看松本还在安静地吃着，没什么事做，就挪了挪位置，从包里拿出来一个不大的素描本和笔，</p> 
+<p>他想顺手把松本的速写画下来。</p> 
+<p><br /></p> 
+<p>松本还蛮喜欢这种安静氛围的，让他想起前段时间安妮老师给他们放的一个电影片段，他记得那个段落是完全无声的，只有环境的白噪音，画面里的人物都沉默地做自己的事情，但从眼神和画面氛围里能感觉到，有什么说不清道不明的东西萌生了，生长了，变得枝繁叶茂，让人无法忽视。</p> 
+<p>现在就像是那个片段一样。</p> 
+<p>他回过头想看看大野在做什么，结果一眼就看到了放在大野腿上的素描本子。</p> 
+<p>“……你在干嘛？”</p> 
+<p>“画速写。”大野抬头，看了眼松本，又添了几笔。</p> 
+<p>“诶？不要吧。”松本下意识地想捂脸，显得局促不安的。</p> 
+<p>“为什么？”大野抬起眼，认真地问。</p> 
+<p>这是松本第一次看到大野露出这么锐利的眼神，他觉得自己仿佛一瞬间变成了一块大理石胚子，而大野的目光则是作为雕刻刀，在他身上不断地切割、分解。他靠着自己天生的自来熟和后天学习的狡猾好不容易平静下来的心脏又不受控制了，感觉憋闷得厉害。</p> 
+<p>“……有点奇怪。”松本小声回答。</p> 
+<p>“你的眼睛很好看，我想画下来。”大野说着，又垂下眼，“不过我不怎么画认识的人的肖像。”</p> 
+<p>松本决定不再纠结这件事，否则这种巨大的害羞感会让他直接拔腿就跑。他定了定心，看着大野的笔在“刷刷刷”地动，忍不住问：“你习惯怎么画肖像？”</p> 
+<p>大野听到松本问的话，抬起头来。一般没有太多人问他这种，都是说不清是真是假的赞美和顺应场合的“这是怎么画出来的”。“画得真好”、“画得好像啊”，他作为一个本质上非科班出身的人，对这些赞美都是本能地怀疑。他知道自己不是什么天才，他是凭着自己的努力和热爱才到了这步的，中间度过了多少不眠之夜不会有人在乎，用了什么、想了什么，其实也没有太多人在乎。</p> 
+<p>但松本这个算算没几次遇见的人却想知道。</p> 
+<p>“我习惯从眼睛开始画起，”他说，“眼睛可以确定大概的位置，而且眼睛……”</p> 
+<p>他本来想说比较好画，但又犹豫了。</p> 
+<p>大野抬眼看向松本的双眼，他观察着眼睛里的光芒，虹膜的颜色，眼睛的形状，睫毛，眼睑。</p> 
+<p>他感觉自己要被松本的眼睛吸进去了。</p> 
+<p><br /></p> 
+<p>“……大野……くん……？”</p> 
+<p>大野回过神来，他匆匆合上手里的素描本。</p> 
+<p>“好了，”大野笑笑，“我们走吧。”</p> 
+<p>完了，有点想吻他。</p> 
+<p><br /></p> 
+<p>松本这个时候觉得自己脸要熟透了。</p> 
+<p>他和大野对视的时候以为大野只是对速写对象的观察，结果发现大野似乎在慢慢地靠近，眼睛几乎一眨不眨地看着松本。他的胸腔几乎要麻痹掉了，呼吸也不受控制地紊乱了起来。他看到映在大野柔和的棕黑色眼眸里的自己，甚至都能闻到大野身上传来的甜甜的不知名的味道。</p> 
+<p>他忍不住颤抖着出声。</p> 
+<p>大野像是被什么蛰了似的回过神，松本看着他匆忙地合上素描本，对自己说“我们走吧”。</p> 
+<p>他也看到了大野耳尖上泛开的低调、不引人注意的红色，看到了素描本的封面，是比天空深一度的蓝。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>爱确实是有颜色的。</p> 
+<p>松本得出了结论。</p> 
+<p>他感觉到生活似乎看起来变得不那么难以忍受了。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>——End（？）</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>其实我还没写完，但字数不受控制了</p> 
+<p>可能也许概率很小会有后续</p> 
+<p>Again，520快乐，希望我们每个人都能遇到爱情，就算遇不到，也要爱自己哦www</p> 
+<p><br /></p>
+
+<a id="more"></a>
+
+<hr>
+<p><code>2020-05-20 14:28:17</code> 【智智的毓子酱】 倩老师520快乐！！这篇真的好棒！！！感觉内心的雀跃和悸动都要涌出来了！期待后续ε=ε=(ノ≧∇≦)ノ゜</p>
+<p><code>2020-05-20 14:45:47</code> 【秦叔叔。】 呃呃呃可爱！！！老师520快乐！期待后续噢。</p>
+<p><code>2020-05-20 21:48:53</code> 【向东直行3104里】 好纯美的爱～</p>
+<p><code>2020-05-20 22:39:06</code> 【长歌Mh】 假设他们话都很多哈哈哈哈哈哈，确实两个人话好多（被打飞</p>
+<p><code>2020-05-21 01:01:11</code> 【qi_an】 回复【智智的毓子酱】 hhhhhh快乐！后续不一定会有（喂）</p>
+<p><code>2020-05-21 01:01:23</code> 【qi_an】 回复【秦叔叔。】 可爱就好hhhhhhh后续再说（喂）</p>
+<p><code>2020-05-21 01:01:46</code> 【qi_an】 回复【向东直行3104里】 hhhhhh谢谢您喜欢qwq</p>
+<p><code>2020-05-21 01:01:58</code> 【qi_an】 回复【长歌Mh】 是真的话太多（停）</p>
+<p><code>2020-05-21 07:29:52</code> 【satori】 读完感觉痒痒的…是萌芽破土而出的过程啊（好期待后续(｀▽´)</p>
+<p><code>2020-05-21 10:38:38</code> 【qi_an】 回复【satori】 是！！！我就是想，试着写出这种青春期的萌芽和不稳定感！！！（流泪）后续…不一定…就没有了（x）</p>
+<p><code>2020-05-21 19:24:27</code> 【Okada】 啊好可爱 好想看两个人进一步发展到在一起的过程</p>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E6%99%BA%E6%B6%A6/" rel="tag"># 智润</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/1d7a8b0f_1c9097974" rel="prev" title="【智润】恋爱写真">
+      <i class="fa fa-chevron-left"></i> 【智润】恋爱写真
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC81MjA3Ny8yODU1OA=="></div>
+  </div>
+  
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="想变成一条鱼"
+      src="/images/bloghead.jpg">
+  <p class="site-author-name" itemprop="name">想变成一条鱼</p>
+  <div class="site-description" itemprop="description">想变成一条鱼的永久分矿</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">121</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">20</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/SilencerSato" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;SilencerSato" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:sqsq94@sina.com" title="E-Mail → mailto:sqsq94@sina.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://weibo.com/u/1861343134" title="Weibo → https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;1861343134" rel="noopener" target="_blank"><i class="fab fa-weibo fa-fw"></i>Weibo</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/silencer_sato" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;silencer_sato" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://instagram.com/silencer_satoya" title="Instagram → https:&#x2F;&#x2F;instagram.com&#x2F;silencer_satoya" rel="noopener" target="_blank"><i class="fab fa-instagram fa-fw"></i>Instagram</a>
+      </span>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      相关链接
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://www.lofter.com/blog/fishingsilencer" title="https:&#x2F;&#x2F;www.lofter.com&#x2F;blog&#x2F;fishingsilencer" rel="noopener" target="_blank">Lofter</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://fishersilencer.wordpress.com/" title="https:&#x2F;&#x2F;fishersilencer.wordpress.com" rel="noopener" target="_blank">WordPress</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://archiveofourown.org/users/silencer_sato" title="https:&#x2F;&#x2F;archiveofourown.org&#x2F;users&#x2F;silencer_sato" rel="noopener" target="_blank">AO3</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="http://hellowland.com//u36070" title="http:&#x2F;&#x2F;hellowland.com&#x2F;&#x2F;u36070" rel="noopener" target="_blank">HelloWorld</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.rearyard.com/self/29330/info" title="https:&#x2F;&#x2F;www.rearyard.com&#x2F;self&#x2F;29330&#x2F;info" rel="noopener" target="_blank">rearyard</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 2020-12 – 
+  <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">想变成一条鱼</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+
+    <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+    <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+    <span class="post-meta-divider">|</span>
+    <span id="busuanzi_container_site_uv">总访客数<span id="busuanzi_value_site_uv"></span>人</span>
+    <span class="post-meta-divider">|</span>
+<!-- 不蒜子计数初始值纠正 -->
+<script>
+$(document).ready(function() {
+
+    var int = setInterval(fixCount, 50);  // 50ms周期检测函数
+    var countOffset = 20000;  // 初始化首次数据
+
+    function fixCount() {            
+       if (document.getElementById("busuanzi_container_site_pv").style.display != "none")
+        {
+            $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + countOffset); 
+            clearInterval(int);
+        }                  
+        if ($("#busuanzi_container_site_pv").css("display") != "none")
+        {
+            $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + countOffset); // 加上初始数据 
+            clearInterval(int); // 停止检测
+        }  
+    }
+       	
+});
+</script> 
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  
+  <script color='0,0,255' opacity='0.5' zIndex='-1' count='99' src="/lib/canvas-nest/canvas-nest.min.js"></script>
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+<script>
+NexT.utils.loadComments(document.querySelector('#lv-container'), () => {
+  window.livereOptions = {
+    refer: location.pathname.replace(CONFIG.root, '').replace('index.html', '')
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,1038 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.2.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/fish_32px_1289440_easyicon.net.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/fish_16px_1289440_easyicon.net.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/all.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-minimal.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+<script id="hexo-configurations">
+    var NexT = window.NexT || {};
+    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+  </script>
+
+  <meta name="description" content="warning：    &gt;&amp;nbsp;来源：精神污染三十题  &gt;&amp;nbsp;恶魔润 x 死神智，嘛，看做《死神君》的瞎编后续吧x  &gt;&amp;nbsp;女孩的故事借了《我和厄尔以及将死的女孩》（电影可小清新了推荐）  &gt; ooc  &gt;&amp;nbsp;顺手丢&amp;nbsp;归档    ---------------------------------------------    &amp;">
+<meta property="og:type" content="article">
+<meta property="og:title" content="【润智】我将为你送葬">
+<meta property="og:url" content="http://example.com/1d7a8b0f_129eb75e">
+<meta property="og:site_name" content="渔船停泊处">
+<meta property="og:description" content="warning：    &gt;&amp;nbsp;来源：精神污染三十题  &gt;&amp;nbsp;恶魔润 x 死神智，嘛，看做《死神君》的瞎编后续吧x  &gt;&amp;nbsp;女孩的故事借了《我和厄尔以及将死的女孩》（电影可小清新了推荐）  &gt; ooc  &gt;&amp;nbsp;顺手丢&amp;nbsp;归档    ---------------------------------------------    &amp;">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2018-04-13T09:02:32.000Z">
+<meta property="article:modified_time" content="2018-06-18T23:15:06.000Z">
+<meta property="article:author" content="想变成一条鱼">
+<meta property="article:tag" content="润智">
+<meta property="article:tag" content="精神污染三十题">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://example.com/1d7a8b0f_129eb75e">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome : false,
+    isPost : true,
+    lang   : 'zh-CN'
+  };
+</script>
+
+  <title>【润智】我将为你送葬 | 渔船停泊处</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <h1 class="site-title">渔船停泊处</h1>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+      <p class="site-subtitle" itemprop="description">一个小型露营地</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+
+<nav class="site-nav">
+  <ul id="menu" class="main-menu menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a>
+
+  </li>
+        <li class="menu-item menu-item-about">
+
+    <a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup">
+        <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result">
+  <div id="no-result">
+    <i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content post posts-expand">
+            
+
+    
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://example.com/1d7a8b0f_129eb75e">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/bloghead.jpg">
+      <meta itemprop="name" content="想变成一条鱼">
+      <meta itemprop="description" content="想变成一条鱼的永久分矿">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="渔船停泊处">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          【润智】我将为你送葬
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+
+              <time title="创建时间：2018-04-13 17:02:32" itemprop="dateCreated datePublished" datetime="2018-04-13T17:02:32+08:00">2018-04-13</time>
+            </span>
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="far fa-calendar-check"></i>
+                </span>
+                <span class="post-meta-item-text">更新于</span>
+                <time title="修改时间：2018-06-19 07:15:06" itemprop="dateModified" datetime="2018-06-19T07:15:06+08:00">2018-06-19</time>
+              </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Text/" itemprop="url" rel="index"><span itemprop="name">Text</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p>warning：</p> 
+<p><br /></p> 
+<p>&gt;&nbsp;来源：<a target="_blank" rel="nofollow" href="https://weibo.com/1607298582/AbK9Nubwq?sudaref=www.baidu.com&amp;display=0&amp;retcode=6102&amp;type=comment#_rnd1515675380986"  >精神污染三十题</a><br /></p> 
+<p>&gt;&nbsp;恶魔润 x 死神智，嘛，看做《死神君》的瞎编后续吧x</p> 
+<p>&gt;&nbsp;女孩的故事借了《我和厄尔以及将死的女孩》（电影可小清新了推荐）</p> 
+<p>&gt; ooc</p> 
+<p>&gt;&nbsp;顺手丢&nbsp;<a target="_blank" href="http://fishingsilencer.lofter.com/post/1d7a8b0f_8ffefbf"  >归档</a></p> 
+<p><br /></p> 
+<p>---------------------------------------------</p> 
+<p><br /></p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>圆脸的、戴着礼帽的死神把名片递了上来。</p> 
+<p>“我来迎接您了。”</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>1</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>松本润看着面前这个明明比他矮但还是倔强地飘在半空中争取和他平视的小死神，忍不住“噗嗤”一声笑了出来。</p> 
+<p>“你确定是我吗？年轻的小死神？”</p> 
+<p>&nbsp;</p> 
+<p>413愣了愣，看着眼前这个容貌异常好看的男人对自己勾起了嘴角，扯出一个标准偶像的笑容。他赶快低头翻看着笔记本，试探地问：“那个……您是……松本润先生吧？”</p> 
+<p>“是，也不是。”松本把手按在413的肩上，突然从天花板上开始莫名其妙地掉落一些黑色的羽毛，413看到了名为“松本润”的家伙眼里的一丝红色。</p> 
+<p>“……你你你……你是恶魔？？？？”413吓得想赶快离开，但无奈肩膀被恶魔抓得死死的。</p> 
+<p>“我伪装成人很长时间了，没想到你们这些死神还真的把我当成人类啊……”恶魔拽着已经生无可恋的小死神，另一只手把玩着那张看起来很可爱的名片，“413是吗？我知道你了，”他低头看着413，“以后请多多指教。”</p> 
+<p>说完，恶魔把413放开了。</p> 
+<p>&nbsp;</p> 
+<p>413使用了最快的速度逃掉，他甚至不知道自己为什么不由自主跑得这么快，以前不管遇见什么都很淡定的他，遇见个恶魔就被吓成这样，实在是有些匪夷所思。</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p><br /></p> 
+<p>413的监死官是个性情相对平和的男人，他在413没什么干劲但完成得很好的工作中只是担当了一个听413牢骚的身份，爱给人取名字的413还顺便给他取了个名，两人工作很愉快。但这次，他看到413急急忙忙跑回来的时候，吃惊的连羽毛都没收回去。</p> 
+<p>&nbsp;</p> 
+<p>“你真的是我的监视官山本先生吧？？？？”413一把抓着山本身上的羽毛，急吼吼地问。</p> 
+<p>山本疼得差点变回乌鸦，他赶紧解释：“我当然是了，你这是怎么了？？？”</p> 
+<p>“我遇见了一个恶魔，”413喘着气，困惑地说，“可是他在我的笔记本上……笔记……诶？我笔记本呢？？？”</p> 
+<p>“……你把记了要死去的人的名字的笔记本丢了？”</p> 
+<p>“……一定是落在松本那里了……”413有些绝望，“希望那位恶魔不要捡它……”</p> 
+<p>山本听得有些糊涂：“等下？松本润这个名字，不是你今天要去迎接的三天后回天国的人吗？”</p> 
+<p>“对，这个事情还得和主任说一下，”413说，“那是个伪装成人类的恶魔。”</p> 
+<p>“哈？？？哦……我好像听说过恶魔界那里有个常年不回去的恶魔……”</p> 
+<p>“对吧？”413皱起了眉毛，生气地说，“这种错误都能犯吗？”</p> 
+<p>“不过在找主任之前……”山本小声地提醒现在气鼓鼓的413。</p> 
+<p>“得把笔记本拿回来……”413接上了山本的这句话，然后突然泄气地坐在了天界的边上。</p> 
+<p>“不过话说回来……”山本小心翼翼地问，“你怎么对恶魔这么敏感？”</p> 
+<p>413拖着腮，想了很长时间，最后慢吞吞地回答：“……我也不清楚……身体擅自就动起来了……”</p> 
+<p>山本知道413的来历和其他的死神不太一样，他也没继续问下去，催着413赶快去找到那个笔记本。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本润翻着413着急逃跑落下来的黑皮小笔记本。</p> 
+<p><br /></p> 
+<p>他在上面看到了许多人类的死亡原因和死亡时间，不断有新的名字在后面的页数上浮现出来，松本不耐烦地撇撇嘴，心想都这么长时间了，死神怎么还是不长进，搞得这么落后。</p> 
+<p>松本是个活了很长很长时间的恶魔，他记不清自己是什么时候爱上伪装成人类、混迹在他们中间的感觉，总之反应过来的时候，松本已经忘记自己属于恶魔的名字了。</p> 
+<p>混在人类中间有个好处，永远不会缺少迷失的灵魂，永远不会缺少食物，也永远不会缺少乐趣。</p> 
+<p>他只叫自己松本润。</p> 
+<p><br /></p> 
+<p>松本扭着身体坐在沙发上，手指随意地翻着笔记本，等着那个在他眼里就和新生儿一样年轻的死神回来。</p> 
+<p>不出他所料，一个黑色的身影闪过他的窗前，松本在沙发上听完了一整张SID的精选集，那个身影都没出现在他眼前。</p> 
+<p>松本无奈，起身用力把窗户推开。</p> 
+<p><br /></p> 
+<p>外面飘在半空中的死神吓了一跳，他整理了一下歪掉的帽子，嘟着嘴：“把我的笔记本还给我。”</p> 
+<p>“你丢在我这儿的本子，连谢谢都不说就想要回去？”松本被这个死神气笑了，伸手把小本子在413眼前晃了晃，就是不给他。</p> 
+<p>“谢谢你，”413语速很快，“所以可以麻烦你把我的笔记本还给我吗？”</p> 
+<p>“不行。”</p> 
+<p>“……我就知道你们恶魔没有一个好东西……”413喃喃自语。</p> 
+<p>“喔？看来你遇见过我的同类啊，”松本扬起了眉毛，“给你可以，不过答应我一个条件。”</p> 
+<p>“……什么？”</p> 
+<p>“让我跟着你工作。”</p> 
+<p>“我不会帮你寻找食物的，”413斩钉截铁地说，“我还想多当几天死神。”他想也没想就这么说了，话一出口就愣了一下。</p> 
+<p>松本笑得更开心了：“我不会抢这上面写好的灵魂的，我只是跟着你就好。”他又加上了一句，“我保证。”</p> 
+<p>413扁了扁嘴，他慢慢地从窗户飘了进来，落在了地上。</p> 
+<p>“……我能相信你的话吗？”他抬头看着松本的眼睛，“你不会抢我本子上的灵魂？”</p> 
+<p>松本死死地盯着413的眼睛，眼神仿佛可以流出花蜜一样的温柔：“请相信我。”</p> 
+<p>413呆呆地看了一会儿，然后不好意思地别开眼睛，嘟囔着：“你们恶魔长得都这么好看吗？”</p> 
+<p>松本愣了一下，没想到这个死神也这么直球，他反而被搞得有些手足无措。</p> 
+<p>尴尬地沉默了半分钟，松本清了清嗓子，问：“所以？”</p> 
+<p>413不情不愿地点了点头，松本把笔记本递了出来，被413一把抢了回去。</p> 
+<p><br /></p> 
+<p>“你叫什么？我是问名字。”松本问。</p> 
+<p>“死神没有名字，只有编号。”413拿到笔记本的第一时间就是赶紧翻了翻，看看有没有被面前这位恶魔瞎涂瞎改，所以他头也不抬地回答。</p> 
+<p>松本皱了一下眉毛，但也就一下。</p> 
+<p>“我叫松本润，”他把手伸到413的面前，“你以后就叫大野智好了，大野さん。”</p> 
+<p>&nbsp;“诶？”413瞪着松本，仿佛听不懂他说什么似的。</p> 
+<p>“编号太没意思了，”松本把413的帽子摘了下来，眼神定定地看着头发被帽子压得乱七八糟的413，“大野さん。”他的声音低沉，像是在讲什么古老的故事一样，让413恍惚了一阵。</p> 
+<p>“再，再说吧。”413慌乱地从松本手里把帽子抢回去，犹豫着说了句“松本先生再见，不，最好别见”，像第一次见到松本时候那样匆忙地跑掉了。</p> 
+<p><br /></p> 
+<p>松本看着413消失的地方，神色晦暗，不知道在想什么。</p> 
+<p>他轻声地念叨着“大野智”这个名字，然后也跟着在房间里消失了。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>2</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>413头疼地看着那个死死拽住身边恶魔、两眼放光的女孩，皱着眉头把她从松本身边扒拉下来，然后一本正经严肃地对她说：“你还有三天就要死了，有什么重要的事就赶紧去做，别留遗憾。”</p> 
+<p>“反正我都要死了，你就不能允许我满足一下和帅哥约会的愿望吗？”女孩不服气地说。</p> 
+<p>413听到“愿望”两个字瞬间紧张地看了松本一眼，然后赶快捂住了女孩的嘴。</p> 
+<p>松本全程迷之微笑地看着413和那位将死的女孩的吵闹，目光始终没有离开413.</p> 
+<p>&nbsp;</p> 
+<p>那女孩注意到松本看向413的眼神，无奈地把一直搂着松本的手缩了回去，瞪了还在苦口婆心劝说她的413一眼：“好了好了，我听你的就是了。”</p> 
+<p>413听罢，赶快抓住女孩的肩膀，把她从松本身边推走，一边轻推着一边说：“你想做什么，我可以帮你。”</p> 
+<p>女孩站定，面无表情地看着413：“我能问一下我是怎么死的吗？”</p> 
+<p>413面露难色地说：“不能告诉你，这是规定。”</p> 
+<p>女孩倒也干脆，摆了摆手嘟囔了句“估计也是”，就一个人望着天空开始发呆。</p> 
+<p>“您有什么想做的事吗？”413见她依旧没什么动作，忍不住又问了一句。</p> 
+<p>“没什么特别的……”女孩转头看着413，“能让我一个人待会儿吗？”</p> 
+<p>413还想说些什么，被松本拦住了。他对女孩抱歉地笑了一下，说：“那么，如果你有需要的话，喊他的名字，”松本朝413偏了一下头，“就可以了。”</p> 
+<p>女孩扬了扬手里的名片：“413先生是吗？”</p> 
+<p>松本张嘴想说什么，被413抢先了一步：“是的。”</p> 
+<p>女孩注意到松本突然失望的眼神，耸了耸肩，挥了挥手径自跑开了。</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>413看着跑远的女孩，叹了口气，掏出怀表看了一眼。</p> 
+<p>“不问我为什么拦住你吗？”松本问。</p> 
+<p>413把表收回怀里，抬起眼，慢吞吞地说：“你一定有你的原因，而我暂时不太想和你说话。”</p> 
+<p>松本有点失望，他灰心丧气地小声说：“你就那么讨厌我？”</p> 
+<p>413愣了一下，他没见过一个恶魔露出可以说是软弱的神情，他小心翼翼地试探着回答：“我只是……不知道你到底想做什么。”</p> 
+<p>他想起来那天和主任汇报这个情况时候，主任的慌张。</p> 
+<p>&nbsp;</p> 
+<p>“那位可是元祖级别的大恶魔……”主任拿出手帕擦着额头上的冷汗，“我们搞错了这件事，要是换在另外一个同等级别的大恶魔身上，很可能就要杀到这里了……”</p> 
+<p>“不过是那位的话，就好很多了。”</p> 
+<p>413问：“松本先生有什么不一样的地方吗？”</p> 
+<p>“他似乎很喜欢人类，”主任说，“他已经很久没有回到恶魔界了，总之也是个古怪的家伙，”他看着懵懵的413，命令一样地说，“这位，你可得好好安抚，人家动动一个指头就能让你的蜡烛彻底熄灭。”</p> 
+<p>&nbsp;</p> 
+<p>413回过神来，看着有些难过的松本，忍不住伸手扯了扯他的脸：“……你还是笑起来更好看。”</p> 
+<p>松本被413突然的动作搞得吓了一跳，他一把抓住413的手：“你是不是想起来什么了？”</p> 
+<p>“啊？”413被搞懵了，“什么？”</p> 
+<p>“……没事，”松本自知失态，他放开413的手，礼仪周正地和他道歉，“抱歉，我不小心把你和一个认识的人类混了。”</p> 
+<p>413被松本搞得有点糊涂：“为什么要道歉？”</p> 
+<p>松本没有回答，只是拍了拍413的肩膀。</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>413经常觉得自称“松本润”的恶魔长得有些莫名其妙的熟悉，他忍不住很享受独自工作中有这么一个恶魔的陪伴，但身体又不由自主地对他“恶魔”的身份有着恐惧。</p> 
+<p>他明明是很冷淡的、天不怕地不怕就连主任也拿这个业绩良好的新晋死神没什么办法的“带刺的家伙”。</p> 
+<p>413飘在那个女孩住的地方的天花板上，有些出神。</p> 
+<p>&nbsp;</p> 
+<p>“在想什么？”</p> 
+<p>松本突然出现在413身边，轻声问。</p> 
+<p>413习惯了松本的突然消失和突然出现，反正对他手里的活儿没兴趣，他也就由着松本这么乱来了。</p> 
+<p>“想你。”413也不懂什么忌讳和言外之意能给人带来多大的冲击，坦率地说着。</p> 
+<p>松本一下子有些不好意思，他赶快转移了话题：“你看她，在做什么？”</p> 
+<p>413把视线投向了那个拿着剪刀在一本本厚厚的书里剪着什么的女孩。</p> 
+<p>“她是死于疾病吧。”松本说着，有些可惜地摇了摇头。</p> 
+<p>“嗯，”413有些好奇，他看着女孩细致的工作，摸不着头脑，“她这是……？”</p> 
+<p>“可能想留下一些什么吧。”松本笃定地说。</p> 
+<p>“面对死亡的时候，人类的反应真的都不一样呢……”413感叹道，“有的人会歇斯底里寻找一切不会死去的方法，有的人会赶在最后时刻见重要的人，有的人会说一些最后难以开口的话……”</p> 
+<p>“你怎么看，”松本饶有兴趣地打断了413的喃喃自语，“人类这种事？”</p> 
+<p>&nbsp;</p> 
+<p>413愣了一下，他想了想，有些冷漠地说：“我不知道，也不想知道。”</p> 
+<p>“想得太多，蜡烛会熄灭的。”</p> 
+<p>“我只要完成我的工作就好了。”</p> 
+<p>&nbsp;</p> 
+<p>“这样啊……”</p> 
+<p>松本点了点头，把413的帽子摘下来扣在了自己头上，叹息着说。</p> 
+<p>“是这样的，太温柔，最后伤害的总是自己。”</p> 
+<p>&nbsp;</p> 
+<p><br /></p> 
+<p>&nbsp;</p> 
+<p>413监督的那个女孩躺在床上，身体已经变得冰冷，连接的仪器发出无机质的“嘀——”的长音，身边的家人都捂着嘴哭了出来，房间里的书架和布置得粉红色的墙纸安静得要命。</p> 
+<p>那个女孩的灵魂站在413身边，脸上的泪痕还没有干，她扫了一眼围在她病床的人群，有些无奈地叹了口气。</p> 
+<p>&nbsp;</p> 
+<p>“怎么了？”413温和地问。</p> 
+<p>“他果然没有来……”女孩自嘲地笑了笑，看着413，笑得很难看，“也许葬礼上他回来吧。”</p> 
+<p>“恋人？”</p> 
+<p>“不，可能连朋友都算不上。”女孩摇了摇头，又冲413点点头，“来吧，我做好准备了。”</p> 
+<p>“嗯，”413举起剪刀，把灵魂和肉体连接的部分剪断，“祝你在天国开心。”</p> 
+<p>“谢谢你。”女孩向413鞠了一躬，灵魂发出刺眼的白光，渐渐地她变得越来越轻、越来越模糊，最后消失在炫目又温暖的光芒中。</p> 
+<p>413掏出本子，打了个勾，看了眼床上女孩的尸体，眼神里一闪而过某种他自己也说不上来的情绪。</p> 
+<p>&nbsp;</p> 
+<p>“这就要走了？”松本问。</p> 
+<p>413收回了看向女孩的眼神，他点点头：“嗯，工作做完了。”</p> 
+<p>“距离下一次的工作有些时间，不如在这里看看她的葬礼？”松本提出一个建议，他有些恳求地看着413,413突然觉得这个眼神在哪里见过。</p> 
+<p>他鬼使神差地同意了。</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>女孩的葬礼很简单，在殡仪馆火化安葬之后，家人和朋友到她家吃顿简单的饭，互相安慰问候，互舔伤口。</p> 
+<p>只不过在413看来，这种互舔伤口无非就是在女孩的亲人心口再添几道疤痕罢了。</p> 
+<p>他百无聊赖地在人们头顶飘过，穿墙进了女孩的卧室。</p> 
+<p>松本站在一个看起来和女孩同岁数的男孩子身边，见413进来了，和他招了招手，让413也过去。</p> 
+<p>那个十几岁的大男孩翻着几本厚厚的书，眼泪在眼眶里打转。</p> 
+<p>&nbsp;</p> 
+<p>“他看到那个了，剪纸。”松本语气沉静，眼神如水一样地看向413.</p> 
+<p>413本能得突然有些害怕，他的第六感告诉他，如果走过去看了女孩的作品，一定有什么会发生改变。</p> 
+<p>但他无法拒绝松本的这个眼神。</p> 
+<p>&nbsp;</p> 
+<p>413走近，看着那本外壳看起来没什么变化的书本。</p> 
+<p>女孩活着的那三天一直在用剪刀和美工刀折腾她房间里的书本，他没想到最后竟然形成了这么美丽的东西。</p> 
+<p>书里的书页都被有计划地掏空，白色的纸张形成了一个个凹凸有致的山脉断崖，在掏空的中央，又错落有致地分布着各种形状的岛屿，上面还拿剪纸贴着身上有着文字的北极熊和企鹅，看起来像是活在书中的另一个冰天雪地的世界。</p> 
+<p>另一本书里则刻出了一座小型的森林，有着松鼠在树上蹦跳，有的松鼠还顺着书本的页数跳出了书外，引向另一本也被雕刻剪切的书籍。</p> 
+<p>&nbsp;</p> 
+<p>413看着这些生命里最后的艺术品和对生活、生命的热爱，突然感到胸口一阵闷痛。他抓着心脏的位置，困惑地看着松本。</p> 
+<p>“那个男孩子，”松本缓缓地说，“是女孩母亲朋友的孩子，被叫过来做陪她临终关怀的义工。是个古怪但很温柔的男孩呢。”</p> 
+<p>413把视线转向了男孩，他看到一些他们两人之间的断断续续的记忆，从相看两厌，到一起拍自制电影，到最后的胆怯和后悔，这份平淡又清爽的情感让413本来空空如也的胸腔一阵一阵抽痛，他不得不抓住松本的手臂，才能站立下去。</p> 
+<p>&nbsp;</p> 
+<p>“你怎么了？不舒服？”松本一脸紧张，他扶着413蹲了下来，413的胸口疼得说不出话。</p> 
+<p>“我们先出去？离开这里？”松本试着问，413勉强地点了点头。</p> 
+<p>松本看他没法自己动弹，就顺手把413抱了起来，然后赶快从女孩的家里出去。</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>死神果然没有体重。</p> 
+<p>松本有些遗憾地想。</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>3</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>413被松本以很羞耻的样子抱了出去，他坐在树荫下歇了一会儿，胸口的闷痛才减轻了不少。在此期间松本一直很担心地看着413，生怕他出什么事。</p> 
+<p>&nbsp;</p> 
+<p>“fufu，恶魔也有关心别人的时候啊。”413轻声笑着，突然调侃松本。</p> 
+<p>松本很无语，他伸手捏了一把413的脸：“你又不是人。”</p> 
+<p>“是啊……”413摸摸一直阵痛的心口，有些不知所措，“我不知道……我们明明是没有心的……但是这里很痛……”</p> 
+<p>松本沉默地看着似乎在向他寻求答案的413，圆圆的脸皱成了一团，本来就很精细的眉毛变成了一个八字，嘴唇无意识地嘟起来，看起来很好亲。</p> 
+<p>“我带你去吃甜点吧。”松本突然说。</p> 
+<p>“诶？”</p> 
+<p>“‘心情不好就去海边或者吃甜点吧’，有人和我这么说过。”松本笑着把413从地上拉起来，牵着他的手就开始走。</p> 
+<p>“不，等下，人类看不到我，怎么吃甜点啊……”413还想挣扎，无奈死神根本拦不住恶魔。</p> 
+<p>“首先给你换一套人类的衣服，”松本突然来了兴致，“然后去吃甜点。”</p> 
+<p>“不……我还有工作……”413想叫自己的监死官来带他走，但只是从天空飘落了一片乌鸦的羽毛，就没有后话了。</p> 
+<p>&nbsp;</p> 
+<p>这个胆小鬼。</p> 
+<p>413恨恨地想着，生无可恋地被松本拖走了。</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>松本也没有怎么打扮413，他只是买了一件简单又很舒服的T恤和一条亚麻色看起来很舒服的短裤，顺手买了一双人字拖鞋，可以当渔拖的那种。</p> 
+<p>413很无语地看着松本给他兴冲冲挑下的衣服，看了穿得很时髦的恶魔一眼，无奈地拿着衣服换上，然后显了形。</p> 
+<p>松本仔仔细细地看着413，摸着下巴觉得哪里有些不对，但又说不上来。</p> 
+<p>413莫名其妙地看到松本一个人在那里盯着自己来回看，还一直在碎碎念什么，忍不住问：“哪里不对？是拖鞋？”</p> 
+<p>松本突然灵光一现：“啊我知道了，是帽子！！”说完，他兴冲冲地拉着413，“走，我们去买顶帽子！”</p> 
+<p>“啥？帽子我有啊……”</p> 
+<p>“不是你那顶旧帽子，我们去买顶渔夫帽！”</p> 
+<p>“哈？？？”</p> 
+<p><br /></p> 
+<p>最后松本拉着413逛遍了购物区，才在一个小店里买到了他想要的帽子。</p> 
+<p>413也没说什么，一直陪着兴奋的松本逛来逛去，他那种熟悉的感觉又来了，好像在哪里发生过类似的事情，也是那个比自己高大的好看男人，拉着没什么兴趣的自己，在堆满各种衣物的店里晃悠。</p> 
+<p>他有些恍惚，下意识地拉了拉付账的松本的衣角。</p> 
+<p><br /></p> 
+<p>“嗯？累了？”松本问。</p> 
+<p>“没……”413回过神来，赶快把手放开，“我就是觉得，这个地方有些眼熟。”</p> 
+<p>松本的眼神一下子软化下来，他把新买的帽子的价签小心地用收银台上的剪刀剪下来，扣在413的头上，还帮他整理了一下头发。</p> 
+<p>413呆呆地站在那里，他不知道松本这么执着地寻找一顶浅咖啡色的渔夫帽有什么用意。</p> 
+<p>松本后退了几步，他看着有些傻的413，突然感觉鼻尖有点酸。</p> 
+<p><br /></p> 
+<p>太像了，如果这不是那个人的灵魂，松本就要亲自杀到天国里去质问管理员了。</p> 
+<p><br /></p> 
+<p>413在松本灼热的眼神下很不好意思，他摸了摸鼻子，问：“不是去吃甜点吗？”</p> 
+<p><br /></p> 
+<p>看啊，小动作都这么像。</p> 
+<p><br /></p> 
+<p>松本缓过神来，抽了抽鼻子，有点瓮声瓮气地说：“好，我们去吃点甜的。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>等他们俩火急火燎地赶到松本非要去的那家甜品店门口时候，已经快要关门收摊了。</p> 
+<p>店里只剩下一个草莓蛋糕，松本赶快买下来，结果没等413也跟着跑进去，就被店员赶出来了，理由是马上就要关门收拾，不允许再有顾客坐进店里享用。松本只好拿纸碟端着蛋糕，很为难地朝413笑笑。</p> 
+<p>“……不好意思，只能就这样吃了……”松本很懊恼，他抿着嘴，抱歉地看着413.</p> 
+<p>413其实也不在意这些，他很自然地拿起松本递过来的叉子，小心翼翼地叉下一块，然后塞进了嘴里。</p> 
+<p><br /></p> 
+<p>鲜奶油凉凉的，配合上草莓的清爽，甜但不腻，蓬松的口感让人吃一口就觉得非常幸福。</p> 
+<p>而这个味道，让413想起了一些什么，一些被他放置在灵魂最深处的东西。</p> 
+<p><br /></p> 
+<p>他想起有个人经常给他买各种草莓蛋糕，然后看着他眯起眼睛像个小姑娘一样喊着“超好吃”的时候温柔地笑。</p> 
+<p>那个人到底是谁？</p> 
+<p>怎么想不起来？</p> 
+<p><br /></p> 
+<p>松本注意到413像是中了魔咒一样停顿在空中的手，他想问怎么了，但看到413的样子突然什么话都说不出口。</p> 
+<p>眼泪从413的眼睛里不断地冒了出来，而413的表情，茫然的让人心疼。</p> 
+<p>他就这么茫然地两眼放空，而顾不上不断掉落的眼泪滑过他的脸颊。</p> 
+<p><br /></p> 
+<p>松本忍不住走近，伸手擦了擦413脸上的眼泪。</p> 
+<p>413反应过来，他僵硬地转头看着松本，泪眼里蕴藏的东西让松本万年没有动静的心脏跳得激烈。</p> 
+<p>“……润。”413说着。</p> 
+<p>松本承受不住，终于伸手把413搂在怀里，他紧紧地抱着413，不住地问：“你想起来了是吗？你想起来了？”</p> 
+<p><br /></p> 
+<p>“……这是……怎么回事……？”413问，“我是不是……哪里不对……哪里出问题了……”</p> 
+<p>413断断续续地说着，他伸手想擦干净脸上的泪水，但没有用，眼泪还是不停地下落，下落，最后破碎在松本的肩膀上。</p> 
+<p>而413接下来的一句话，把松本又一次的打进了深渊。</p> 
+<p>“……我想不起来……我想不起来……对不起……”</p> 
+<p>松本把413放开，他一手端着蛋糕，轻轻地吻了一下413的额头。</p> 
+<p><br /></p> 
+<p>“没关系，我有的是时间。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>4</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>松本润一个恶魔在人间生活了很长很长时间，长到已经忘记自己的本名，只记得自己叫“松本润”，一直用下来的人类的名字。</p> 
+<p>他独自生活在一栋公寓里，反正恶魔想要从人类手里得到什么东西总是容易得很，还能很轻松地在死神眼皮底下抢走迷途的灵魂，除此之外，松本喜欢观察人类。</p> 
+<p>贪婪的、弱小的，总是想不劳而获的得到什么，畏惧死亡和强大的人类。</p> 
+<p>也有善良的、不屈的，勤勤恳恳的却一生平庸的人类。</p> 
+<p>总之比只记得想方设法骗取灵魂的恶魔有意思多了，也比那些只懂得规则和正义的神复杂得多。</p> 
+<p>松本自由地在人间穿行着、观察着，享受着作为一个恶魔来说多余到不行的各种情感。</p> 
+<p>只不过有的时候有些寂寞罢了。</p> 
+<p><br /></p> 
+<p>恶魔们都忌惮他的力量，也觉得他是个怪胎，不怎么和他联络，除了唯一一个特例，那个有着白色长长头发、总是戴着奇怪帽子的恶魔。</p> 
+<p>那个恶魔喜欢跑过来，问他各种各样的事情，不厌其烦地用一张让人拒绝不了的笑脸问松本关于人间和人类的事情，松本也问过他原因，恶魔玩着自己的长发，狡猾地笑着：“更省力地享用到好吃的灵魂啊。”</p> 
+<p>不过那个恶魔的品味还可以，有次松本买衣服的时候，那个年轻恶魔还给他参考。从那以后松本又多了个和后辈恶魔一起去逛街的行程，只不过逛完总得去指导他狩猎灵魂。</p> 
+<p><br /></p> 
+<p>算了，就当给恶魔界做贡献吧……</p> 
+<p>松本想。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>有段时间那个恶魔一直没来找松本，他也没管，只当那个小辈去比较远的地方收割灵魂去了，他也乐得清净，可以去找那些人类的狐朋狗友玩乐。</p> 
+<p>直到有天松本回家，发现那个小辈垂头丧气地窝在角落，像一个做错事情的人类小孩一样可怜兮兮地看着松本。</p> 
+<p>“怎么了？失败了？”松本也没觉得会出多大事情，开了一罐啤酒坐在沙发上，随意地象征性问了一句。</p> 
+<p>没想到那个恶魔一屁股坐在他身边，开始絮絮叨叨地说自己的故事。</p> 
+<p>松本有一句没一句地听着，最后，白发恶魔有些愧疚地说：“我觉得自己害了他……”</p> 
+<p>“嗯，你确实害得那个小死神蜡烛熄灭了，”松本喝了一口酒，把另一罐递给了恶魔，“不过，就算你不出现，不恶作剧，那个小死神也会自取灭亡的。”</p> 
+<p>“嗯？为什么？”</p> 
+<p>“他有了人类的情感啊……”松本叹息着说，“作为死神，最不应该有的就是这个，他会下不去手的。”</p> 
+<p><br /></p> 
+<p>“不过你可以等，死神蜡烛熄灭之后，灵魂会被扔到人类那里的，”松本安抚地拍了拍喝闷酒的恶魔的肩膀，“除去性格可能不一样，长得应该是一样的。”</p> 
+<p>恶魔来了精神：“说起长相，我觉得他可能是你的type！”</p> 
+<p>“啊？你又知道些什么……”松本打了个哈哈敷衍过去。</p> 
+<p>“真的真的……我和你说……”</p> 
+<p><br /></p> 
+<p>松本好不容易把已经喝得有点多的恶魔踢出家门，他坐下摸着太阳穴，有些好奇那个灵魂到底是什么样的。</p> 
+<p>喜欢品尝人间的食物，感受人类能够感受的东西。</p> 
+<p>竟然和自己也有些相像。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>可能是缘分，也可能是只是一个普通的偶然，松本终于见到了那个有趣的灵魂。</p> 
+<p><br /></p> 
+<p>那天松本被楼上一阵呯呯砰砰的声音吵醒，有着起床气的他忍不住亲自上楼敲了敲这个未来邻居的门，开门的是一个小圆脸，长着一副看起来不是很景气但却很秀气的样貌，头发全梳了上去，露出来好看的额头和美人尖，发尾像是风一样地扬起。</p> 
+<p>“啊，吵到您了吗，抱歉，”没等松本说话，那人先开了口，声音黏黏糊糊的，像是把字音都串了起来放在火上烤成融化的棉花糖一样，“搬家公司早上比较便宜……”他不好意思地笑笑，向有些发愣的松本伸出了手，“大野智，今天刚搬进来，应该就一直住在这里了。”</p> 
+<p>“哦，哦……”松本被大野的相貌和声音以及友好的态度搞得有点懵，他赶紧也伸出手，握了上去，“松本润，就住楼下，在这儿住了……蛮长时间的，有什么需要帮忙的尽管提。”松本注意到大野的手骨节分明，上面还沾了一点颜料。</p> 
+<p><br /></p> 
+<p>啊，是个画画的吗？</p> 
+<p><br /></p> 
+<p>“啊真的吗？正好我总是装不上这个抽油烟机……”大野听到松本最后那句礼仪性的客套话，赶紧顺着下了个台阶，“您能……帮我看看吗？”大野露出生平里最可爱最可怜的眼神，由下往上地看着松本。</p> 
+<p><br /></p> 
+<p>啊，这个上目线太可爱了。</p> 
+<p><br /></p> 
+<p>松本就这么迷迷糊糊地进了大野的家，还帮他装上了那个抽油烟机，顺便还帮他整理了搬过来的东西。</p> 
+<p>“真是谢谢润君了，”大野笑着对松本说，眼尾勾起了一个狡黠又天真的弧度，“我请你吃饭吧。”</p> 
+<p>虽然恶魔感觉不到累，但松本打算狠狠宰这个看起来无害但说不定很狡猾的人类一顿。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>就这样一来二去的，松本和大野就从熟悉的邻居，到无话不谈一起去唱k的朋友，再到松本从来不敢碰的情侣。</p> 
+<p><br /></p> 
+<p>大野在一个雪夜，脖子上围着松本送的生日礼物，在圣诞树下和他告白了。</p> 
+<p>“润，我喜欢你。”大野的耳尖泛红，他看着有些吃惊的松本，又补上了一句，“最喜欢了。”</p> 
+<p>松本无法拒绝，尽管他知道应该拒绝的。</p> 
+<p><br /></p> 
+<p>他们做了所有情侣都做的事，约会、海外旅行、互相说晚安、发毫无意义的短信，同居、亲吻、做爱。</p> 
+<p>松本几乎每天晚上都要想着离开，但他舍不得。</p> 
+<p>这种感情太美好了，有人陪伴、有人能够懂得你的笑点、有人用温柔的目光追随着你的感觉太美好，他舍不得。</p> 
+<p><br /></p> 
+<p>恶魔不会老去，而人类会。</p> 
+<p>松本同样在一个雪夜和大野坦白了自己的身份，他咬着嘴唇说我们分手吧，对你太不公平。</p> 
+<p>大野没有什么反应，他捶了松本一拳，很冷静地说他早就猜出来松本的身份不一般，再说衰老算什么，死亡又算什么，重要的是他有这个人的陪伴。</p> 
+<p>那几乎是他们之间唯一一次的争吵，最后以松本的失败告终。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>大野躺在病床上的时候，握着泪流满面的松本的手，无声地对他说。</p> 
+<p>“要来给我送葬啊，润。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>5</p> 
+<p><br /></p> 
+<p>&nbsp;</p> 
+<p> 413跑到主任那里，向他要自己的灵魂记录。</p> 
+<p>他觉得这件事不应该就这么结束，冥冥之中413有种感觉，这段记忆太重要了，如果不能找回来，那么他将会失去最最宝贵的东西。</p> 
+<p>主任态度很强硬，他拒绝给413看任何档案，用熄灭蜡烛这种过分的威胁让413离开他的办公室。</p> 
+<p>413没办法，只好悻悻地回去了。</p> 
+<p><br /></p> 
+<p>监死官山本看不下去413这种魂不守舍的样子，他偷偷到主任的档案室看了一下413的记录，赶快跑去告诉他，以前他也做过死神，当时的监死官好像这次也到了这里，作为安分守己的奖励还给了她一个职位做。</p> 
+<p>413赶快去拜托人帮忙找那位监死官，所幸女性在冥界很难得，没费多大力气就找到了。</p> 
+<p>其实413已经不记得那位长什么样编号多少了，只是那位的记忆没有被注销，一见到413时候，那个漂亮的女人就冲过来狠狠打了他一下。</p> 
+<p><br /></p> 
+<p>“你说你到了冥界也不来看看我，你个笨蛋！”</p> 
+<p>413一愣，怎么这个感觉，有点熟悉？</p> 
+<p>那位女人见413呆呆愣愣的样子，反应过来：“他们注销了你的记忆？”</p> 
+<p>413点点头：“所以我来找你，是想让你帮我把记忆找回来。”</p> 
+<p>“什么时候的记忆？人类还是死神？”</p> 
+<p>“都有，”413很坚决地看着已经做了主任管理联络官的女人，说道，“尤其那段人类的记忆，我感觉它很重要。”</p> 
+<p>“小事。”</p> 
+<p><br /></p> 
+<p>女人领着413到了主任的办公室门口，威胁主任要是不交出413的记忆就把他在职对下属性骚扰的事报告给上面，然后撤他的职。</p> 
+<p>主任还想挣扎：“那些记忆交给413的话，他又会熄灭自己的蜡烛的。”</p> 
+<p>413很冷淡地看着主任：“不会的。”</p> 
+<p>女人听到主任的话本来还有些犹豫，但看到413这么笃定，她觉得413这次可能和上次自己做监死官时候不太一样了。她又仔细地看了一眼413，笑了笑，又强势地拍了一下桌子。</p> 
+<p>“他有我保证，”女人说，“如果他再像上次一样，我会亲自收回他的记忆的。”</p> 
+<p>主任也没什么话说，他从档案室里取出属于413的记忆，蓝紫色的雾状液体在小试管里飘荡着，看起来很美。</p> 
+<p>413小心地把试管接在手里，向女人和主任道了谢，然后赶快捧着它离开了。</p> 
+<p><br /></p> 
+<p>“……没问题吗？和他纠缠上的可是元祖级别的恶魔啊……”主任头疼地坐下。</p> 
+<p>“就算你不给，迟早有一天那个恶魔会亲自过来和你要的吧，”女人叹了口气，“嘛，这样也好，起码那个恶魔为了让413能长久地和他在一起，也会督促他工作吧。”</p> 
+<p>“那倒也是。”</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>413不知怎的，拿着那个记忆试管，下意识地就跑到松本的住处去了。</p> 
+<p>他觉得，如果恢复记忆，松本一定和他的记忆有很大的关系。</p> 
+<p><br /></p> 
+<p>松本开门的时候被吓了一跳，他看着有点和平时不太一样心事重重的413没有打招呼就走进了他的房间，狐疑地问：“又怎么了？我记得你今天是有工作的啊？”</p> 
+<p>413一屁股坐在沙发上，掏出了那个试管，不安地说：“这里是我的记忆，我觉得想起来的时候，你在我身边可能会好一点。”</p> 
+<p>&nbsp;松本听到“记忆”这两个字的时候呼吸一窒，他紧张地盯着那个试管，认真地问：“你确定要想起来那些事情吗？可能会很伤心。”</p> 
+<p>413问：“伤心是什么？”</p> 
+<p>“你还记得上次胸口闷痛吗？”松本耐心地说，“那就是伤心。”</p> 
+<p><br /></p> 
+<p>413犹豫了。</p> 
+<p>他看着装在透明的试管里、像是一朵好看的云一样翻腾的记忆，又看了看神情紧张的松本。</p> 
+<p><br /></p> 
+<p>那些记忆真美。</p> 
+<p>算了，管那么多。</p> 
+<p><br /></p> 
+<p>413很快地拔下来试管口的塞子，仰头一口气把那些美丽的液体吞了下去。</p> 
+<p><br /></p> 
+<p>刹那间，他像是被强制按在椅子上观看快进的电影一样，眼前闪过无数的影像，只不过这部渗透了两段生活的电影，主演是自己。</p> 
+<p>他像是不能呼吸一样，大口大口地喘着气，胸口一会儿憋闷，一会儿又特别畅快。</p> 
+<p>松本紧紧抓着他的手，虎口都被他掐疼了也不放开。</p> 
+<p><br /></p> 
+<p>像是过了两个世纪那么久，他的眼神终于又清澈了起来。</p> 
+<p>他扭头看向紧张得脸都僵了的松本，伸手抚摸着松本的脸。</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>“润，最喜欢了。”</p> 
+<p>&nbsp;“这是我的第二次告白了呢。”</p> 
+<p>&nbsp;</p> 
+<p>&nbsp;</p> 
+<p>——End</p> 
+<p><br /></p> 
+<p><br /></p> 
+<p>感谢看完这个故事的大噶x</p> 
+<p>这篇写得很痛苦，因为在此期间犹豫着要写这个梗还是现实向，还是一个更阴沉沉闷的故事，犹豫得不得了，最后还是难以割舍这个，就写出来了。</p> 
+<p>想过很多事情，就顺手在这里记录一下，很琐碎，看完这篇其实就不用再继续看我碎碎念了x为了不占用时间，就外链一下惹</p> 
+<p><br /></p> 
+<p><a target="_blank" rel="nofollow" href="https://shimo.im/docs/7QIPpSr7i2c2q0BH/ &#28857;&#20987;&#38142;&#25509;&#26597;&#30475;&#12300;&#21518;&#35760;&#12301;&#65292;&#25110;&#22797;&#21046;&#38142;&#25509;&#29992;&#30707;&#22696;&#25991;&#26723; App &#25171;&#24320;"  >絮叨x</a></p> 
+<p><br /></p>
+
+<a id="more"></a>
+
+<hr>
+<p><code>2018-04-13 18:38:02</code> 【サミの小糯米】 死神小大也是超级可爱了 他们最后在一起了！！表白gn！！ps:想看外链 然而打开说没有权限访问（哭唧唧）</p>
+<p><code>2018-04-13 19:01:18</code> 【qi_an】 回复【サミの小糯米】 谢谢gn喜欢qwqqq！！改完了应该能看到了_(:з」∠)_</p>
+<p><code>2018-04-13 21:23:45</code> 【サミの小糯米】 终于看到啦 文笔废实在不造该怎么讨论阿倩所提出的几个问题 不过可以肯定的只有 阿倩的文真的很有趣！很棒！所以不管太太写啥我们都是支持的喜欢的！</p>
+<p><code>2018-04-13 23:48:08</code> 【Kuroo】 非常喜欢倩老师的文字了！！能把负能的精神污染三十题写的这么暖实在太佩服了！同人嘛，最重要的是自己开心啦，谢谢倩老师在各种不同平行时空也给两个人那么美好的故事，每次看都像看电影一样，完了还能感慨很久呢！(´･∀･｀)会一直支持你哒！</p>
+<p><code>2018-04-14 08:55:27</code> 【快將溢出來的牛奶咖啡】 也謝謝一直堅持寫作的您（笑）</p>
+<p><code>2018-04-14 16:47:43</code> 【要早点睡觉】 一直觉得产粮的初衷是自己爽到，把脑海中的故事变现，呈现给自己看。但故事发出去一瞬间就不仅仅是自己了，肯定会在意读者的喜好。但这是发出去之后的步骤。如果在写的时候就犹犹豫豫的，两方拉扯，自己的想法和对读者口味的猜想相矛盾，那创作就不是一件开心的事啦，故事也可能打折扣。所以先…先…快快乐乐创作？这说法是不是有点任性啊_(:з」∠)_就希望产出太太在产粮的时候是开心的，带着喜欢和激情😂</p>
+<p><code>2018-04-14 16:56:17</code> 【要早点睡觉】 就…很喜欢太太无法琢磨的脑洞，每次都有惊喜23333新奇的梗是投机取巧嘛…？以为这是实力和脑洞的展现😂(好的不知道要说什么了(就，表白，期待精益求精的新作^O^/</p>
+<p><code>2018-04-14 17:50:17</code> 【qi_an】 回复【サミの小糯米】 哈哈哈哈哈哈那些问题也只是自问自答一下x其实也没什么解决办法x只要gn觉得有趣就已经非常感谢感激了，比心qwqqqqq！</p>
+<p><code>2018-04-14 17:52:19</code> 【qi_an】 回复【Kuroo】 哇谢谢qwqqqq！怎么说，这个三十题用在不同的cp上是不同的效果，变得这么暖完全是两位小可爱太好了qwqq确实呢，开心就好qwq，gn看得开心，能够喜欢这样的故事，我就很满足了qwqq谢谢昂qwq</p>
+<p><code>2018-04-14 17:53:37</code> 【qi_an】 回复【快將溢出來的牛奶咖啡】 谢谢评论的您qwq，大きな感謝(*´ω｀人)！</p>
+<p><code>2018-04-14 18:02:27</code> 【qi_an】 回复【要早点睡觉】 确实是这样，太过在意之后的事情反而会犹豫不决很难整理思路x做人嘛最重要的就是开心啦（喂）用“投机取巧”这个词，两个方面吧，一是有一些脑洞和细节是在某部电影/剧集/书本的影响下出现的，二是因为不是现实向，架空故事，也就避免了会过多脑补导致ooc的问题，而且让人眼前一亮的设定会令人忽视文字使用上的硬伤（x我在想这样下去迟早会穷尽，所以在思考如何能写出平淡但能触动什么的东西x哈哈哈还是想太多，其实自己开心最重要（喂）谢谢gn愿意和我说这么多，会加油的昂qwq（虽然效果不一定明显_(:з」∠)_</p>
+<p><code>2018-04-14 18:12:03</code> 【要早点睡觉】 回复【qi_an】 对一直认真思考的太太有信心(多尝试几次触动的故事会有答案的吧XD好巧也大半夜没睡🌚</p>
+<p><code>2018-04-14 23:28:03</code> 【快將溢出來的牛奶咖啡】 回复【qi_an】 請相信自己吧，就算不是，也請相信我們相信的您（好繞口XDD）雖然是有很多不足，很多不完美，這都是現在的我們的一部分啊，然後照著您所想的路來走，覺得怎麼做就去做，（極端一點說的，就是由您決定什麼是“好的”，當然我們也會說出意見，但是最後都是您來做決定）這種貪心要是能讓我們變成更好的人就好了（摸摸您www）（我在說什麼啊XDDD）</p>
+<p><code>2018-04-16 02:43:27</code> 【最】 说到rps的伟光正，确实是这个理。因为是rps，所以会往更加理想的方向靠拢，所以同时也缺了很多可能性。因为是爱豆，因为是rps，所以正常人不可能会刻意去描写阴暗面，大家的视线都在他们的光芒万丈和一些可爱的小习惯上，即使知道都是人，是人就不可能完美，那也没办法，因为喜欢一个人就是会努力的看到他身上好的地方啊。不但是rps，任何同人都容易落入一个人设难以写出新意的境地，这个是写同人不用再考虑人设的便利，也是一种约束，其实可以说是有失有得。得的是用他们的名义写出故事，失的就是那种随意性了。就我个人而言我肯定是HE派，但HE能发挥的空间其实很小。能把HE写得有新意就更难了，悲剧往往更能留下深刻印象。但是就是下不去手，有时候会想要不要挑战一下写个悲剧，但是为了追求这种新意而去刻意的写BE这就有点违背我自己最开始写文的初衷了。同人让我选的话，我还是会选没有新意的HE吧。</p>
+<p><code>2018-04-16 02:43:35</code> 【最】 然后说到文字的缺点的问题，之前我就嚎叫着想要一个互相进步我发一段文就出来嘲讽我的写手群，但是太难了，平心而论如果是我在里面，我可能也会顾忌到例如“我真的有资格对别人的文章指指点点吗”这样的问题，因为文章和画不同，画画能够很直观的分析它好不好看，它的笔触它的构图，但是文章就不是能那么一眼可见的东西了，首先需要耐心去【仔细】读完它，其次要有勇气去指出它，最后还要有足够的水平去指出它。先不说后面两层，许多人就死在第一个要求上了，看完一篇文很容易，但是仔细的看完一篇文就很难了……唉，倩老师当做我的自言自语吧_(:з」∠)_</p>
+<p><code>2018-04-16 06:31:45</code> 【qi_an】 回复【最】 我也是，难以下手写BE……但很奇怪，别的我可以很顺利地就剧情的发展来发生到bad end，可长末就很难x确实……仔细读完要提出来改进的要求，确实很难x而且这份要求是不是合理能不能做到还不知道x太主观了这种东西……x感谢感激最老师能自言自语这么多，爱您！！！笔芯！！！Heart Mark！！！（顺便，最老师，不如把您的段子写下来呗（喂</p>
+<p><code>2018-04-18 08:36:44</code> 【我佛慈悲渡不了憨批】 太太不必妄自菲薄，精神污染系列至少我很喜欢，在我看来人生已经够艰难够苦哈哈的了，能用文字传达一些暖洋洋的可爱的温柔的东西，就算在别人看来只是脑洞，也是绝好的缓冲剂（我个人比较肤浅不大喜欢悲剧）。能把字面上悲剧的题目圆成圆满，太太的文笔其实相当好了。</p>
+<p><code>2018-05-14 15:33:16</code> 【qi_an】 回复【我佛慈悲渡不了憨批】 啊抱歉这么晚才回复您，我漏了您的这条评论orzzz 这个系列您能喜欢就好qwq！确实，生活太难，读一些或者写一些美好的故事对两方而言也是放松的事情hhh就是有些害怕自己的故事会不会太千篇一律x 关于悲剧题目转化成he，其实抛开它讲个差不多点的故事还是很简单的x最后谢谢gn一直以来的喜欢和认真的评论qwq！</p>
+<p><code>2018-05-15 04:06:27</code> 【我佛慈悲渡不了憨批】 回复【qi_an】 哈哈哈哈没关系(=^▽^=) 千篇一律真的没有，至少在我看来我不会把上一个故事的风格带入下一个故事啊，太太加油(ง •̀_•́)ง</p>
+
+    </div>
+
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E6%B6%A6%E6%99%BA/" rel="tag"># 润智</a>
+              <a href="/tags/%E7%B2%BE%E7%A5%9E%E6%B1%A1%E6%9F%93%E4%B8%89%E5%8D%81%E9%A2%98/" rel="tag"># 精神污染三十题</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/1d7a8b0f_128d1915" rel="prev" title="【润智】枷锁">
+      <i class="fa fa-chevron-left"></i> 【润智】枷锁
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/1d7a8b0f_12b9d70d" rel="next" title="【润智】无人生还">
+      【润智】无人生还 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+
+
+          </div>
+          
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC81MjA3Ny8yODU1OA=="></div>
+  </div>
+  
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let { activeClass } = CONFIG.comments;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="想变成一条鱼"
+      src="/images/bloghead.jpg">
+  <p class="site-author-name" itemprop="name">想变成一条鱼</p>
+  <div class="site-description" itemprop="description">想变成一条鱼的永久分矿</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">121</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">20</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/SilencerSato" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;SilencerSato" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:sqsq94@sina.com" title="E-Mail → mailto:sqsq94@sina.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://weibo.com/u/1861343134" title="Weibo → https:&#x2F;&#x2F;weibo.com&#x2F;u&#x2F;1861343134" rel="noopener" target="_blank"><i class="fab fa-weibo fa-fw"></i>Weibo</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://twitter.com/silencer_sato" title="Twitter → https:&#x2F;&#x2F;twitter.com&#x2F;silencer_sato" rel="noopener" target="_blank"><i class="fab fa-twitter fa-fw"></i>Twitter</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://instagram.com/silencer_satoya" title="Instagram → https:&#x2F;&#x2F;instagram.com&#x2F;silencer_satoya" rel="noopener" target="_blank"><i class="fab fa-instagram fa-fw"></i>Instagram</a>
+      </span>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title"><i class="fa fa-link fa-fw"></i>
+      相关链接
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://www.lofter.com/blog/fishingsilencer" title="https:&#x2F;&#x2F;www.lofter.com&#x2F;blog&#x2F;fishingsilencer" rel="noopener" target="_blank">Lofter</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://fishersilencer.wordpress.com/" title="https:&#x2F;&#x2F;fishersilencer.wordpress.com" rel="noopener" target="_blank">WordPress</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://archiveofourown.org/users/silencer_sato" title="https:&#x2F;&#x2F;archiveofourown.org&#x2F;users&#x2F;silencer_sato" rel="noopener" target="_blank">AO3</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="http://hellowland.com//u36070" title="http:&#x2F;&#x2F;hellowland.com&#x2F;&#x2F;u36070" rel="noopener" target="_blank">HelloWorld</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.rearyard.com/self/29330/info" title="https:&#x2F;&#x2F;www.rearyard.com&#x2F;self&#x2F;29330&#x2F;info" rel="noopener" target="_blank">rearyard</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+
+        
+
+<div class="copyright">
+  
+  &copy; 2020-12 – 
+  <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">想变成一条鱼</span>
+</div>
+  <div class="powered-by">由 <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Gemini</a> 强力驱动
+  </div>
+
+
+    <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+    <span id="busuanzi_container_site_pv">总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+    <span class="post-meta-divider">|</span>
+    <span id="busuanzi_container_site_uv">总访客数<span id="busuanzi_value_site_uv"></span>人</span>
+    <span class="post-meta-divider">|</span>
+<!-- 不蒜子计数初始值纠正 -->
+<script>
+$(document).ready(function() {
+
+    var int = setInterval(fixCount, 50);  // 50ms周期检测函数
+    var countOffset = 20000;  // 初始化首次数据
+
+    function fixCount() {            
+       if (document.getElementById("busuanzi_container_site_pv").style.display != "none")
+        {
+            $("#busuanzi_value_site_pv").html(parseInt($("#busuanzi_value_site_pv").html()) + countOffset); 
+            clearInterval(int);
+        }                  
+        if ($("#busuanzi_container_site_pv").css("display") != "none")
+        {
+            $("#busuanzi_value_site_uv").html(parseInt($("#busuanzi_value_site_uv").html()) + countOffset); // 加上初始数据 
+            clearInterval(int); // 停止检测
+        }  
+    }
+       	
+});
+</script> 
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="总访客量">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="总访问量">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  
+  <script color='0,0,255' opacity='0.5' zIndex='-1' count='99' src="/lib/canvas-nest/canvas-nest.min.js"></script>
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/pisces.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+<script>
+NexT.utils.loadComments(document.querySelector('#lv-container'), () => {
+  window.livereOptions = {
+    refer: location.pathname.replace(CONFIG.root, '').replace('index.html', '')
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
+});
+</script>
+
+</body>
+</html>
