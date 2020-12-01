@@ -19,13 +19,13 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+    var CONFIG = {"hostname":"fishingsilencer.xyz","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
   </script>
 
   <meta name="description" content="warning：  &gt;&amp;nbsp;来源：精神污染三十题  &gt;&amp;nbsp;梗源：甜老师&amp;nbsp;@成濑夏生&amp;nbsp;的图：深榎-世初雪名皇木佐翔太的啾咪梗  &gt;&amp;nbsp;锁匠性格大体和电视剧一样，但出于个人喜好加了一些书里的细节，见谅  &gt;&amp;nbsp;语废写不出案件细节，总之目的是谈恋爱，不是案件（ntm）  &gt; ooc  &gt;&amp;nbsp;顺手丢个&amp;nbsp;">
 <meta property="og:type" content="article">
 <meta property="og:title" content="【润智】【深榎】谎言">
-<meta property="og:url" content="http://example.com/1d7a8b0f_123f6f78">
+<meta property="og:url" content="http://fishingsilencer.xyz/1d7a8b0f_123f6f78">
 <meta property="og:site_name" content="渔船停泊处">
 <meta property="og:description" content="warning：  &gt;&amp;nbsp;来源：精神污染三十题  &gt;&amp;nbsp;梗源：甜老师&amp;nbsp;@成濑夏生&amp;nbsp;的图：深榎-世初雪名皇木佐翔太的啾咪梗  &gt;&amp;nbsp;锁匠性格大体和电视剧一样，但出于个人喜好加了一些书里的细节，见谅  &gt;&amp;nbsp;语废写不出案件细节，总之目的是谈恋爱，不是案件（ntm）  &gt; ooc  &gt;&amp;nbsp;顺手丢个&amp;nbsp;">
 <meta property="og:locale" content="zh_CN">
@@ -37,7 +37,7 @@
 <meta property="article:tag" content="深榎">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="http://example.com/1d7a8b0f_123f6f78">
+<link rel="canonical" href="http://fishingsilencer.xyz/1d7a8b0f_123f6f78">
 
 
 <script id="page-configurations">
@@ -199,7 +199,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://example.com/1d7a8b0f_123f6f78">
+    <link itemprop="mainEntityOfPage" href="http://fishingsilencer.xyz/1d7a8b0f_123f6f78">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/bloghead.jpg">

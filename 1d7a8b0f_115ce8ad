@@ -19,13 +19,13 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+    var CONFIG = {"hostname":"fishingsilencer.xyz","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
   </script>
 
   <meta name="description" content="warning：  &gt;&amp;nbsp;杀手里昂梗，慢热  &gt;&amp;nbsp;年龄操作  &gt; ooc  &gt;&amp;nbsp;前章走&amp;nbsp;归档    --------------------------------    “正好剩下最后一间有一张大床的房间，”老板娘看起来似乎很不爽，“年轻人，开房要趁早，就算是公路旅行也得把住的地方安顿好啊。”  “呃……我们其实不是在公路旅行……不过">
 <meta property="og:type" content="article">
 <meta property="og:title" content="【润智润】鹰（14）">
-<meta property="og:url" content="http://example.com/1d7a8b0f_115ce8ad">
+<meta property="og:url" content="http://fishingsilencer.xyz/1d7a8b0f_115ce8ad">
 <meta property="og:site_name" content="渔船停泊处">
 <meta property="og:description" content="warning：  &gt;&amp;nbsp;杀手里昂梗，慢热  &gt;&amp;nbsp;年龄操作  &gt; ooc  &gt;&amp;nbsp;前章走&amp;nbsp;归档    --------------------------------    “正好剩下最后一间有一张大床的房间，”老板娘看起来似乎很不爽，“年轻人，开房要趁早，就算是公路旅行也得把住的地方安顿好啊。”  “呃……我们其实不是在公路旅行……不过">
 <meta property="og:locale" content="zh_CN">
@@ -37,7 +37,7 @@
 <meta property="article:tag" content="Eag">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="http://example.com/1d7a8b0f_115ce8ad">
+<link rel="canonical" href="http://fishingsilencer.xyz/1d7a8b0f_115ce8ad">
 
 
 <script id="page-configurations">
@@ -199,7 +199,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://example.com/1d7a8b0f_115ce8ad">
+    <link itemprop="mainEntityOfPage" href="http://fishingsilencer.xyz/1d7a8b0f_115ce8ad">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/bloghead.jpg">

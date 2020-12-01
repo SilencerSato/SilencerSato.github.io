@@ -19,13 +19,13 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
+    var CONFIG = {"hostname":"fishingsilencer.xyz","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
   </script>
 
   <meta name="description" content="warning：  &gt;&amp;nbsp;尝试性突发脑洞，本体是个短篇，先发点看看能不能顺下去，能就发不能就弃了（啥  &gt;&amp;nbsp;设定一时半会儿说不清，总之是个神奇的故事（  &gt; ooc    ------------------------------------      大野智是一个时间旅行者。  说是旅行者，其实他也不想窝在一个冰冷的飞行器里进行着一次又一次的时间传送，很累，">
 <meta property="og:type" content="article">
 <meta property="og:title" content="【润智】Crooking（0）">
-<meta property="og:url" content="http://example.com/1d7a8b0f_10c6a7e9">
+<meta property="og:url" content="http://fishingsilencer.xyz/1d7a8b0f_10c6a7e9">
 <meta property="og:site_name" content="渔船停泊处">
 <meta property="og:description" content="warning：  &gt;&amp;nbsp;尝试性突发脑洞，本体是个短篇，先发点看看能不能顺下去，能就发不能就弃了（啥  &gt;&amp;nbsp;设定一时半会儿说不清，总之是个神奇的故事（  &gt; ooc    ------------------------------------      大野智是一个时间旅行者。  说是旅行者，其实他也不想窝在一个冰冷的飞行器里进行着一次又一次的时间传送，很累，">
 <meta property="og:locale" content="zh_CN">
@@ -35,7 +35,7 @@
 <meta property="article:tag" content="润智">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="http://example.com/1d7a8b0f_10c6a7e9">
+<link rel="canonical" href="http://fishingsilencer.xyz/1d7a8b0f_10c6a7e9">
 
 
 <script id="page-configurations">
@@ -197,7 +197,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://example.com/1d7a8b0f_10c6a7e9">
+    <link itemprop="mainEntityOfPage" href="http://fishingsilencer.xyz/1d7a8b0f_10c6a7e9">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/bloghead.jpg">
